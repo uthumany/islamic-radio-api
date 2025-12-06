@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "version": "1.0.0",
+  "timestamp": "2025-12-06T16:15:00Z",
+  "total": 4,
+  "stations": [
+    {
+      "id": 1,
+      "name": "Holy Quran Radio Cairo",
+      "nameAr": "إذاعة القرآن الكريم من القاهرة",
+      "description": "Live Quran recitations from Cairo, Egypt",
+      "country": "Egypt",
+      "language": "Arabic",
+      "genre": ["Quran", "Islamic", "Religious"],
+      "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "streamFormat": "mp3",
+      "bitrate": "128",
+      "website": "https://www.holyquranradio.com",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Quran Radio Tafsir",
+      "nameAr": "إذاعة القرآن الكريم - التفسير",
+      "description": "Quran recitations with tafsir (interpretation)",
+      "country": "Multiple",
+      "language": "Arabic",
+      "genre": ["Quran", "Tafsir", "Islamic", "Religious Talk"],
+      "streamUrl": "http://66.45.232.131:9992",
+      "streamFormat": "unknown",
+      "website": "https://quranradiotafsir.com",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Islam2Day Radio Channel 1",
+      "nameAr": "إذاعة إسلام توداي - القناة الأولى",
+      "description": "Quran recitations and Islamic content",
+      "country": "Egypt",
+      "language": "Arabic",
+      "genre": ["Quran", "Islamic", "Recitations"],
+      "streamUrl": "http://islam2day.tv:3000",
+      "streamFormat": "unknown",
+      "website": "http://www.islam2day.tv",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 4,
+      "name": "VosCast Station",
+      "description": "Islamic audio content via VosCast platform",
+      "country": "Multiple",
+      "language": "Arabic",
+      "genre": ["Islamic", "Audio"],
+      "streamUrl": "http://station.voscast.com/5a1b3c82d8b3f/",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    }
+  ],
+  "metadata": {
+    "apiVersion": "1.0.0",
+    "documentation": "https://github.com/radio-api/docs",
+    "updateFrequency": "weekly",
+    "license": "CC0-1.0"
+  }
+}
