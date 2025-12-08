@@ -1,8 +1,8 @@
 {
   "status": "success",
-  "version": "1.0.0",
-  "timestamp": "2025-12-06T16:15:00Z",
-  "total": 4,
+  "version": "2.0.0",
+  "timestamp": "2025-12-08T15:53:51.731059Z",
+  "total": 182,
   "stations": [
     {
       "id": 1,
@@ -11,7 +11,11 @@
       "description": "Live Quran recitations from Cairo, Egypt",
       "country": "Egypt",
       "language": "Arabic",
-      "genre": ["Quran", "Islamic", "Religious"],
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Religious"
+      ],
       "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv",
       "streamFormat": "mp3",
       "bitrate": "128",
@@ -26,7 +30,12 @@
       "description": "Quran recitations with tafsir (interpretation)",
       "country": "Multiple",
       "language": "Arabic",
-      "genre": ["Quran", "Tafsir", "Islamic", "Religious Talk"],
+      "genre": [
+        "Quran",
+        "Tafsir",
+        "Islamic",
+        "Religious Talk"
+      ],
       "streamUrl": "http://66.45.232.131:9992",
       "streamFormat": "unknown",
       "website": "https://quranradiotafsir.com",
@@ -40,7 +49,11 @@
       "description": "Quran recitations and Islamic content",
       "country": "Egypt",
       "language": "Arabic",
-      "genre": ["Quran", "Islamic", "Recitations"],
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Recitations"
+      ],
       "streamUrl": "http://islam2day.tv:3000",
       "streamFormat": "unknown",
       "website": "http://www.islam2day.tv",
@@ -53,17 +66,2875 @@
       "description": "Islamic audio content via VosCast platform",
       "country": "Multiple",
       "language": "Arabic",
-      "genre": ["Islamic", "Audio"],
+      "genre": [
+        "Islamic",
+        "Audio"
+      ],
       "streamUrl": "http://station.voscast.com/5a1b3c82d8b3f/",
       "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 5,
+      "name": "إذاعة Ibrahim Al-Akhdar",
+      "nameAr": "إذاعة إبراهيم الأخضر",
+      "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 6,
+      "name": "إذاعة Abu Bakr Al-Shatri",
+      "nameAr": "إذاعة شيخ أبو بكر الشاطري",
+      "streamUrl": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 7,
+      "name": "إذاعة Ahmad Al-Ajmi",
+      "nameAr": "إذاعة أحمد العجمي",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_alajmy",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 8,
+      "name": "إذاعة Ahmad Al-Hawashi",
+      "nameAr": "إذاعة أحمد الحواشي",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_alhawashi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 9,
+      "name": "إذاعة Ahmad Saber",
+      "nameAr": "إذاعة أحمد صابر",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_saber",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Radio أحمد نعينع",
+      "nameAr": "إذاعة أحمد نعينع",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_nauina",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Radio أكرم العلاقمي",
+      "nameAr": "إذاعة أكرم العلاقمي",
+      "streamUrl": "https://backup.qurango.net/radio/akram_alalaqmi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Radio إدريس أبكر",
+      "nameAr": "إذاعة إدريس أبكر",
+      "streamUrl": "https://backup.qurango.net/radio/idrees_abkr",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 13,
+      "name": "Radio الزين محمد أحمد",
+      "nameAr": "إذاعة الزين محمد أحمد",
+      "streamUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Radio القارئ ياسين",
+      "nameAr": "إذاعة القارئ ياسين",
+      "streamUrl": "https://backup.qurango.net/radio/alqaria_yassen",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Radio العيون الكوشي",
+      "nameAr": "إذاعة العيون الكوشي",
+      "streamUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 16,
+      "name": "Radio توفيق الصايغ",
+      "nameAr": "إذاعة توفيق الصايغ",
+      "streamUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 17,
+      "name": "Radio جمال شاكر عبدالله",
+      "nameAr": "إذاعة جمال شاكر عبدالله",
+      "streamUrl": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 18,
+      "name": "Radio خالد القحطاني",
+      "nameAr": "إذاعة خالد القحطاني",
+      "streamUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 19,
+      "name": "Radio خالد عبدالكافي",
+      "nameAr": "إذاعة خالد عبدالكافي",
+      "streamUrl": "https://backup.qurango.net/radio/khalid_abdulkafi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 20,
+      "name": "Radio خليفة الطنيجي",
+      "nameAr": "إذاعة خليفة الطنيجي",
+      "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 21,
+      "name": "Radio سعد الغامدي",
+      "nameAr": "إذاعة سعد الغامدي",
+      "streamUrl": "https://backup.qurango.net/radio/saad_alghamdi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 22,
+      "name": "إذاعة Saud Al-Shuraim",
+      "nameAr": "إذاعة سعود الشريم",
+      "streamUrl": "https://backup.qurango.net/radio/saud_alshuraim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 23,
+      "name": "Radio سهل ياسين",
+      "nameAr": "إذاعة سهل ياسين",
+      "streamUrl": "https://backup.qurango.net/radio/sahl_yassin",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 24,
+      "name": "Radio زكي داغستاني",
+      "nameAr": "إذاعة زكي داغستاني",
+      "streamUrl": "https://backup.qurango.net/radio/zaki_daghistani",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 25,
+      "name": "Radio سيد رمضان",
+      "nameAr": "إذاعة سيد رمضان",
+      "streamUrl": "https://backup.qurango.net/radio/sayeed_ramadan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 26,
+      "name": "Radio شيرزاد عبدالرحمن طاهر",
+      "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
+      "streamUrl": "https://backup.qurango.net/radio/shirazad_taher",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 27,
+      "name": "Radio صابر عبدالحكم",
+      "nameAr": "إذاعة صابر عبدالحكم",
+      "streamUrl": "https://backup.qurango.net/radio/saber_abdulhakm",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 28,
+      "name": "Radio صلاح البدير",
+      "nameAr": "إذاعة صلاح البدير",
+      "streamUrl": "https://backup.qurango.net/radio/salah_albudair",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 29,
+      "name": "Radio صلاح الهاشم",
+      "nameAr": "إذاعة صلاح الهاشم",
+      "streamUrl": "https://backup.qurango.net/radio/salah_alhashim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 30,
+      "name": "Radio صلاح بو خاطر",
+      "nameAr": "إذاعة صلاح بو خاطر",
+      "streamUrl": "https://backup.qurango.net/radio/slaah_bukhatir",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 31,
+      "name": "Radio عادل ريان",
+      "nameAr": "إذاعة عادل ريان",
+      "streamUrl": "https://backup.qurango.net/radio/adel_ryyan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 32,
+      "name": "Radio عبدالبارئ الثبيتي",
+      "nameAr": "إذاعة عبدالبارئ الثبيتي",
+      "streamUrl": "https://backup.qurango.net/radio/abdelbari_altoubayti",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 33,
+      "name": "Radio عبدالبارئ محمد",
+      "nameAr": "إذاعة عبدالبارئ محمد",
+      "streamUrl": "https://backup.qurango.net/radio/abdulbari_mohammad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 34,
+      "name": "Radio عبدالباسط عبدالصمد",
+      "nameAr": "إذاعة عبدالباسط عبدالصمد",
+      "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 35,
+      "name": "Radio عبدالباسط عبدالصمد",
+      "nameAr": "إذاعة عبدالباسط عبدالصمد",
+      "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 36,
+      "name": "Radio عبدالباسط عبدالصمد",
+      "nameAr": "إذاعة عبدالباسط عبدالصمد",
+      "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 37,
+      "name": "Radio عبدالرحمن السديس",
+      "nameAr": "إذاعة عبدالرحمن السديس",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 38,
+      "name": "Radio عبدالعزيز الأحمد",
+      "nameAr": "إذاعة عبدالعزيز الأحمد",
+      "streamUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 39,
+      "name": "Radio عبدالله المطرود",
+      "nameAr": "إذاعة عبدالله المطرود",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 40,
+      "name": "Radio عبدالله بصفر",
+      "nameAr": "إذاعة عبدالله بصفر",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_basfer",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 41,
+      "name": "Radio عبدالله خياط",
+      "nameAr": "إذاعة عبدالله خياط",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_khayyat",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 42,
+      "name": "Radio عبدالله عواد الجهني",
+      "nameAr": "إذاعة عبدالله عواد الجهني",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_aljohany",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 43,
+      "name": "Radio عبدالرشيد صوفي",
+      "nameAr": "إذاعة عبدالرشيد صوفي",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 44,
+      "name": "Radio عبدالرشيد صوفي",
+      "nameAr": "إذاعة عبدالرشيد صوفي",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 45,
+      "name": "Radio عبدالمحسن الحارثي",
+      "nameAr": "إذاعة عبدالمحسن الحارثي",
+      "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 46,
+      "name": "Radio عبدالمحسن القاسم",
+      "nameAr": "إذاعة عبدالمحسن القاسم",
+      "streamUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 47,
+      "name": "Radio عبدالمحسن العبيكان",
+      "nameAr": "إذاعة عبدالمحسن العبيكان",
+      "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 48,
+      "name": "Radio عبدالهادي أحمد كناكري",
+      "nameAr": "إذاعة عبدالهادي أحمد كناكري",
+      "streamUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 49,
+      "name": "Radio عبدالودود حنيف",
+      "nameAr": "إذاعة عبدالودود حنيف",
+      "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 50,
+      "name": "Radio علي بن عبدالرحمن الحذيفي",
+      "nameAr": "إذاعة علي بن عبدالرحمن الحذيفي",
+      "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 51,
+      "name": "إذاعة Ali Al-Hudhaifi",
+      "nameAr": "إذاعة علي الحذيفي",
+      "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 52,
+      "name": "Radio علي جابر",
+      "nameAr": "إذاعة علي جابر",
+      "streamUrl": "https://backup.qurango.net/radio/ali_jaber",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 53,
+      "name": "Radio علي حجاج السويسي",
+      "nameAr": "إذاعة علي حجاج السويسي",
+      "streamUrl": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 54,
+      "name": "Radio عماد زهير حافظ",
+      "nameAr": "إذاعة عماد زهير حافظ",
+      "streamUrl": "https://backup.qurango.net/radio/emad_hafez",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 55,
+      "name": "Radio عمر القزابري",
+      "nameAr": "إذاعة عمر القزابري",
+      "streamUrl": "https://backup.qurango.net/radio/omar_alqazabri",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 56,
+      "name": "Radio فارس عباد",
+      "nameAr": "إذاعة فارس عباد",
+      "streamUrl": "https://backup.qurango.net/radio/fares_abbad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 57,
+      "name": "إذاعة Nasser Al-Qatami",
+      "nameAr": "إذاعة ناصر القطامي",
+      "streamUrl": "https://backup.qurango.net/radio/nasser_alqatami",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 58,
+      "name": "Radio نبيل الرفاعي",
+      "nameAr": "إذاعة نبيل الرفاعي",
+      "streamUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 59,
+      "name": "Radio نعمة الحسان",
+      "nameAr": "إذاعة نعمة الحسان",
+      "streamUrl": "https://backup.qurango.net/radio/neamah_alhassan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 60,
+      "name": "Radio هاني الرفاعي",
+      "nameAr": "إذاعة هاني الرفاعي",
+      "streamUrl": "https://backup.qurango.net/radio/hani_arrifai",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 61,
+      "name": "Radio وليد النائحي",
+      "nameAr": "إذاعة وليد النائحي",
+      "streamUrl": "https://backup.qurango.net/radio/waleed_alnaehi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 62,
+      "name": "إذاعة Yasser Al-Dossari",
+      "nameAr": "إذاعة ياسر الدوسري",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_aldosari",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 63,
+      "name": "Radio ياسر القرشي",
+      "nameAr": "إذاعة ياسر القرشي",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_alqurashi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 64,
+      "name": "Radio ياسر المزروعي",
+      "nameAr": "إذاعة ياسر المزروعي",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 65,
+      "name": "Radio يحيى حوا",
+      "nameAr": "إذاعة يحيى حوا",
+      "streamUrl": "https://backup.qurango.net/radio/yahya_hawwa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 66,
+      "name": "Radio يوسف الشويعي",
+      "nameAr": "إذاعة يوسف الشويعي",
+      "streamUrl": "https://backup.qurango.net/radio/yousef_alshoaey",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 67,
+      "name": "إذاعة Maher Al-Muaiqly",
+      "nameAr": "إذاعة ماهر المعيقلي",
+      "streamUrl": "https://backup.qurango.net/radio/maher",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 68,
+      "name": "Radio محمد الطبلاوي",
+      "nameAr": "إذاعة محمد الطبلاوي",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_altablaway",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 69,
+      "name": "Radio محمد اللحيدان",
+      "nameAr": "إذاعة محمد اللحيدان",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 70,
+      "name": "إذاعة Muhammad Ayyub",
+      "nameAr": "إذاعة محمد أيوب",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_ayyub",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 71,
+      "name": "Radio محمد صالح عالم شاه",
+      "nameAr": "إذاعة محمد صالح عالم شاه",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 72,
+      "name": "إذاعة Muhammad Jibreel",
+      "nameAr": "إذاعة محمد جبريل",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_jibreel",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 73,
+      "name": "Radio محمد صديق المنشاوي",
+      "nameAr": "إذاعة محمد صديق المنشاوي",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 74,
+      "name": "Radio محمد صديق المنشاوي",
+      "nameAr": "إذاعة محمد صديق المنشاوي",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 75,
+      "name": "Radio محمد عبدالكريم",
+      "nameAr": "إذاعة محمد عبدالكريم",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 76,
+      "name": "Radio محمد عبدالحكيم سعيد العبدالله",
+      "nameAr": "إذاعة محمد عبدالحكيم سعيد العبدالله",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 77,
+      "name": "Radio محمد عبدالحكيم سعيد العبدالله",
+      "nameAr": "إذاعة محمد عبدالحكيم سعيد العبدالله",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 78,
+      "name": "إذاعة Mahmoud Khalil Al-Husary",
+      "nameAr": "إذاعة محمود خليل الحصري",
+      "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 79,
+      "name": "إذاعة Mahmoud Khalil Al-Husary",
+      "nameAr": "إذاعة محمود خليل الحصري",
+      "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 80,
+      "name": "إذاعة Mahmoud Khalil Al-Husary",
+      "nameAr": "إذاعة محمود خليل الحصري",
+      "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 81,
+      "name": "إذاعة Mahmoud Ali Al-Banna",
+      "nameAr": "إذاعة محمود علي البنا",
+      "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 82,
+      "name": "إذاعة Mahmoud Ali Al-Banna",
+      "nameAr": "إذاعة محمود علي البنا",
+      "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 83,
+      "name": "Radio مشاري العفاسي",
+      "nameAr": "إذاعة مشاري العفاسي",
+      "streamUrl": "https://backup.qurango.net/radio/mishary_alafasi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 84,
+      "name": "Radio مصطفى إسماعيل",
+      "nameAr": "إذاعة مصطفى إسماعيل",
+      "streamUrl": "https://backup.qurango.net/radio/mustafa_ismail",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 85,
+      "name": "Radio مصطفى اللاهوني",
+      "nameAr": "إذاعة مصطفى اللاهوني",
+      "streamUrl": "https://backup.qurango.net/radio/mustafa_allahoni",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 86,
+      "name": "Radio مصطفى رعد العزاوي",
+      "nameAr": "إذاعة مصطفى رعد العزاوي",
+      "streamUrl": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 87,
+      "name": "Radio مفتاح السلطني",
+      "nameAr": "إذاعة مفتاح السلطني",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 88,
+      "name": "Radio ماهر شخاشيرو",
+      "nameAr": "إذاعة ماهر شخاشيرو",
+      "streamUrl": "https://backup.qurango.net/radio/maher_shakhashero",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 89,
+      "name": "Radio محمود الشيمي",
+      "nameAr": "إذاعة محمود الشيمي",
+      "streamUrl": "https://backup.qurango.net/radio/mahmood_alsheimy",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 90,
+      "name": "Radio خالد المهنا",
+      "nameAr": "إذاعة خالد المهنا",
+      "streamUrl": "https://backup.qurango.net/radio/khalid_almohana",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 91,
+      "name": "Radio عادل الكلباني",
+      "nameAr": "إذاعة عادل الكلباني",
+      "streamUrl": "https://backup.qurango.net/radio/adel_alkhalbany",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 92,
+      "name": "Radio موسى بلال",
+      "nameAr": "إذاعة موسى بلال",
+      "streamUrl": "https://backup.qurango.net/radio/mousa_bilal",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 93,
+      "name": "Radio حاتم فريد الواعر",
+      "nameAr": "إذاعة حاتم فريد الواعر",
+      "streamUrl": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 94,
+      "name": "إذاعة Mahmoud Al-Rifai",
+      "nameAr": "إذاعة محمود الرفاعي",
+      "streamUrl": "https://backup.qurango.net/radio/mahmood_al_rifai",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 95,
+      "name": "Radio ابراهيم الدوسري",
+      "nameAr": "إذاعة ابراهيم الدوسري",
+      "streamUrl": "https://backup.qurango.net/radio/ibrahim_aldosari",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 96,
+      "name": "Radio مفتاح السلطني",
+      "nameAr": "إذاعة مفتاح السلطني",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 97,
+      "name": "Radio جمعان العصيمي",
+      "nameAr": "إذاعة جمعان العصيمي",
+      "streamUrl": "https://backup.qurango.net/radio/jamaan_alosaimi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 98,
+      "name": "Radio مفتاح السلطني",
+      "nameAr": "إذاعة مفتاح السلطني",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 99,
+      "name": "Radio يوسف بن نوح أحمد",
+      "nameAr": "إذاعة يوسف بن نوح أحمد",
+      "streamUrl": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 100,
+      "name": "Radio مفتاح السلطني",
+      "nameAr": "إذاعة مفتاح السلطني",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 101,
+      "name": "Radio معيض الحارثي",
+      "nameAr": "إذاعة معيض الحارثي",
+      "streamUrl": "https://backup.qurango.net/radio/moeedh_alharthi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Radio محمد رشاد الشريف",
+      "nameAr": "إذاعة محمد رشاد الشريف",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 103,
+      "name": "Radio أحمد خضر الطرابلسي",
+      "nameAr": "إذاعة أحمد خضر الطرابلسي",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 104,
+      "name": "Radio أحمد الطرابلسي",
+      "nameAr": "إذاعة أحمد الطرابلسي",
+      "streamUrl": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 105,
+      "name": "Radio عبدالله الكندري",
+      "nameAr": "إذاعة عبدالله الكندري",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_alkandari",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 106,
+      "name": "Radio أحمد عامر",
+      "nameAr": "إذاعة أحمد عامر",
+      "streamUrl": "https://backup.qurango.net/radio/ahmed_amer",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 107,
+      "name": "Radio محمد عثمان خان",
+      "nameAr": "إذاعة محمد عثمان خان",
+      "streamUrl": "https://backup.qurango.net/radio/mohammed_osman_khan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 108,
+      "name": "Radio الدوكالي محمد العالم",
+      "nameAr": "إذاعة الدوكالي محمد العالم",
+      "streamUrl": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109,
+      "name": "Radio محمد عبدالكريم",
+      "nameAr": "إذاعة محمد عبدالكريم",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 110,
+      "name": "Radio الفاتح محمد الزبير",
+      "nameAr": "إذاعة الفاتح محمد الزبير",
+      "streamUrl": "https://backup.qurango.net/radio/alfateh_alzubair",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 111,
+      "name": "Radio طارق عبدالغني دعوب",
+      "nameAr": "إذاعة طارق عبدالغني دعوب",
+      "streamUrl": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 112,
+      "name": "---الRadio العامة - اذاعة متنوعة لمختلف القراء-",
+      "nameAr": "---الإذاعة العامة - اذاعة متنوعة لمختلف القراء-",
+      "streamUrl": "https://backup.qurango.net/radio/mix",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 113,
+      "name": "إذاعة -Humble Recitations-",
+      "nameAr": "إذاعة -تلاوات خاشعة-",
+      "streamUrl": "https://backup.qurango.net/radio/salma",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 114,
+      "name": "Radio تكبيرات العيد",
+      "nameAr": "إذاعة تكبيرات العيد",
+      "streamUrl": "https://backup.qurango.net/radio/eid",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 115,
+      "name": "Radio عبدالرحمن الماجد",
+      "nameAr": "إذاعة عبدالرحمن الماجد",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrahman_almajed",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 117,
+      "name": "Radio الفتاوى العامة",
+      "nameAr": "إذاعة الفتاوى العامة",
+      "streamUrl": "https://backup.qurango.net/radio/fatwa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 118,
+      "name": "Radio الرقية الشرعية",
+      "nameAr": "إذاعة الرقية الشرعية",
+      "streamUrl": "https://backup.qurango.net/radio/roqiah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 119,
+      "name": "Radio ---سورة البقرة - لعدد من القراء---",
+      "nameAr": "إذاعة ---سورة البقرة - لعدد من القراء---",
+      "streamUrl": "https://backup.qurango.net/radio/albaqarah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 120,
+      "name": "Radio --تفسير القران الكريم--",
+      "nameAr": "إذاعة --تفسير القران الكريم--",
+      "streamUrl": "https://backup.qurango.net/radio/tafseer",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 121,
+      "name": "إذاعة Khalid Al-Jalil",
+      "nameAr": "إذاعة خالد الجليل",
+      "streamUrl": "https://backup.qurango.net/radio/khalid_aljileel",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 122,
+      "name": "Radio ناصر الماجد",
+      "nameAr": "إذاعة ناصر الماجد",
+      "streamUrl": "https://backup.qurango.net/radio/nasser_almajed",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 123,
+      "name": "Radio هيثم الجدعاني",
+      "nameAr": "إذاعة هيثم الجدعاني",
+      "streamUrl": "https://backup.qurango.net/radio/hitham_aljadani",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 124,
+      "name": "Radio أحمد خليل شاهين",
+      "nameAr": "إذاعة أحمد خليل شاهين",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_shaheen",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 125,
+      "name": "Radio عبدالله الموسى",
+      "nameAr": "إذاعة عبدالله الموسى",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 126,
+      "name": "Radio عبدالله الخلف",
+      "nameAr": "إذاعة عبدالله الخلف",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 127,
+      "name": "---تراتيل قصيرة متميزة---",
+      "nameAr": "---تراتيل قصيرة متميزة---",
+      "streamUrl": "https://backup.qurango.net/radio/tarateel",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 143,
+      "name": "Radio ماجد الزامل",
+      "nameAr": "إذاعة ماجد الزامل",
+      "streamUrl": "https://backup.qurango.net/radio/majed_alzamel",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 221,
+      "name": "Radio بندر بليلة",
+      "nameAr": "إذاعة بندر بليلة",
+      "streamUrl": "https://backup.qurango.net/radio/bandar_balilah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 252,
+      "name": "Radio ناصر العصفور",
+      "nameAr": "إذاعة ناصر العصفور",
+      "streamUrl": "https://backup.qurango.net/radio/nasser_alosfor",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 265,
+      "name": "إذاعة Muhammad Ayyub - قراءة متميزة-",
+      "nameAr": "إذاعة محمد أيوب - قراءة متميزة-",
+      "streamUrl": "https://backup.qurango.net/radio/ayyoub2",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 269,
+      "name": "Radio أحمد ديبان",
+      "nameAr": "إذاعة أحمد ديبان",
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_deban",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 278,
+      "name": "أذاعة محمد أبوسنينة",
+      "nameAr": "أذاعة محمد أبوسنينة",
+      "streamUrl": "https://backup.qurango.net/radio/sneineh",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 279,
+      "name": "Radio محمد الأمين قنيوة",
+      "nameAr": "إذاعة محمد الأمين قنيوة",
+      "streamUrl": "https://backup.qurango.net/radio/qeniwa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 291,
+      "name": "Radio عبدالرحمن الشحات",
+      "nameAr": "إذاعة عبدالرحمن الشحات",
+      "streamUrl": "https://backup.qurango.net/radio/a_alshahhat",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 311,
+      "name": "عبدالعزيز سحيم",
+      "nameAr": "عبدالعزيز سحيم",
+      "streamUrl": "https://backup.qurango.net/radio/a_sheim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10906,
+      "name": "Radio آيات السكينة",
+      "nameAr": "إذاعة آيات السكينة",
+      "streamUrl": "https://backup.qurango.net/radio/sakeenah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10907,
+      "name": "-Radio صور من حياة الصحابة رضوان الله عليهم-",
+      "nameAr": "-إذاعة صور من حياة الصحابة رضوان الله عليهم-",
+      "streamUrl": "https://backup.qurango.net/radio/sahabah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10908,
+      "name": "-المختصر في Tafsir of the Noble Quran-",
+      "nameAr": "-المختصر في تفسير القرآن الكريم-",
+      "streamUrl": "https://backup.qurango.net/radio/mukhtasartafsir",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10910,
+      "name": "أذكار الصباح",
+      "nameAr": "أذكار الصباح",
+      "streamUrl": "https://backup.qurango.net/radio/athkar_sabah",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 10911,
+      "name": "أذكار المساء",
+      "nameAr": "أذكار المساء",
+      "streamUrl": "https://backup.qurango.net/radio/athkar_masa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 21118,
+      "name": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+      "nameAr": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+      "streamUrl": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 21119,
+      "name": "Abridged في السيرة النبوية",
+      "nameAr": "المختصر في السيرة النبوية",
+      "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 21120,
+      "name": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
+      "nameAr": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
+      "streamUrl": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 21121,
+      "name": "Tafsir القران الكريم-الخلاصة من Tafsir الطبري",
+      "nameAr": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
+      "streamUrl": "https://backup.qurango.net/radio/tabri",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109042,
+      "name": "Radio صالح الهبدان",
+      "nameAr": "إذاعة صالح الهبدان",
+      "streamUrl": "https://backup.qurango.net/radio/saleh_alhabdan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109043,
+      "name": "Translation of Quran Meanings باللغة الأوردية - القارئ عبدالباسط عبدالصمد",
+      "nameAr": "ترجمة معاني القرآن باللغة الأوردية - القارئ عبدالباسط عبدالصمد",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109044,
+      "name": "Translation of Quran Meanings باللغة الأسبانية - القارئ مشاري العفاسي",
+      "nameAr": "ترجمة معاني القرآن باللغة الأسبانية - القارئ مشاري العفاسي",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109045,
+      "name": "Translation of Quran Meanings باللغة الألبانية",
+      "nameAr": "ترجمة معاني القرآن باللغة الألبانية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_albanian",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109046,
+      "name": "Translation of Quran Meanings باللغة الألمانية",
+      "nameAr": "ترجمة معاني القرآن باللغة الألمانية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_german",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109047,
+      "name": "Translation of Quran Meanings باللغة الأمازيغية",
+      "nameAr": "ترجمة معاني القرآن باللغة الأمازيغية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_tamazight",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109048,
+      "name": "ترجمة معاني القرآن باللغة الأوردية - القارئ Saud Al-Shuraim و عبدالرحمن السديس",
+      "nameAr": "ترجمة معاني القرآن باللغة الأوردية - القارئ سعود الشريم و عبدالرحمن السديس",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109049,
+      "name": "Translation of Quran Meanings باللغة الأوردية - القارئ محمد المنشاوي",
+      "nameAr": "ترجمة معاني القرآن باللغة الأوردية - القارئ محمد المنشاوي",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109050,
+      "name": "Translation of Quran Meanings باللغة الإنجليزية - القارئ عبدالباسط عبدالصمد",
+      "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية - القارئ عبدالباسط عبدالصمد",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_basit",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109051,
+      "name": "Translation of Quran Meanings باللغة الإنجليزية - القارئ عبدالله بصفر",
+      "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية - القارئ عبدالله بصفر",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109052,
+      "name": "Translation of Quran Meanings باللغة الإنجليزية -ترجمة والك",
+      "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109053,
+      "name": "Translation of Quran Meanings باللغة البرتغالية",
+      "nameAr": "ترجمة معاني القرآن باللغة البرتغالية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_portuguese",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109054,
+      "name": "Translation of Quran Meanings باللغة البوسنية",
+      "nameAr": "ترجمة معاني القرآن باللغة البوسنية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_bosnia",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109055,
+      "name": "Translation of Quran Meanings باللغة التركية",
+      "nameAr": "ترجمة معاني القرآن باللغة التركية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_turkish",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109056,
+      "name": "Translation of Quran Meanings باللغة الروسية",
+      "nameAr": "ترجمة معاني القرآن باللغة الروسية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_Russia",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109057,
+      "name": "Translation of Quran Meanings باللغة الصينية",
+      "nameAr": "ترجمة معاني القرآن باللغة الصينية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109058,
+      "name": "Translation of Quran Meanings باللغة الفارسية",
+      "nameAr": "ترجمة معاني القرآن باللغة الفارسية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_farsi",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109059,
+      "name": "Translation of Quran Meanings باللغة الفرنسية",
+      "nameAr": "ترجمة معاني القرآن باللغة الفرنسية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_french",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109060,
+      "name": "Translation of Quran Meanings باللغة الكردية",
+      "nameAr": "ترجمة معاني القرآن باللغة الكردية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_kurdish",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109061,
+      "name": "Translation of Quran Meanings باللغة الكورية",
+      "nameAr": "ترجمة معاني القرآن باللغة الكورية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_Korean",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109062,
+      "name": "Translation of Quran Meanings باللغة المجرية",
+      "nameAr": "ترجمة معاني القرآن باللغة المجرية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_hungarian",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109063,
+      "name": "Translation of Quran Meanings باللغة اليونانية",
+      "nameAr": "ترجمة معاني القرآن باللغة اليونانية",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_greek",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109064,
+      "name": "Surah Al-Mulk",
+      "nameAr": "سورة الملك",
+      "streamUrl": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109065,
+      "name": "Virtue of Ramadan Month",
+      "nameAr": "فضل شهر رمضان",
+      "streamUrl": "https://backup.qurango.net/radio/ramadan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109066,
+      "name": "Translation of Quran Meanings باللغة الهوسا",
+      "nameAr": "ترجمة معاني القرآن باللغة الهوسا",
+      "streamUrl": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109067,
+      "name": "Translation of Quran Meanings باللغة الفارسية - أهل القرآن-",
+      "nameAr": "ترجمة معاني القرآن باللغة الفارسية - أهل القرآن-",
+      "streamUrl": "https://backup.qurango.net/radio/farsi-trans",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109068,
+      "name": "تدبر Meanings القرآن باللغة الفارسية - أهل القرآن-",
+      "nameAr": "تدبر معاني القرآن باللغة الفارسية - أهل القرآن-",
+      "streamUrl": "https://backup.qurango.net/radio/farsi-tadabor",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109069,
+      "name": "Translation of Quran Meanings باللغة الفرنسية",
+      "nameAr": "ترجمة معاني القرآن باللغة الفرنسية",
+      "streamUrl": "https://backup.qurango.net/radio/mokhtasr-french",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109070,
+      "name": "Sahih Muslim",
+      "nameAr": "صحيح مسلم",
+      "streamUrl": "https://backup.qurango.net/radio/saheh-muslim",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109071,
+      "name": "Sahih Al-Bukhari",
+      "nameAr": "صحيح البخاري",
+      "streamUrl": "https://backup.qurango.net/radio/saheh-bokharee",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109073,
+      "name": "***Stories of the Prophets***",
+      "nameAr": "***قصص الأنبياء***",
+      "streamUrl": "https://backup.qurango.net/radio/alanbiya",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109077,
+      "name": "Gardens of the Righteous",
+      "nameAr": "رياض الصالحين",
+      "streamUrl": "https://backup.qurango.net/radio/riyad",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109078,
+      "name": "عبدالله البعيجان",
+      "nameAr": "عبدالله البعيجان",
+      "streamUrl": "https://backup.qurango.net/radio/buajan",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109079,
+      "name": "Ahmad Taleb bin Hamid",
+      "nameAr": "أحمد طالب بن حميد",
+      "streamUrl": "https://backup.qurango.net/radio/a_binhameed",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109080,
+      "name": "Tafsir غريب القرآن",
+      "nameAr": "تفسير غريب القرآن",
+      "streamUrl": "https://backup.qurango.net/radio/gareeb-quran",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109081,
+      "name": "Badr التركي",
+      "nameAr": "بدر التركي",
+      "streamUrl": "https://backup.qurango.net/radio/bader",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109082,
+      "name": "Hazza البلوشي",
+      "nameAr": "هزاع البلوشي",
+      "streamUrl": "https://backup.qurango.net/radio/hazza",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
+      "status": "active",
+      "lastChecked": "2025-12-06T16:15:00Z"
+    },
+    {
+      "id": 109083,
+      "name": "Translation of Quran Meanings باللغة الإجليزية ( المختصر )",
+      "nameAr": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )",
+      "streamUrl": "http://backup.qurango.net/radio/mokhtasr-english",
+      "streamFormat": "unknown",
+      "genre": [
+        "Quran",
+        "Islamic",
+        "Radio"
+      ],
+      "language": "Arabic",
+      "country": "Multiple",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z"
     }
   ],
   "metadata": {
-    "apiVersion": "1.0.0",
-    "documentation": "https://github.com/radio-api/docs",
+    "apiVersion": "2.0.0",
+    "documentation": "https://github.com/uthumany/radio-api/blob/main/client/public/api/README.md",
     "updateFrequency": "weekly",
-    "license": "CC0-1.0"
+    "license": "CC0-1.0",
+    "sources": [
+      "https://mp3quran.net/api/v3/radios",
+      "https://www.holyquranradio.com",
+      "https://quranradiotafsir.com",
+      "https://www.islam2day.tv",
+      "https://voscast.com"
+    ]
   }
 }
