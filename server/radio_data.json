@@ -2,111 +2,259 @@
   "radios": [
     {
       "id": 1,
-      "name": "إذاعة أبو بكر الشاطري",
+      "name": "إذاعة شيخ أبو بكر الشاطري",
       "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150214/radio_stations/station_006_abu_bakr_al_shatri.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150214/radio_stations/station_006_abu_bakr_al_shatri.jpg",
+      "nameEn": "Quran Radio — Abu Bakr Al-Shatri",
+      "description": "Stream beautiful Quran recitation by Sheikh Abu Bakr Al-Shatri with a calm, heartfelt tone ideal for prayer and listening.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 2,
       "name": " إذاعة أحمد خضر الطرابلسي",
       "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-      "img": "https://i.pinimg.com/564x/d3/c2/9c/d3c29cc03198c3c15d380af048b2d68b.jpg"
+      "img": "https://i.pinimg.com/564x/d3/c2/9c/d3c29cc03198c3c15d380af048b2d68b.jpg",
+      "nameEn": "Quran Radio — Ahmad Khader Al-Trabulsi",
+      "description": "Stream Quran recitation by Ahmad Khader Al-Trabulsi with clear tajwid and a soothing cadence for daily listening.",
+      "country": "Lebanon",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 3,
       "name": "إذاعة إبراهيم الأخضر",
       "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150213/radio_stations/station_005_ibrahim_al_akhdar.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150213/radio_stations/station_005_ibrahim_al_akhdar.jpg",
+      "nameEn": "Quran Radio — Ibrahim Al-Akhdar",
+      "description": "Listen to serene Quran recitation by Ibrahim Al-Akhdar in high-quality streaming audio for daily reflection and worship.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 4,
       "name": "إذاعة خالد الجليل",
       "url": "https://backup.qurango.net/radio/khalid_aljileel",
-      "img": "https://i1.sndcdn.com/avatars-ubX3f7yLm5eGyphJ-A4ysyA-t500x500.jpg"
+      "img": "https://i1.sndcdn.com/avatars-ubX3f7yLm5eGyphJ-A4ysyA-t500x500.jpg",
+      "nameEn": "Quran Radio — Khalid Al-Jalil",
+      "description": "Stream Quran recitation by Khalid Al-Jalil with a deeply emotional tone, perfect for night listening and reflection.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 5,
-      "name": " إذاعة صلاح الهاشم",
+      "name": "إذاعة صلاح الهاشم",
       "url": "https://backup.qurango.net/radio/salah_alhashim",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150230/radio_stations/station_029_salah_al_hashim.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150230/radio_stations/station_029_salah_al_hashim.jpg",
+      "nameEn": "Quran Radio — Salah Al-Hashim",
+      "description": "Stream Quran recitation by Salah Al-Hashim with clear tajwid and a calm voice for focused, daily listening.",
+      "country": "Kuwait",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 6,
       "name": "إذاعة صلاح بو خاطر",
       "url": "https://backup.qurango.net/radio/slaah_bukhatir",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150231/radio_stations/station_030_salah_bu_khatir.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150231/radio_stations/station_030_salah_bu_khatir.jpg",
+      "nameEn": "Quran Radio — Salah Bukhatir",
+      "description": "Enjoy Quran recitation by Salah Bukhatir, a popular warm style ideal for relaxation, worship, and remembrance.",
+      "country": "United Arab Emirates",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 7,
-      "name": " إذاعة عبدالباسط عبدالصمد ",
+      "name": "إذاعة عبدالباسط عبدالصمد",
       "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_036_abdulbasit_abdulsamad_3.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_036_abdulbasit_abdulsamad_3.jpg",
+      "nameEn": "Quran Radio — AbdulBasit AbdulSamad (Mujawwad)",
+      "description": "Listen to legendary Mujawwad Quran recitation by AbdulBasit AbdulSamad with iconic melody and powerful presence.",
+      "country": "Egypt",
+      "genres": [
+        "Quran Recitation",
+        "Mujawwad",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 8,
-      "name": " إذاعة عبد العزيز سحيم",
+      "name": "عبدالعزيز سحيم",
       "url": "https://backup.qurango.net/radio/a_sheim",
-      "img": "https://i.pinimg.com/564x/a7/37/47/a73747375897de4897da372a0fd921a0.jpg"
+      "img": "https://i.pinimg.com/564x/a7/37/47/a73747375897de4897da372a0fd921a0.jpg",
+      "nameEn": "Quran Radio — Abdulaziz Suheim",
+      "description": "Listen to Quran recitation by Abdulaziz Suheim in continuous streaming audio for calm, worship, and daily remembrance.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 9,
       "name": " إذاعة فارس عباد",
       "url": "https://backup.qurango.net/radio/fares_abbad",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150251/radio_stations/station_056_fares_abbad.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150251/radio_stations/station_056_fares_abbad.jpg",
+      "nameEn": "Quran Radio — Fares Abbad",
+      "description": "Listen to Quran recitation by Fares Abbad with a deeply emotional tone, perfect for night listening and reflection.",
+      "country": "Yemen",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 10,
-      "name": "إذاعة ماهر المعيقلي",
+      "name": " إذاعة ماهر المعيقلي",
       "url": "https://backup.qurango.net/radio/maher",
-      "img": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4b/80/58/4b80582d-78ca-a466-0341-0869bc611745/mza_5280524847349008894.jpg/250x250bb.jpg"
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4b/80/58/4b80582d-78ca-a466-0341-0869bc611745/mza_5280524847349008894.jpg/250x250bb.jpg",
+      "nameEn": "Quran Radio — Maher Al-Muaiqly",
+      "description": "Stream Quran recitation by Maher Al-Muaiqly with a widely loved masjid tone, clear tajwid, and calm pacing.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 11,
       "name": " إذاعة محمد صديق المنشاوي",
       "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150266/radio_stations/station_074_mohammad_siddiq_al_menshawi_2.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150266/radio_stations/station_074_mohammad_siddiq_al_menshawi_2.jpg",
+      "nameEn": "Quran Radio — Muhammad Siddiq Al-Minshawi (Mujawwad)",
+      "description": "Listen to Mujawwad Quran recitation by Muhammad Siddiq Al-Minshawi with rich melody and profound spiritual depth.",
+      "country": "Egypt",
+      "genres": [
+        "Quran Recitation",
+        "Mujawwad",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 12,
       "name": " إذاعة محمود خليل الحصري",
       "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
-      "img": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/18194265071637693809.jpg"
+      "img": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/18194265071637693809.jpg",
+      "nameEn": "Quran Radio — Mahmoud Khalil Al-Hussary (Mujawwad)",
+      "description": "Stream Mujawwad Quran recitation by Mahmoud Khalil Al-Hussary with beautiful melody and careful articulation.",
+      "country": "Egypt",
+      "genres": [
+        "Quran Recitation",
+        "Mujawwad",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 13,
       "name": " إذاعة محمود علي البنا",
       "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
-      "img": "https://i.pinimg.com/200x/29/67/b3/2967b3fbc1ce1f5a70874288d34317bf.jpg"
+      "img": "https://i.pinimg.com/200x/29/67/b3/2967b3fbc1ce1f5a70874288d34317bf.jpg",
+      "nameEn": "Quran Radio — Mahmoud Ali Al-Banna (Mujawwad)",
+      "description": "Listen to Mujawwad Quran recitation by Mahmoud Ali Al-Banna with rich maqamat and a classic Egyptian performance.",
+      "country": "Egypt",
+      "genres": [
+        "Quran Recitation",
+        "Mujawwad",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 14,
       "name": " إذاعة مشاري العفاسي",
       "url": "https://backup.qurango.net/radio/mishary_alafasi",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150272/radio_stations/station_083_mishari_al_afasi.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150272/radio_stations/station_083_mishari_al_afasi.jpg",
+      "nameEn": "Quran Radio — Mishary Alafasy",
+      "description": "Stream Quran recitation by Mishary Alafasy with a widely loved, calming voice perfect for daily listening and worship.",
+      "country": "Kuwait",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 15,
       "name": " إذاعة ناصر القطامي",
       "url": "https://backup.qurango.net/radio/nasser_alqatami",
-      "img": "https://i1.sndcdn.com/artworks-000096282703-s9wldh-t200x200.jpg"
+      "img": "https://i1.sndcdn.com/artworks-000096282703-s9wldh-t200x200.jpg",
+      "nameEn": "Quran Radio — Nasser Al-Qatami",
+      "description": "Stream Quran recitation by Nasser Al-Qatami with a soft, beautiful delivery ideal for daily listening and worship.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 16,
       "name": " إذاعة نبيل الرفاعي",
       "url": "https://backup.qurango.net/radio/nabil_al_rifay",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150253/radio_stations/station_058_nabil_al_rifai.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150253/radio_stations/station_058_nabil_al_rifai.jpg",
+      "nameEn": "Quran Radio — Nabil Al-Rifai",
+      "description": "Listen to moving Quran recitation by Nabil Al-Rifai with a heartfelt tone in high-quality streaming audio.",
+      "country": "Kuwait",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 17,
       "name": "إذاعة هيثم الجدعاني",
       "url": "https://backup.qurango.net/radio/hitham_aljadani",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150537/radio_stations/station_123_haitham_al_jadani.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150537/radio_stations/station_123_haitham_al_jadani.jpg",
+      "nameEn": "Quran Radio — Haitham Al-Jadani",
+      "description": "Stream Quran recitation by Haitham Al-Jadani with clear tajwid and a steady pace in high-quality audio.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 18,
       "name": " إذاعة ياسر الدوسري",
       "url": "https://backup.qurango.net/radio/yasser_aldosari",
-      "img": "https://www.almowaten.net/wp-content/uploads/2022/06/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg"
+      "img": "https://www.almowaten.net/wp-content/uploads/2022/06/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg",
+      "nameEn": "Quran Radio — Yasser Al-Dosari",
+      "description": "Listen to Quran recitation by Yasser Al-Dosari with a strong, emotional masjid delivery in high-quality streaming.",
+      "country": "Saudi Arabia",
+      "genres": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 19,
@@ -122,27 +270,62 @@
     },
     {
       "id": 21,
-      "name": "إذاعة تلاوات خاشعة",
+      "name": "إذاعة -تلاوات خاشعة-",
       "url": "https://backup.qurango.net/radio/salma",
-      "img": "https://pbs.twimg.com/profile_images/1396812808659079169/5ft2haLD_400x400.jpg"
+      "img": "https://pbs.twimg.com/profile_images/1396812808659079169/5ft2haLD_400x400.jpg",
+      "nameEn": "Quran Radio — Humble & Emotional Recitations",
+      "description": "Stream deeply humble, emotional Quran recitations (khushu’) for tranquility, heartfelt reflection, and worship.",
+      "country": "International",
+      "genres": [
+        "Quran Recitation",
+        "Khushoo",
+        "Islamic",
+        "Spiritual"
+      ]
     },
     {
       "id": 22,
       "name": "إذاعة الرقية الشرعية",
       "url": "https://backup.qurango.net/radio/roqiah",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150531/radio_stations/station_118_ruqya_sharia.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150531/radio_stations/station_118_ruqya_sharia.jpg",
+      "nameEn": "Islamic Radio — Ruqyah Shar'iyyah",
+      "description": "Listen to Ruqyah Shar'iyyah audio stream with Quranic recitations and supplications for comfort and spiritual wellbeing.",
+      "country": "International",
+      "genres": [
+        "Ruqyah",
+        "Islamic",
+        "Spiritual",
+        "Quran"
+      ]
     },
     {
       "id": 23,
       "name": "إذاعة تكبيرات العيد",
       "url": "https://backup.qurango.net/radio/eid",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150326/radio_stations/station_114_eid_takbeerat.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150326/radio_stations/station_114_eid_takbeerat.jpg",
+      "nameEn": "Eid Takbeerat Radio",
+      "description": "Listen to Eid Takbeerat streaming audio—uplifting remembrance for Eid days, gatherings, and joyful celebration.",
+      "country": "International",
+      "genres": [
+        "Takbeerat",
+        "Islamic",
+        "Spiritual",
+        "Eid"
+      ]
     },
     {
       "id": 24,
       "name": "المختصر في تفسير القرآن الكريم",
       "url": "https://backup.qurango.net/radio/mukhtasartafsir",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_002_quran_radio_tafsir.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_002_quran_radio_tafsir.jpg",
+      "nameEn": "Quran Radio — The Concise Tafsir (Mukhtasar)",
+      "description": "Stream concise Quran Tafsir (Mukhtasar) audio—clear summaries to understand meanings, lessons, and guidance.",
+      "country": "International",
+      "genres": [
+        "Tafsir",
+        "Islamic Education",
+        "Quran"
+      ]
     }
   ]
 }
