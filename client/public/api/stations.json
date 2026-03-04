@@ -1,8 +1,8 @@
 {
   "status": "success",
   "version": "2.0.0",
-  "timestamp": "2025-12-08T15:53:51.731059Z",
-  "total": 182,
+  "timestamp": "2026-03-04T23:13:09.657078Z",
+  "total": 192,
   "stations": [
     {
       "id": 1,
@@ -2106,7 +2106,7 @@
       "description": "Stream Quran recitation by Abdulrahman Al-Majed with a calm, clear masjid tone for daily listening and worship."
     },
     {
-      "id": 117,
+      "id": 116,
       "name": "Islamic Radio — General Fatwas",
       "nameAr": "إذاعة الفتاوى العامة",
       "streamUrl": "https://backup.qurango.net/radio/fatwa",
@@ -2124,7 +2124,7 @@
       "description": "Stream general Islamic fatwas and guidance in audio format—ideal for learning, reminders, and everyday questions."
     },
     {
-      "id": 118,
+      "id": 117,
       "name": "Islamic Radio — Ruqyah Shar'iyyah",
       "nameAr": "إذاعة الرقية الشرعية",
       "streamUrl": "https://backup.qurango.net/radio/roqiah",
@@ -2143,7 +2143,7 @@
       "description": "Listen to Ruqyah Shar'iyyah audio stream with Quranic recitations and supplications for comfort and spiritual wellbeing."
     },
     {
-      "id": 119,
+      "id": 118,
       "name": "Surah Al-Baqarah Radio (Multiple Reciters)",
       "nameAr": "إذاعة ---سورة البقرة - لعدد من القراء---",
       "streamUrl": "https://backup.qurango.net/radio/albaqarah",
@@ -2162,7 +2162,7 @@
       "description": "Stream Surah Al-Baqarah continuously by multiple reciters—ideal for daily listening, ruqyah routines, and reflection."
     },
     {
-      "id": 120,
+      "id": 119,
       "name": "Quran Radio — Tafsir (Quran Explanation)",
       "nameAr": "إذاعة --تفسير القران الكريم--",
       "streamUrl": "https://backup.qurango.net/radio/tafseer",
@@ -2180,7 +2180,7 @@
       "description": "Listen to Quran Tafsir audio—clear explanations and lessons to help understand meanings, context, and guidance."
     },
     {
-      "id": 121,
+      "id": 120,
       "name": "Quran Radio — Khalid Al-Jalil",
       "nameAr": "إذاعة خالد الجليل",
       "streamUrl": "https://backup.qurango.net/radio/khalid_aljileel",
@@ -2198,7 +2198,7 @@
       "description": "Stream Quran recitation by Khalid Al-Jalil with a deeply emotional tone, perfect for night listening and reflection."
     },
     {
-      "id": 122,
+      "id": 121,
       "name": "Quran Radio — Nasser Al-Majed",
       "nameAr": "إذاعة ناصر الماجد",
       "streamUrl": "https://backup.qurango.net/radio/nasser_almajed",
@@ -2216,7 +2216,7 @@
       "description": "Listen to Quran recitation by Nasser Al-Majed with a calm, clear voice for daily worship and peaceful listening."
     },
     {
-      "id": 123,
+      "id": 122,
       "name": "Quran Radio — Haitham Al-Jadani",
       "nameAr": "إذاعة هيثم الجدعاني",
       "streamUrl": "https://backup.qurango.net/radio/hitham_aljadani",
@@ -2234,7 +2234,7 @@
       "description": "Stream Quran recitation by Haitham Al-Jadani with clear tajwid and a steady pace in high-quality audio."
     },
     {
-      "id": 124,
+      "id": 123,
       "name": "Quran Radio — Ahmad Khalil Shaheen",
       "nameAr": "إذاعة أحمد خليل شاهين",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_shaheen",
@@ -2252,7 +2252,7 @@
       "description": "Listen to Quran recitation by Ahmad Khalil Shaheen with a traditional style and clear streaming audio for devotion."
     },
     {
-      "id": 125,
+      "id": 124,
       "name": "Quran Radio — Abdullah Al-Mousa",
       "nameAr": "إذاعة عبدالله الموسى",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa",
@@ -2270,7 +2270,7 @@
       "description": "Stream Quran recitation by Abdullah Al-Mousa with a calm, clear masjid tone ideal for daily worship and reflection."
     },
     {
-      "id": 126,
+      "id": 125,
       "name": "Quran Radio — Abdullah Al-Khalaf",
       "nameAr": "إذاعة عبدالله الخلف",
       "streamUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
@@ -2288,7 +2288,7 @@
       "description": "Listen to Quran recitation by Abdullah Al-Khalaf in continuous streaming audio for calm, worship, and daily remembrance."
     },
     {
-      "id": 127,
+      "id": 126,
       "name": "Short Quran Recitations Radio",
       "nameAr": "-تراتيل قصيرة متميزة-",
       "streamUrl": "https://backup.qurango.net/radio/tarateel",
@@ -2307,7 +2307,7 @@
       "description": "Stream short, standout Quran recitations—perfect for quick listening, commuting, daily reminders, and reflection."
     },
     {
-      "id": 143,
+      "id": 127,
       "name": "Quran Radio — Majed Al-Zamel",
       "nameAr": "إذاعة ماجد الزامل",
       "streamUrl": "https://backup.qurango.net/radio/majed_alzamel",
@@ -2325,7 +2325,7 @@
       "description": "Listen to Quran recitation by Majed Al-Zamel with a calm style and clear tajwid in continuous streaming audio."
     },
     {
-      "id": 221,
+      "id": 128,
       "name": "Quran Radio — Bandar Balilah",
       "nameAr": "إذاعة بندر بليلة",
       "streamUrl": "https://backup.qurango.net/radio/bandar_balilah",
@@ -2343,7 +2343,7 @@
       "description": "Stream Quran recitation by Bandar Balilah with a soft, clear masjid tone ideal for worship, calm, and reflection."
     },
     {
-      "id": 252,
+      "id": 129,
       "name": "Quran Radio — Nasser Al-Osfor",
       "nameAr": "إذاعة ناصر العصفور",
       "streamUrl": "https://backup.qurango.net/radio/nasser_alosfor",
@@ -2361,7 +2361,7 @@
       "description": "Listen to Quran recitation by Nasser Al-Osfor with a calm, clear style for daily listening and worship."
     },
     {
-      "id": 265,
+      "id": 130,
       "name": "Quran Radio — Muhammad Ayyub (Special Recitation)",
       "nameAr": "إذاعة محمد أيوب - قراءة مميزة-",
       "streamUrl": "https://backup.qurango.net/radio/ayyoub2",
@@ -2380,7 +2380,7 @@
       "description": "Stream a special selection of Muhammad Ayyub’s Quran recitations—clear tajwid, balanced tone, and calm pacing."
     },
     {
-      "id": 269,
+      "id": 131,
       "name": "Quran Radio — Ahmad Deban",
       "nameAr": "إذاعة أحمد ديبان",
       "streamUrl": "https://backup.qurango.net/radio/ahmad_deban",
@@ -2398,7 +2398,7 @@
       "description": "Listen to Quran recitation by Ahmad Deban with a clear, soothing delivery and stable online streaming audio."
     },
     {
-      "id": 278,
+      "id": 132,
       "name": "Quran Radio — Muhammad Abu Sneineh",
       "nameAr": "أذاعة محمد أبوسنينة",
       "streamUrl": "https://backup.qurango.net/radio/sneineh",
@@ -2416,7 +2416,7 @@
       "description": "Stream Quran recitation by Muhammad Abu Sneineh with a calm, heartfelt style for daily worship and reflection."
     },
     {
-      "id": 279,
+      "id": 133,
       "name": "Quran Radio — Muhammad Al-Amin Qeniwa",
       "nameAr": "إذاعة محمد الأمين قنيوة",
       "streamUrl": "https://backup.qurango.net/radio/qeniwa",
@@ -2434,7 +2434,7 @@
       "description": "Listen to Quran recitation by Muhammad Al-Amin Qeniwa with a clear tone and steady pacing in streaming audio."
     },
     {
-      "id": 291,
+      "id": 134,
       "name": "Quran Radio — Abdulrahman Al-Shahhat",
       "nameAr": "إذاعة عبدالرحمن الشحات",
       "streamUrl": "https://backup.qurango.net/radio/a_alshahhat",
@@ -2452,7 +2452,7 @@
       "description": "Stream Quran recitation by Abdulrahman Al-Shahhat with a traditional Egyptian style and clear tajwid in audio."
     },
     {
-      "id": 311,
+      "id": 135,
       "name": "Quran Radio — Abdulaziz Suheim",
       "nameAr": "عبدالعزيز سحيم",
       "streamUrl": "https://backup.qurango.net/radio/a_sheim",
@@ -2470,7 +2470,7 @@
       "description": "Listen to Quran recitation by Abdulaziz Suheim in continuous streaming audio for calm, worship, and daily remembrance."
     },
     {
-      "id": 10906,
+      "id": 136,
       "name": "Ayat Al-Sakeenah Radio (Verses of Tranquility)",
       "nameAr": "آيات السكينة",
       "streamUrl": "https://backup.qurango.net/radio/sakeenah",
@@ -2489,7 +2489,7 @@
       "description": "Stream Ayat Al-Sakeenah—selected Quran verses about tranquility and comfort, ideal for calming the heart and mind."
     },
     {
-      "id": 10907,
+      "id": 137,
       "name": "Islamic Stories Radio — Lives of the Sahabah & Tabi'een",
       "nameAr": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
       "streamUrl": "https://backup.qurango.net/radio/sahabah",
@@ -2507,7 +2507,7 @@
       "description": "Listen to inspiring audio stories from the lives of the Sahabah and Tabi'een—faith lessons, character, and history."
     },
     {
-      "id": 10908,
+      "id": 138,
       "name": "Quran Radio — The Concise Tafsir (Mukhtasar)",
       "nameAr": "المختصر في تفسير القرآن الكريم",
       "streamUrl": "https://backup.qurango.net/radio/mukhtasartafsir",
@@ -2525,7 +2525,7 @@
       "description": "Stream concise Quran Tafsir (Mukhtasar) audio—clear summaries to understand meanings, lessons, and guidance."
     },
     {
-      "id": 10910,
+      "id": 139,
       "name": "Morning Adhkar Radio",
       "nameAr": "أذكار الصباح",
       "streamUrl": "https://backup.qurango.net/radio/athkar_sabah",
@@ -2544,7 +2544,7 @@
       "description": "Listen to Morning Adhkar (daily remembrances) in audio—perfect for starting the day with dhikr and calm."
     },
     {
-      "id": 10911,
+      "id": 140,
       "name": "Evening Adhkar Radio",
       "nameAr": "أذكار المساء",
       "streamUrl": "https://backup.qurango.net/radio/athkar_masa",
@@ -2563,7 +2563,7 @@
       "description": "Stream Evening Adhkar audio—daily remembrances for peace, protection, and reflection at the end of the day."
     },
     {
-      "id": 21118,
+      "id": 141,
       "name": "Seerah Radio — In the Shade of the Prophetic Biography (400 Episodes)",
       "nameAr": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
       "streamUrl": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
@@ -2581,7 +2581,7 @@
       "description": "Listen to a 400-episode Seerah series covering the life of Prophet Muhammad (peace be upon him) in audio format."
     },
     {
-      "id": 21119,
+      "id": 142,
       "name": "Seerah Radio — The Concise Prophetic Biography",
       "nameAr": "المختصر في السيرة النبوية",
       "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
@@ -2599,7 +2599,7 @@
       "description": "Stream a concise Seerah audio series—clear, accessible lessons from the life of Prophet Muhammad (peace be upon him)."
     },
     {
-      "id": 21120,
+      "id": 143,
       "name": "Islamic Fiqh Radio — Selected Jurisprudential Choices (Ibn Baz)",
       "nameAr": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
       "streamUrl": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
@@ -2617,7 +2617,7 @@
       "description": "Listen to Islamic fiqh lessons from Ibn Baz’s selected jurisprudential choices covering worship and transactions in audio."
     },
     {
-      "id": 21121,
+      "id": 144,
       "name": "Quran Tafsir Radio — Summary of Tafsir Al-Tabari",
       "nameAr": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
       "streamUrl": "https://backup.qurango.net/radio/tabri",
@@ -2635,7 +2635,7 @@
       "description": "Stream an audio summary of Tafsir Al-Tabari—meaning-focused Quran explanation for learning and reflection."
     },
     {
-      "id": 109042,
+      "id": 145,
       "name": "Quran Radio — Saleh Al-Habdan",
       "nameAr": "صالح الهبدان",
       "streamUrl": "https://backup.qurango.net/radio/saleh_alhabdan",
@@ -2653,7 +2653,7 @@
       "description": "Listen to Quran recitation by Saleh Al-Habdan with clear tajwid and steady pacing in continuous streaming audio."
     },
     {
-      "id": 109043,
+      "id": 146,
       "name": "Quran Translation (Urdu) — AbdulBasit AbdulSamad",
       "nameAr": "ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
@@ -2672,7 +2672,7 @@
       "description": "Listen to Urdu translation of Quran meanings alongside recitation—an easy audio way to understand the message."
     },
     {
-      "id": 109044,
+      "id": 147,
       "name": "Quran Translation (Spanish)",
       "nameAr": "ترجمة معاني القرآن باللغة الأسبانية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
@@ -2691,7 +2691,7 @@
       "description": "Stream Spanish translation of Quran meanings in audio—ideal for learners seeking understanding and reflection."
     },
     {
-      "id": 109045,
+      "id": 148,
       "name": "Quran Translation (Albanian)",
       "nameAr": "ترجمة معاني القرآن باللغة الألبانية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_albanian",
@@ -2710,7 +2710,7 @@
       "description": "Listen to Albanian translation of Quran meanings in audio—clear explanations for understanding and daily reflection."
     },
     {
-      "id": 109046,
+      "id": 149,
       "name": "Quran Translation (German)",
       "nameAr": "ترجمة معاني القرآن باللغة الألمانية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_german",
@@ -2729,7 +2729,7 @@
       "description": "Stream German translation of Quran meanings—learn, reflect, and follow along through simple audio listening."
     },
     {
-      "id": 109047,
+      "id": 150,
       "name": "Quran Translation (Tamazight / Amazigh)",
       "nameAr": "ترجمة معاني القرآن باللغة الأمازيغية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_tamazight",
@@ -2748,7 +2748,7 @@
       "description": "Listen to Tamazight (Amazigh) translation of Quran meanings in audio for understanding and reflection."
     },
     {
-      "id": 109048,
+      "id": 151,
       "name": "Quran Translation (Urdu) — Al-Sudais & Al-Shuraim",
       "nameAr": "ترجمة معاني القرآن باللغة الأوردية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
@@ -2767,7 +2767,7 @@
       "description": "Stream Urdu translation of Quran meanings (version stream) for easy listening, understanding, and daily reflection."
     },
     {
-      "id": 109049,
+      "id": 152,
       "name": "Quran Translation (Urdu) — Al-Minshawi",
       "nameAr": "ترجمة معاني القرآن باللغة الأوردية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
@@ -2786,7 +2786,7 @@
       "description": "Listen to Urdu translation of Quran meanings (Al-Minshawi stream) in audio for learning and spiritual reflection."
     },
     {
-      "id": 109050,
+      "id": 153,
       "name": "Quran Translation (English) — AbdulBasit",
       "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_basit",
@@ -2805,7 +2805,7 @@
       "description": "Stream English translation of Quran meanings alongside recitation—ideal for understanding, study, and daily listening."
     },
     {
-      "id": 109051,
+      "id": 154,
       "name": "Quran Translation (English) — Basfar",
       "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
@@ -2824,7 +2824,7 @@
       "description": "Listen to English translation of Quran meanings (Basfar stream) in audio—simple, clear understanding for listeners."
     },
     {
-      "id": 109052,
+      "id": 155,
       "name": "Quran Translation (English) — Walk-through Translation",
       "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
@@ -2843,7 +2843,7 @@
       "description": "Stream an English walk-through translation of Quran meanings—ideal for guided listening, learning, and reflection."
     },
     {
-      "id": 109053,
+      "id": 156,
       "name": "Quran Translation (Portuguese)",
       "nameAr": "ترجمة معاني القرآن باللغة البرتغالية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_portuguese",
@@ -2862,7 +2862,7 @@
       "description": "Listen to Portuguese translation of Quran meanings in audio—learn the message with easy, continuous streaming."
     },
     {
-      "id": 109054,
+      "id": 157,
       "name": "Quran Translation (Bosnian)",
       "nameAr": "ترجمة معاني القرآن باللغة البوسنية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_bosnia",
@@ -2881,7 +2881,7 @@
       "description": "Stream Bosnian translation of Quran meanings—clear audio for understanding, learning, and daily spiritual reflection."
     },
     {
-      "id": 109055,
+      "id": 158,
       "name": "Quran Translation (Turkish)",
       "nameAr": "ترجمة معاني القرآن باللغة التركية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_turkish",
@@ -2900,7 +2900,7 @@
       "description": "Listen to Turkish translation of Quran meanings in audio—ideal for learners who prefer listening and reflection."
     },
     {
-      "id": 109056,
+      "id": 159,
       "name": "Quran Translation (Russian)",
       "nameAr": "ترجمة معاني القرآن باللغة الروسية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_Russia",
@@ -2919,7 +2919,7 @@
       "description": "Stream Russian translation of Quran meanings in audio—easy listening for understanding, learning, and daily reminders."
     },
     {
-      "id": 109057,
+      "id": 160,
       "name": "Quran Translation (Chinese)",
       "nameAr": "ترجمة معاني القرآن باللغة الصينية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese",
@@ -2938,7 +2938,7 @@
       "description": "Listen to Chinese translation of Quran meanings in audio—simple streaming for learning, understanding, and reflection."
     },
     {
-      "id": 109058,
+      "id": 161,
       "name": "Quran Translation (Persian / Farsi)",
       "nameAr": "ترجمة معاني القرآن باللغة الفارسية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_farsi",
@@ -2957,7 +2957,7 @@
       "description": "Stream Persian (Farsi) translation of Quran meanings in audio—ideal for understanding and daily spiritual listening."
     },
     {
-      "id": 109059,
+      "id": 162,
       "name": "Quran Translation (French)",
       "nameAr": "ترجمة معاني القرآن باللغة الفرنسية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_french",
@@ -2976,7 +2976,7 @@
       "description": "Listen to French translation of Quran meanings in audio—clear, continuous streaming for understanding and reflection."
     },
     {
-      "id": 109060,
+      "id": 163,
       "name": "Quran Translation (Kurdish)",
       "nameAr": "ترجمة معاني القرآن باللغة الكردية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_kurdish",
@@ -2995,7 +2995,7 @@
       "description": "Stream Kurdish translation of Quran meanings in audio—ideal for understanding, learning, and daily listening."
     },
     {
-      "id": 109061,
+      "id": 164,
       "name": "Quran Translation (Korean)",
       "nameAr": "ترجمة معاني القرآن باللغة الكورية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_Korean",
@@ -3014,7 +3014,7 @@
       "description": "Listen to Korean translation of Quran meanings in audio—easy streaming for learning, understanding, and reflection."
     },
     {
-      "id": 109062,
+      "id": 165,
       "name": "Quran Translation (Hungarian)",
       "nameAr": "ترجمة معاني القرآن باللغة المجرية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_hungarian",
@@ -3033,7 +3033,7 @@
       "description": "Stream Hungarian translation of Quran meanings in audio—ideal for learners who prefer listening and reflection."
     },
     {
-      "id": 109063,
+      "id": 166,
       "name": "Quran Translation (Greek)",
       "nameAr": "ترجمة معاني القرآن باللغة اليونانية",
       "streamUrl": "https://backup.qurango.net/radio/translation_quran_greek",
@@ -3052,7 +3052,7 @@
       "description": "Listen to Greek translation of Quran meanings in audio—clear streaming for understanding, learning, and reflection."
     },
     {
-      "id": 109064,
+      "id": 167,
       "name": "Surah Al-Mulk Radio",
       "nameAr": "سورة الملك",
       "streamUrl": "https://backup.qurango.net/radio/Surah_Al-Mulk",
@@ -3071,7 +3071,7 @@
       "description": "Stream Surah Al-Mulk in audio—perfect for nightly listening, reminders, and consistent spiritual practice."
     },
     {
-      "id": 109065,
+      "id": 168,
       "name": "Islamic Radio — Virtues of Ramadan",
       "nameAr": "فضل شهر رمضان",
       "streamUrl": "https://backup.qurango.net/radio/ramadan",
@@ -3090,7 +3090,7 @@
       "description": "Listen to audio about the virtues of Ramadan—lessons, reminders, and inspiration for worship, fasting, and character."
     },
     {
-      "id": 109066,
+      "id": 169,
       "name": "Quran Translation (Hausa)",
       "nameAr": "ترجمة معاني القرآن باللغة الهوسا",
       "streamUrl": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
@@ -3109,7 +3109,7 @@
       "description": "Stream Hausa translation of Quran meanings in audio—ideal for learning, understanding, and daily spiritual listening."
     },
     {
-      "id": 109067,
+      "id": 170,
       "name": "Translation of Quran Meanings باللغة الفارسية - أهل القرآن-",
       "nameAr": "ترجمة معاني القرآن باللغة الفارسية - أهل القرآن-",
       "streamUrl": "https://backup.qurango.net/radio/farsi-trans",
@@ -3126,7 +3126,7 @@
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150309/radio_stations/station_109067_translation_persian_ahluquran.jpg"
     },
     {
-      "id": 109068,
+      "id": 171,
       "name": "تدبر Meanings القرآن باللغة الفارسية - أهل القرآن-",
       "nameAr": "تدبر معاني القرآن باللغة الفارسية - أهل القرآن-",
       "streamUrl": "https://backup.qurango.net/radio/farsi-tadabor",
@@ -3143,7 +3143,7 @@
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150310/radio_stations/station_109068_tadabbur_persian_ahluquran.jpg"
     },
     {
-      "id": 109069,
+      "id": 172,
       "name": "Translation of Quran Meanings باللغة الفرنسية",
       "nameAr": "ترجمة معاني القرآن باللغة الفرنسية",
       "streamUrl": "https://backup.qurango.net/radio/mokhtasr-french",
@@ -3160,7 +3160,7 @@
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150311/radio_stations/station_109069_translation_french_2.jpg"
     },
     {
-      "id": 109070,
+      "id": 173,
       "name": "Hadith Radio — Sahih Muslim",
       "nameAr": "صحيح مسلم",
       "streamUrl": "https://backup.qurango.net/radio/saheh-muslim",
@@ -3178,7 +3178,7 @@
       "description": "Listen to Sahih Muslim in audio—authentic hadith for learning, reminders, and strengthening Islamic knowledge daily."
     },
     {
-      "id": 109071,
+      "id": 174,
       "name": "Hadith Radio — Sahih Al-Bukhari",
       "nameAr": "صحيح البخاري",
       "streamUrl": "https://backup.qurango.net/radio/saheh-bokharee",
@@ -3196,7 +3196,7 @@
       "description": "Stream Sahih Al-Bukhari audio—authentic hadith collection for daily learning, reflection, and Islamic understanding."
     },
     {
-      "id": 109073,
+      "id": 175,
       "name": "Islamic Stories Radio — Stories of the Prophets",
       "nameAr": "***قصص الأنبياء***",
       "streamUrl": "https://backup.qurango.net/radio/alanbiya",
@@ -3214,7 +3214,7 @@
       "description": "Listen to Stories of the Prophets in audio—faith-filled narratives, lessons, and reminders for all ages."
     },
     {
-      "id": 109077,
+      "id": 176,
       "name": "Hadith & Ethics Radio — Riyadh As-Salihin",
       "nameAr": "رياض الصالحين",
       "streamUrl": "https://backup.qurango.net/radio/riyad",
@@ -3232,7 +3232,7 @@
       "description": "Stream Riyadh As-Salihin in audio—hadith on manners, worship, and character for daily reminders and growth."
     },
     {
-      "id": 109078,
+      "id": 177,
       "name": "Quran Radio — Abdullah Al-Bu'ayjan",
       "nameAr": "عبدالله البعيجان",
       "streamUrl": "https://backup.qurango.net/radio/buajan",
@@ -3250,7 +3250,7 @@
       "description": "Listen to Quran recitation by Abdullah Al-Bu'ayjan with a calm masjid tone and clear tajwid in streaming audio."
     },
     {
-      "id": 109079,
+      "id": 178,
       "name": "Quran Radio — Ahmad Talib Bin Humaid",
       "nameAr": "أحمد طالب بن حميد",
       "streamUrl": "https://backup.qurango.net/radio/a_binhameed",
@@ -3268,7 +3268,7 @@
       "description": "Stream Quran recitation by Ahmad Talib Bin Humaid with clear tajwid and a steady pace for daily worship and calm."
     },
     {
-      "id": 109080,
+      "id": 179,
       "name": "Quran Studies Radio — Ghareeb Al-Quran (Uncommon Words)",
       "nameAr": "تفسير غريب القرآن",
       "streamUrl": "https://backup.qurango.net/radio/gareeb-quran",
@@ -3286,7 +3286,7 @@
       "description": "Listen to explanations of uncommon Quranic words (Ghareeb Al-Quran) in audio—great for deeper understanding."
     },
     {
-      "id": 109081,
+      "id": 180,
       "name": "Quran Radio — Badr Al-Turki",
       "nameAr": "بدر التركي",
       "streamUrl": "https://backup.qurango.net/radio/bader",
@@ -3304,7 +3304,7 @@
       "description": "Stream Quran recitation by Badr Al-Turki with clear tajwid and a calm tone for daily listening and spiritual focus."
     },
     {
-      "id": 109082,
+      "id": 181,
       "name": "Quran Radio — Hazza Al-Balushi",
       "nameAr": "هزاع البلوشي",
       "streamUrl": "https://backup.qurango.net/radio/hazza",
@@ -3322,7 +3322,7 @@
       "description": "Listen to Quran recitation by Hazza Al-Balushi with a gentle, emotional style ideal for reflection and calm listening."
     },
     {
-      "id": 109083,
+      "id": 182,
       "name": "Translation of Quran Meanings باللغة الإجليزية ( المختصر )",
       "nameAr": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )",
       "streamUrl": "http://backup.qurango.net/radio/mokhtasr-english",
@@ -3337,6 +3337,186 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150319/radio_stations/station_109083_translation_english_abridged.jpg"
+    },
+    {
+      "name": "Quran Radio — Sayed Ramadan",
+      "nameAr": "إذاعة سيد رمضان",
+      "description": "Listen to Quran recitation by Sayed Ramadan with a calm, steady delivery perfect for daily listening and spiritual focus.",
+      "country": "Egypt",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/sayed_ramadan",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234760/radio_covers/21_sayed_ramadan.jpg",
+      "id": 183
+    },
+    {
+      "name": "Quran Radio — Sherzad Abdul Rahman Taher",
+      "nameAr": "إذاعة شيرزاد عبدالرحمن طاهر",
+      "description": "Stream Quran recitation by Sherzad Abdul Rahman Taher in clear audio for peaceful listening and daily devotion.",
+      "country": "Iraq",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/shirzad_abdul_rahman_taher",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234761/radio_covers/22_sherzad_taher.jpg",
+      "id": 184
+    },
+    {
+      "name": "Quran Radio — Saber Abdul Hakam",
+      "nameAr": "إذاعة صابر عبدالحكم",
+      "description": "Enjoy Quran recitation by Saber Abdul Hakam with a gentle, reverent style ideal for reflection and worship.",
+      "country": "Egypt",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/saber_abdul_hakam",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234762/radio_covers/23_saber_abdulhakam.jpg",
+      "id": 185
+    },
+    {
+      "name": "Quran Radio — Saleh Al-Sahood",
+      "nameAr": "إذاعة صالح الصهود",
+      "description": "Stream Quran recitation by Saleh Al-Sahood in high-quality audio for daily listening, calm, and spiritual focus.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/saleh_alsahood",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234763/radio_covers/24_saleh_alsahood.jpg",
+      "id": 186
+    },
+    {
+      "name": "Quran Radio — Saleh Al-Habdan",
+      "nameAr": "إذاعة صالح الهبدان",
+      "description": "Listen to Quran recitation by Saleh Al-Habdan with a peaceful delivery, perfect for reflection and daily worship.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/saleh_al_habdan",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234764/radio_covers/25_saleh_alhabdan.jpg",
+      "id": 187
+    },
+    {
+      "name": "Quran Radio — Saleh Al-Fawzan",
+      "nameAr": "إذاعة صالح الفوزان",
+      "description": "Stream Quran recitation by Saleh Al-Fawzan in continuous audio for spiritual focus and daily remembrance.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/saleh_alfawzan",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234765/radio_covers/26_saleh_alfawzan.jpg",
+      "id": 188
+    },
+    {
+      "name": "Quran Radio — Tariq Abdul Ghani Daob",
+      "nameAr": "إذاعة طارق عبدالغني دعوب",
+      "description": "Listen to Quran recitation by Tariq Abdul Ghani Daob in smooth streaming audio for daily worship and calm.",
+      "country": "Libya",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/tariq_abdulgani_daoub",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234769/radio_covers/30_tariq_daob.jpg",
+      "id": 189
+    },
+    {
+      "name": "Quran Radio — Adel Al-Kalbani",
+      "nameAr": "إذاعة عادل الكلباني",
+      "description": "Stream Quran recitation by Adel Al-Kalbani with a strong, resonant voice perfect for daily listening and reflection.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/adel_alkalbani",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234770/radio_covers/31_adel_alkalbani.jpg",
+      "id": 190
+    },
+    {
+      "name": "Quran Radio — Adel Rayan",
+      "nameAr": "إذاعة عادل ريان",
+      "description": "Enjoy Quran recitation by Adel Rayan with a peaceful, heartfelt delivery ideal for worship and daily devotion.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/adel_rayan",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234771/radio_covers/32_adel_rayan.jpg",
+      "id": 191
+    },
+    {
+      "name": "Quran Radio — Abdul Bari Al-Thubaity",
+      "nameAr": "إذاعة عبدالباري الثبيتي",
+      "description": "Stream Quran recitation by Abdul Bari Al-Thubaity in clear audio for spiritual focus and daily remembrance.",
+      "country": "Saudi Arabia",
+      "language": "Arabic",
+      "genre": [
+        "Quran Recitation",
+        "Islamic",
+        "Spiritual"
+      ],
+      "streamUrl": "https://backup.qurango.net/radio/abdulbari_althubaity",
+      "streamFormat": "unknown",
+      "status": "active",
+      "lastChecked": "2026-03-04T23:13:09Z",
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234772/radio_covers/33_abdulbari_thubaity.jpg",
+      "id": 192
     }
   ],
   "metadata": {
