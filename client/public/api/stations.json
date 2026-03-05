@@ -22,7 +22,8 @@
       "website": "https://www.holyquranradio.com",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150210/radio_stations/station_001_holy_quran_radio_cairo.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150210/radio_stations/station_001_holy_quran_radio_cairo.jpg",
+      "frequency": "FM 96.1"
     },
     {
       "id": 2,
@@ -42,7 +43,8 @@
       "website": "https://quranradiotafsir.com",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_002_quran_radio_tafsir.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_002_quran_radio_tafsir.jpg",
+      "frequency": "FM 96.2"
     },
     {
       "id": 3,
@@ -61,7 +63,8 @@
       "website": "http://www.islam2day.tv",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_003_islam2day_channel_1.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150211/radio_stations/station_003_islam2day_channel_1.jpg",
+      "frequency": "FM 96.3"
     },
     {
       "id": 4,
@@ -77,7 +80,8 @@
       "streamFormat": "unknown",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150212/radio_stations/station_004_voscast_station.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150212/radio_stations/station_004_voscast_station.jpg",
+      "frequency": "FM 96.4"
     },
     {
       "id": 5,
@@ -95,7 +99,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150213/radio_stations/station_005_ibrahim_al_akhdar.jpg",
-      "description": "Listen to serene Quran recitation by Ibrahim Al-Akhdar in high-quality streaming audio for daily reflection and worship."
+      "description": "Listen to serene Quran recitation by Ibrahim Al-Akhdar in high-quality streaming audio for daily reflection and worship.",
+      "frequency": "FM 96.5"
     },
     {
       "id": 6,
@@ -113,7 +118,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150214/radio_stations/station_006_abu_bakr_al_shatri.jpg",
-      "description": "Stream beautiful Quran recitation by Sheikh Abu Bakr Al-Shatri with a calm, heartfelt tone ideal for prayer and listening."
+      "description": "Stream beautiful Quran recitation by Sheikh Abu Bakr Al-Shatri with a calm, heartfelt tone ideal for prayer and listening.",
+      "frequency": "FM 96.6"
     },
     {
       "id": 7,
@@ -131,7 +137,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150214/radio_stations/station_007_ahmad_al_ajmi.jpg",
-      "description": "Play Quran recitation by Ahmad Al-Ajmi, a widely loved style for daily listening, memorization, and spiritual focus."
+      "description": "Play Quran recitation by Ahmad Al-Ajmi, a widely loved style for daily listening, memorization, and spiritual focus.",
+      "frequency": "FM 96.7"
     },
     {
       "id": 8,
@@ -149,7 +156,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150215/radio_stations/station_008_ahmad_al_hawashi.jpg",
-      "description": "Enjoy Quran recitation by Ahmad Al-Hawashi in clear streaming quality, perfect for relaxation, worship, and contemplation."
+      "description": "Enjoy Quran recitation by Ahmad Al-Hawashi in clear streaming quality, perfect for relaxation, worship, and contemplation.",
+      "frequency": "FM 96.8"
     },
     {
       "id": 9,
@@ -167,7 +175,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150216/radio_stations/station_009_ahmad_saber.jpg",
-      "description": "Stream Quran recitation by Ahmad Saber with a traditional, soothing delivery suitable for continuous listening and devotion."
+      "description": "Stream Quran recitation by Ahmad Saber with a traditional, soothing delivery suitable for continuous listening and devotion.",
+      "frequency": "FM 96.9"
     },
     {
       "id": 10,
@@ -185,7 +194,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150216/radio_stations/station_010_ahmad_nuainah.jpg",
-      "description": "Listen to renowned Egyptian Quran recitation by Ahmad Nuaina with moving maqamat and a timeless, reverent style."
+      "description": "Listen to renowned Egyptian Quran recitation by Ahmad Nuaina with moving maqamat and a timeless, reverent style.",
+      "frequency": "FM 96.10"
     },
     {
       "id": 11,
@@ -203,7 +213,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150217/radio_stations/station_011_akram_al_aqami.jpg",
-      "description": "Play Quran recitation by Akram Al-Alaqmi in smooth streaming audio for remembrance, calm, and daily worship routines."
+      "description": "Play Quran recitation by Akram Al-Alaqmi in smooth streaming audio for remembrance, calm, and daily worship routines.",
+      "frequency": "FM 96.11"
     },
     {
       "id": 12,
@@ -221,7 +232,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150218/radio_stations/station_012_idris_abkar.jpg",
-      "description": "Stream heartfelt Quran recitation by Idris Abkar with a gentle cadence suited for focus, reflection, and tranquility."
+      "description": "Stream heartfelt Quran recitation by Idris Abkar with a gentle cadence suited for focus, reflection, and tranquility.",
+      "frequency": "FM 96.12"
     },
     {
       "id": 13,
@@ -239,7 +251,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150219/radio_stations/station_013_alzain_mohammad_ahmad.jpg",
-      "description": "Listen to Sudanese-style Quran recitation by Al-Zain Muhammad Ahmad with a warm tone and clear articulation."
+      "description": "Listen to Sudanese-style Quran recitation by Al-Zain Muhammad Ahmad with a warm tone and clear articulation.",
+      "frequency": "FM 96.13"
     },
     {
       "id": 14,
@@ -257,7 +270,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150219/radio_stations/station_014_alqari_yaseen.jpg",
-      "description": "Stream Quran recitation by Al-Qari Yاسين in continuous audio for daily listening, spiritual calm, and devotion."
+      "description": "Stream Quran recitation by Al-Qari Yاسين in continuous audio for daily listening, spiritual calm, and devotion.",
+      "frequency": "FM 96.14"
     },
     {
       "id": 15,
@@ -275,7 +289,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150220/radio_stations/station_015_aluyoon_al_koshi.jpg",
-      "description": "Enjoy Quran recitation by Aloyoon Al-Koshi with a distinctive, heartfelt style ideal for quiet moments and prayer."
+      "description": "Enjoy Quran recitation by Aloyoon Al-Koshi with a distinctive, heartfelt style ideal for quiet moments and prayer.",
+      "frequency": "FM 96.15"
     },
     {
       "id": 16,
@@ -293,7 +308,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150221/radio_stations/station_016_tawfeeq_al_sayegh.jpg",
-      "description": "Stream Quran recitation by Tawfeeq Al-Sayegh in clean audio, perfect for worship, contemplation, and daily routines."
+      "description": "Stream Quran recitation by Tawfeeq Al-Sayegh in clean audio, perfect for worship, contemplation, and daily routines.",
+      "frequency": "FM 96.16"
     },
     {
       "id": 17,
@@ -311,7 +327,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150221/radio_stations/station_017_jamal_shaker_abdullah.jpg",
-      "description": "Listen to Quran recitation by Jamal Shaker Abdullah with a steady rhythm and clear tajwid for easy listening."
+      "description": "Listen to Quran recitation by Jamal Shaker Abdullah with a steady rhythm and clear tajwid for easy listening.",
+      "frequency": "FM 96.17"
     },
     {
       "id": 18,
@@ -329,7 +346,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150222/radio_stations/station_018_khaled_al_qahtani.jpg",
-      "description": "Stream Quran recitation by Khaled Al-Qahtani with a peaceful delivery, ideal for reflection, study, and worship."
+      "description": "Stream Quran recitation by Khaled Al-Qahtani with a peaceful delivery, ideal for reflection, study, and worship.",
+      "frequency": "FM 96.18"
     },
     {
       "id": 19,
@@ -347,7 +365,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150223/radio_stations/station_019_khaled_abdulkafi.jpg",
-      "description": "Play Quran recitation by Khalid AbdulKafi in continuous streaming audio for spiritual focus and peaceful listening."
+      "description": "Play Quran recitation by Khalid AbdulKafi in continuous streaming audio for spiritual focus and peaceful listening.",
+      "frequency": "FM 96.19"
     },
     {
       "id": 20,
@@ -365,7 +384,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150223/radio_stations/station_020_khalifa_al_tunaiji.jpg",
-      "description": "Listen to Quran recitation by Khalifa Al-Tunaiji with a soft, measured tone suitable for daily worship and calm."
+      "description": "Listen to Quran recitation by Khalifa Al-Tunaiji with a soft, measured tone suitable for daily worship and calm.",
+      "frequency": "FM 96.20"
     },
     {
       "id": 21,
@@ -383,7 +403,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150224/radio_stations/station_021_saad_al_ghamdi.jpg",
-      "description": "Stream Quran recitation by Saad Al-Ghamdi with a clear, uplifting style great for memorization and daily listening."
+      "description": "Stream Quran recitation by Saad Al-Ghamdi with a clear, uplifting style great for memorization and daily listening.",
+      "frequency": "FM 96.21"
     },
     {
       "id": 22,
@@ -401,7 +422,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150225/radio_stations/station_022_saud_al_shuraim.jpg",
-      "description": "Listen to powerful Quran recitation by Sheikh Saud Al-Shuraim, recorded in a style loved in prayers and gatherings."
+      "description": "Listen to powerful Quran recitation by Sheikh Saud Al-Shuraim, recorded in a style loved in prayers and gatherings.",
+      "frequency": "FM 96.22"
     },
     {
       "id": 23,
@@ -419,7 +441,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150225/radio_stations/station_023_sahl_yaseen.jpg",
-      "description": "Stream Quran recitation by Sahl Yassin in smooth audio for peaceful listening, devotion, and daily remembrance."
+      "description": "Stream Quran recitation by Sahl Yassin in smooth audio for peaceful listening, devotion, and daily remembrance.",
+      "frequency": "FM 96.23"
     },
     {
       "id": 24,
@@ -437,7 +460,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150226/radio_stations/station_024_zaki_daghistani.jpg",
-      "description": "Enjoy Quran recitation by Zaki Daghistani with an emotional, traditional sound ideal for deep reflection and worship."
+      "description": "Enjoy Quran recitation by Zaki Daghistani with an emotional, traditional sound ideal for deep reflection and worship.",
+      "frequency": "FM 96.24"
     },
     {
       "id": 25,
@@ -455,7 +479,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150227/radio_stations/station_025_sayed_ramadan.jpg",
-      "description": "Listen to classic Egyptian Quran recitation by Sayed Ramadan with rich melody and clear tajwid in streaming audio."
+      "description": "Listen to classic Egyptian Quran recitation by Sayed Ramadan with rich melody and clear tajwid in streaming audio.",
+      "frequency": "FM 96.25"
     },
     {
       "id": 26,
@@ -473,7 +498,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150228/radio_stations/station_026_shirzad_abdulrahman_tahir.jpg",
-      "description": "Stream Quran recitation by Shirzad Abdulrahman Taher with a gentle pace, ideal for listening, calm, and worship."
+      "description": "Stream Quran recitation by Shirzad Abdulrahman Taher with a gentle pace, ideal for listening, calm, and worship.",
+      "frequency": "FM 96.26"
     },
     {
       "id": 27,
@@ -491,7 +517,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150229/radio_stations/station_027_saber_abdulhakam.jpg",
-      "description": "Play Quran recitation by Saber Abdulhakm in continuous audio, suitable for daily devotion and spiritual comfort."
+      "description": "Play Quran recitation by Saber Abdulhakm in continuous audio, suitable for daily devotion and spiritual comfort.",
+      "frequency": "FM 96.27"
     },
     {
       "id": 28,
@@ -509,7 +536,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150230/radio_stations/station_028_salah_al_budair.jpg",
-      "description": "Listen to Quran recitation by Salah Al-Budair with a strong, prayer-like delivery in high-quality online streaming."
+      "description": "Listen to Quran recitation by Salah Al-Budair with a strong, prayer-like delivery in high-quality online streaming.",
+      "frequency": "FM 96.28"
     },
     {
       "id": 29,
@@ -527,7 +555,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150230/radio_stations/station_029_salah_al_hashim.jpg",
-      "description": "Stream Quran recitation by Salah Al-Hashim with clear tajwid and a calm voice for focused, daily listening."
+      "description": "Stream Quran recitation by Salah Al-Hashim with clear tajwid and a calm voice for focused, daily listening.",
+      "frequency": "FM 96.29"
     },
     {
       "id": 30,
@@ -545,7 +574,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150231/radio_stations/station_030_salah_bu_khatir.jpg",
-      "description": "Enjoy Quran recitation by Salah Bukhatir, a popular warm style ideal for relaxation, worship, and remembrance."
+      "description": "Enjoy Quran recitation by Salah Bukhatir, a popular warm style ideal for relaxation, worship, and remembrance.",
+      "frequency": "FM 96.30"
     },
     {
       "id": 31,
@@ -563,7 +593,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150232/radio_stations/station_031_adel_ryan.jpg",
-      "description": "Stream Quran recitation by Adel Rayan with a smooth cadence and clear pronunciation for daily spiritual listening."
+      "description": "Stream Quran recitation by Adel Rayan with a smooth cadence and clear pronunciation for daily spiritual listening.",
+      "frequency": "FM 96.31"
     },
     {
       "id": 32,
@@ -581,7 +612,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150233/radio_stations/station_032_abdulbari_al_thubaiti.jpg",
-      "description": "Listen to Quran recitation by Abdulbari Al-Thubayti with a measured, prayerful tone in continuous streaming audio."
+      "description": "Listen to Quran recitation by Abdulbari Al-Thubayti with a measured, prayerful tone in continuous streaming audio.",
+      "frequency": "FM 96.32"
     },
     {
       "id": 33,
@@ -599,7 +631,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150233/radio_stations/station_033_abdulbari_mohammad.jpg",
-      "description": "Stream Quran recitation by Abdulbari Muhammad with clear tajwid, ideal for studying, worship, and daily remembrance."
+      "description": "Stream Quran recitation by Abdulbari Muhammad with clear tajwid, ideal for studying, worship, and daily remembrance.",
+      "frequency": "FM 96.33"
     },
     {
       "id": 34,
@@ -618,7 +651,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_036_abdulbasit_abdulsamad_3.jpg",
-      "description": "Listen to legendary Mujawwad Quran recitation by AbdulBasit AbdulSamad with iconic melody and powerful presence."
+      "description": "Listen to legendary Mujawwad Quran recitation by AbdulBasit AbdulSamad with iconic melody and powerful presence.",
+      "frequency": "FM 96.34"
     },
     {
       "id": 35,
@@ -638,7 +672,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_036_abdulbasit_abdulsamad_3.jpg",
-      "description": "Stream AbdulBasit AbdulSamad reciting in Warsh narration, a treasured style for learners and devoted listeners."
+      "description": "Stream AbdulBasit AbdulSamad reciting in Warsh narration, a treasured style for learners and devoted listeners.",
+      "frequency": "FM 96.35"
     },
     {
       "id": 36,
@@ -656,7 +691,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_036_abdulbasit_abdulsamad_3.jpg",
-      "description": "Enjoy timeless Quran recitation by AbdulBasit AbdulSamad in continuous streaming audio for worship and reflection."
+      "description": "Enjoy timeless Quran recitation by AbdulBasit AbdulSamad in continuous streaming audio for worship and reflection.",
+      "frequency": "FM 96.36"
     },
     {
       "id": 37,
@@ -674,7 +710,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150236/radio_stations/station_037_abdulrahman_al_sudais.jpg",
-      "description": "Stream Quran recitation by Sheikh Abdulrahman Al-Sudais with a powerful masjid-style delivery in clear audio."
+      "description": "Stream Quran recitation by Sheikh Abdulrahman Al-Sudais with a powerful masjid-style delivery in clear audio.",
+      "frequency": "FM 96.37"
     },
     {
       "id": 38,
@@ -692,7 +729,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150237/radio_stations/station_038_abdulaziz_al_ahmad.jpg",
-      "description": "Listen to Quran recitation by Abdulaziz Al-Ahmad in continuous streaming audio for daily worship and calm listening."
+      "description": "Listen to Quran recitation by Abdulaziz Al-Ahmad in continuous streaming audio for daily worship and calm listening.",
+      "frequency": "FM 96.38"
     },
     {
       "id": 39,
@@ -710,7 +748,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150238/radio_stations/station_039_abdullah_al_matroud.jpg",
-      "description": "Stream Quran recitation by Abdullah Al-Mattrod with a soothing voice and clear tajwid for everyday listening."
+      "description": "Stream Quran recitation by Abdullah Al-Mattrod with a soothing voice and clear tajwid for everyday listening.",
+      "frequency": "FM 96.39"
     },
     {
       "id": 40,
@@ -728,7 +767,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150239/radio_stations/station_040_abdullah_basfar.jpg",
-      "description": "Listen to Quran recitation by Abdullah Basfar, a gentle and clear style ideal for reflection, prayer, and calm."
+      "description": "Listen to Quran recitation by Abdullah Basfar, a gentle and clear style ideal for reflection, prayer, and calm.",
+      "frequency": "FM 96.40"
     },
     {
       "id": 41,
@@ -746,7 +786,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150239/radio_stations/station_041_abdullah_khayyat.jpg",
-      "description": "Stream Quran recitation by Sheikh Abdullah Khayyat with a classic masjid tone and clear recitation quality."
+      "description": "Stream Quran recitation by Sheikh Abdullah Khayyat with a classic masjid tone and clear recitation quality.",
+      "frequency": "FM 96.41"
     },
     {
       "id": 42,
@@ -764,7 +805,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150240/radio_stations/station_042_abdullah_awad_al_juhani.jpg",
-      "description": "Listen to Quran recitation by Abdullah Al-Juhani with a calm, prayer-like delivery in continuous streaming audio."
+      "description": "Listen to Quran recitation by Abdullah Al-Juhani with a calm, prayer-like delivery in continuous streaming audio.",
+      "frequency": "FM 96.42"
     },
     {
       "id": 43,
@@ -784,7 +826,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150242/radio_stations/station_044_abdulrasheed_soufi_2.jpg",
-      "description": "Stream Quran recitation by Abdulrasheed Soufi in the Khalaf reading, clear and steady for focused listening."
+      "description": "Stream Quran recitation by Abdulrasheed Soufi in the Khalaf reading, clear and steady for focused listening.",
+      "frequency": "FM 96.43"
     },
     {
       "id": 44,
@@ -804,7 +847,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150242/radio_stations/station_044_abdulrasheed_soufi_2.jpg",
-      "description": "Listen to Abdulrasheed Soufi reciting in As-Susi narration, with crisp tajwid and a tranquil pace."
+      "description": "Listen to Abdulrasheed Soufi reciting in As-Susi narration, with crisp tajwid and a tranquil pace.",
+      "frequency": "FM 96.44"
     },
     {
       "id": 45,
@@ -822,7 +866,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150243/radio_stations/station_045_abdulmohsen_al_harthy.jpg",
-      "description": "Stream Quran recitation by Abdulmohsin Al-Harthy in clear audio for daily listening, worship, and reflection."
+      "description": "Stream Quran recitation by Abdulmohsin Al-Harthy in clear audio for daily listening, worship, and reflection.",
+      "frequency": "FM 96.45"
     },
     {
       "id": 46,
@@ -840,7 +885,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150244/radio_stations/station_046_abdulmohsen_al_qasim.jpg",
-      "description": "Listen to Quran recitation by Abdulmohsen Al-Qasim with a masjid-style cadence and strong, clear delivery."
+      "description": "Listen to Quran recitation by Abdulmohsen Al-Qasim with a masjid-style cadence and strong, clear delivery.",
+      "frequency": "FM 96.46"
     },
     {
       "id": 47,
@@ -858,7 +904,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150245/radio_stations/station_047_abdulmohsen_al_obaikan.jpg",
-      "description": "Stream Quran recitation by Abdulmohsin Al-Obaikan in continuous audio, ideal for calm listening and devotion."
+      "description": "Stream Quran recitation by Abdulmohsin Al-Obaikan in continuous audio, ideal for calm listening and devotion.",
+      "frequency": "FM 96.47"
     },
     {
       "id": 48,
@@ -876,7 +923,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150245/radio_stations/station_048_abdulhadi_ahmad_kanakri.jpg",
-      "description": "Listen to Quran recitation by Abdulhadi Kanakeri with clear tajwid and a gentle, steady pace in streaming audio."
+      "description": "Listen to Quran recitation by Abdulhadi Kanakeri with clear tajwid and a gentle, steady pace in streaming audio.",
+      "frequency": "FM 96.48"
     },
     {
       "id": 49,
@@ -894,7 +942,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150246/radio_stations/station_049_abdulwadood_haneef.jpg",
-      "description": "Stream Quran recitation by Abdulwadood Haneef with a calm tone and clear articulation for daily listening."
+      "description": "Stream Quran recitation by Abdulwadood Haneef with a calm tone and clear articulation for daily listening.",
+      "frequency": "FM 96.49"
     },
     {
       "id": 50,
@@ -912,7 +961,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150247/radio_stations/station_050_ali_al_hudhaifi.jpg",
-      "description": "Listen to Quran recitation by Ali Al-Hudhaifi with a well-known masjid style, clear tajwid, and steady pacing."
+      "description": "Listen to Quran recitation by Ali Al-Hudhaifi with a well-known masjid style, clear tajwid, and steady pacing.",
+      "frequency": "FM 96.50"
     },
     {
       "id": 51,
@@ -932,7 +982,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150248/radio_stations/station_051_ali_al_hudhaifi_2.jpg",
-      "description": "Stream Ali Al-Hudhaifi reciting in Qalun narration, ideal for learners of qira'at and devoted listeners."
+      "description": "Stream Ali Al-Hudhaifi reciting in Qalun narration, ideal for learners of qira'at and devoted listeners.",
+      "frequency": "FM 96.51"
     },
     {
       "id": 52,
@@ -950,7 +1001,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150248/radio_stations/station_052_ali_jaber.jpg",
-      "description": "Listen to classic Quran recitation by Ali Jaber with a deeply moving masjid tone in continuous streaming audio."
+      "description": "Listen to classic Quran recitation by Ali Jaber with a deeply moving masjid tone in continuous streaming audio.",
+      "frequency": "FM 96.52"
     },
     {
       "id": 53,
@@ -968,7 +1020,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150249/radio_stations/station_053_ali_hajjaj_al_suwaisi.jpg",
-      "description": "Stream Quran recitation by Ali Hajjaj Al-Souasi with clear tajwid and a traditional North African recitation feel."
+      "description": "Stream Quran recitation by Ali Hajjaj Al-Souasi with clear tajwid and a traditional North African recitation feel.",
+      "frequency": "FM 96.53"
     },
     {
       "id": 54,
@@ -986,7 +1039,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150250/radio_stations/station_054_emad_zuhair_hafiz.jpg",
-      "description": "Listen to Quran recitation by Emad Zuhair Hafez in smooth streaming audio for worship, calm, and reflection."
+      "description": "Listen to Quran recitation by Emad Zuhair Hafez in smooth streaming audio for worship, calm, and reflection.",
+      "frequency": "FM 96.54"
     },
     {
       "id": 55,
@@ -1004,7 +1058,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150251/radio_stations/station_055_omar_al_qazabri.jpg",
-      "description": "Stream Quran recitation by Omar Al-Qazabri with a calm Moroccan style, ideal for focus, study, and prayer."
+      "description": "Stream Quran recitation by Omar Al-Qazabri with a calm Moroccan style, ideal for focus, study, and prayer.",
+      "frequency": "FM 96.55"
     },
     {
       "id": 56,
@@ -1022,7 +1077,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150251/radio_stations/station_056_fares_abbad.jpg",
-      "description": "Listen to Quran recitation by Fares Abbad with a deeply emotional tone, perfect for night listening and reflection."
+      "description": "Listen to Quran recitation by Fares Abbad with a deeply emotional tone, perfect for night listening and reflection.",
+      "frequency": "FM 96.56"
     },
     {
       "id": 57,
@@ -1040,7 +1096,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150252/radio_stations/station_057_nasser_al_qatami.jpg",
-      "description": "Stream Quran recitation by Nasser Al-Qatami with a soft, beautiful delivery ideal for daily listening and worship."
+      "description": "Stream Quran recitation by Nasser Al-Qatami with a soft, beautiful delivery ideal for daily listening and worship.",
+      "frequency": "FM 96.57"
     },
     {
       "id": 58,
@@ -1058,7 +1115,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150253/radio_stations/station_058_nabil_al_rifai.jpg",
-      "description": "Listen to moving Quran recitation by Nabil Al-Rifai with a heartfelt tone in high-quality streaming audio."
+      "description": "Listen to moving Quran recitation by Nabil Al-Rifai with a heartfelt tone in high-quality streaming audio.",
+      "frequency": "FM 96.58"
     },
     {
       "id": 59,
@@ -1076,7 +1134,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150253/radio_stations/station_059_nemat_al_hassan.jpg",
-      "description": "Stream Quran recitation by Neamah Al-Hassan with clear tajwid and a calm pace for daily spiritual listening."
+      "description": "Stream Quran recitation by Neamah Al-Hassan with clear tajwid and a calm pace for daily spiritual listening.",
+      "frequency": "FM 96.59"
     },
     {
       "id": 60,
@@ -1094,7 +1153,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150254/radio_stations/station_060_hani_al_rifai.jpg",
-      "description": "Listen to Quran recitation by Hani Al-Rifai with a soothing, balanced delivery ideal for continuous listening."
+      "description": "Listen to Quran recitation by Hani Al-Rifai with a soothing, balanced delivery ideal for continuous listening.",
+      "frequency": "FM 96.60"
     },
     {
       "id": 61,
@@ -1112,7 +1172,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150255/radio_stations/station_061_waleed_al_naahi.jpg",
-      "description": "Stream Quran recitation by Waleed Al-Naehi with a gentle tone and clear pronunciation for daily worship and calm."
+      "description": "Stream Quran recitation by Waleed Al-Naehi with a gentle tone and clear pronunciation for daily worship and calm.",
+      "frequency": "FM 96.61"
     },
     {
       "id": 62,
@@ -1130,7 +1191,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150255/radio_stations/station_062_yasser_al_dossari.jpg",
-      "description": "Listen to Quran recitation by Yasser Al-Dosari with a strong, emotional masjid delivery in high-quality streaming."
+      "description": "Listen to Quran recitation by Yasser Al-Dosari with a strong, emotional masjid delivery in high-quality streaming.",
+      "frequency": "FM 96.62"
     },
     {
       "id": 63,
@@ -1148,7 +1210,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150256/radio_stations/station_063_yasser_al_qurashi.jpg",
-      "description": "Stream Quran recitation by Yasser Al-Qurashi with a calm and clear style, perfect for daily remembrance."
+      "description": "Stream Quran recitation by Yasser Al-Qurashi with a calm and clear style, perfect for daily remembrance.",
+      "frequency": "FM 96.63"
     },
     {
       "id": 64,
@@ -1166,7 +1229,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150257/radio_stations/station_064_yasser_al_mazrouei.jpg",
-      "description": "Listen to Quran recitation by Yasser Al-Mazrooei with a smooth, gentle pace ideal for calm, worship, and study."
+      "description": "Listen to Quran recitation by Yasser Al-Mazrooei with a smooth, gentle pace ideal for calm, worship, and study.",
+      "frequency": "FM 96.64"
     },
     {
       "id": 65,
@@ -1184,7 +1248,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150258/radio_stations/station_065_yahya_hawa.jpg",
-      "description": "Stream Quran recitation by Yahya Hawwa with clear tajwid and a comforting tone for daily listening and reflection."
+      "description": "Stream Quran recitation by Yahya Hawwa with clear tajwid and a comforting tone for daily listening and reflection.",
+      "frequency": "FM 96.65"
     },
     {
       "id": 66,
@@ -1202,7 +1267,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150258/radio_stations/station_066_yousef_al_shoaibi.jpg",
-      "description": "Listen to Quran recitation by Yousef Al-Shoaey in continuous streaming audio for peaceful worship and daily remembrance."
+      "description": "Listen to Quran recitation by Yousef Al-Shoaey in continuous streaming audio for peaceful worship and daily remembrance.",
+      "frequency": "FM 96.66"
     },
     {
       "id": 67,
@@ -1220,7 +1286,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150260/radio_stations/station_067_maher_al_muaiqly.jpg",
-      "description": "Stream Quran recitation by Maher Al-Muaiqly with a widely loved masjid tone, clear tajwid, and calm pacing."
+      "description": "Stream Quran recitation by Maher Al-Muaiqly with a widely loved masjid tone, clear tajwid, and calm pacing.",
+      "frequency": "FM 96.67"
     },
     {
       "id": 68,
@@ -1238,7 +1305,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150261/radio_stations/station_068_mohammad_al_tablawi.jpg",
-      "description": "Listen to classic Egyptian Quran recitation by Muhammad Al-Tablawi with rich melody and traditional maqamat."
+      "description": "Listen to classic Egyptian Quran recitation by Muhammad Al-Tablawi with rich melody and traditional maqamat.",
+      "frequency": "FM 96.68"
     },
     {
       "id": 69,
@@ -1256,7 +1324,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150261/radio_stations/station_069_mohammad_al_luhaydan.jpg",
-      "description": "Stream Quran recitation by Mohammed Al-Luhaidan with a deep, emotional voice ideal for night prayers and reflection."
+      "description": "Stream Quran recitation by Mohammed Al-Luhaidan with a deep, emotional voice ideal for night prayers and reflection.",
+      "frequency": "FM 96.69"
     },
     {
       "id": 70,
@@ -1274,7 +1343,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150263/radio_stations/station_070_muhammad_ayyub.jpg",
-      "description": "Listen to Quran recitation by Muhammad Ayyub with a clean, balanced tone and strong tajwid in streaming audio."
+      "description": "Listen to Quran recitation by Muhammad Ayyub with a clean, balanced tone and strong tajwid in streaming audio.",
+      "frequency": "FM 96.70"
     },
     {
       "id": 71,
@@ -1292,7 +1362,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150264/radio_stations/station_071_mohammad_saleh_alam_shah.jpg",
-      "description": "Stream Quran recitation by Mohammad Saleh Alim Shah with clear pronunciation and a steady pace for daily listening."
+      "description": "Stream Quran recitation by Mohammad Saleh Alim Shah with clear pronunciation and a steady pace for daily listening.",
+      "frequency": "FM 96.71"
     },
     {
       "id": 72,
@@ -1310,7 +1381,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150264/radio_stations/station_072_muhammad_jibreel.jpg",
-      "description": "Listen to Quran recitation by Muhammad Jibreel with an emotional, prayer-like delivery in high-quality streaming audio."
+      "description": "Listen to Quran recitation by Muhammad Jibreel with an emotional, prayer-like delivery in high-quality streaming audio.",
+      "frequency": "FM 96.72"
     },
     {
       "id": 73,
@@ -1328,7 +1400,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150266/radio_stations/station_074_mohammad_siddiq_al_menshawi_2.jpg",
-      "description": "Stream Quran recitation by Muhammad Siddiq Al-Minshawi with a humble, deeply moving Egyptian style loved worldwide."
+      "description": "Stream Quran recitation by Muhammad Siddiq Al-Minshawi with a humble, deeply moving Egyptian style loved worldwide.",
+      "frequency": "FM 96.73"
     },
     {
       "id": 74,
@@ -1347,7 +1420,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150266/radio_stations/station_074_mohammad_siddiq_al_menshawi_2.jpg",
-      "description": "Listen to Mujawwad Quran recitation by Muhammad Siddiq Al-Minshawi with rich melody and profound spiritual depth."
+      "description": "Listen to Mujawwad Quran recitation by Muhammad Siddiq Al-Minshawi with rich melody and profound spiritual depth.",
+      "frequency": "FM 96.74"
     },
     {
       "id": 75,
@@ -1365,7 +1439,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150322/radio_stations/station_109_mohammad_abdulkareem_2.jpg",
-      "description": "Stream Quran recitation by Mohammad AbdulKareem with a calm voice and clear tajwid for daily worship and reflection."
+      "description": "Stream Quran recitation by Mohammad AbdulKareem with a calm voice and clear tajwid for daily worship and reflection.",
+      "frequency": "FM 96.75"
     },
     {
       "id": 76,
@@ -1385,7 +1460,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150268/radio_stations/station_077_mohammad_abdulhakeem_saeed_2.jpg",
-      "description": "Listen to Mohammad Al-Abdullah reciting with Al-Bazzi narration, a beautiful qira'at stream for learners and listeners."
+      "description": "Listen to Mohammad Al-Abdullah reciting with Al-Bazzi narration, a beautiful qira'at stream for learners and listeners.",
+      "frequency": "FM 96.76"
     },
     {
       "id": 77,
@@ -1405,7 +1481,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150268/radio_stations/station_077_mohammad_abdulhakeem_saeed_2.jpg",
-      "description": "Stream Mohammad Al-Abdullah in Ad-Duri narration with clear tajwid and a steady pace for qira'at listening."
+      "description": "Stream Mohammad Al-Abdullah in Ad-Duri narration with clear tajwid and a steady pace for qira'at listening.",
+      "frequency": "FM 96.77"
     },
     {
       "id": 78,
@@ -1423,7 +1500,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150270/radio_stations/station_080_mahmoud_khalil_al_husary_3.jpg",
-      "description": "Listen to the precise, teacher-like Quran recitation of Mahmoud Khalil Al-Hussary, ideal for learning tajwid."
+      "description": "Listen to the precise, teacher-like Quran recitation of Mahmoud Khalil Al-Hussary, ideal for learning tajwid.",
+      "frequency": "FM 96.78"
     },
     {
       "id": 79,
@@ -1442,7 +1520,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150270/radio_stations/station_080_mahmoud_khalil_al_husary_3.jpg",
-      "description": "Stream Mujawwad Quran recitation by Mahmoud Khalil Al-Hussary with beautiful melody and careful articulation."
+      "description": "Stream Mujawwad Quran recitation by Mahmoud Khalil Al-Hussary with beautiful melody and careful articulation.",
+      "frequency": "FM 96.79"
     },
     {
       "id": 80,
@@ -1462,7 +1541,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150270/radio_stations/station_080_mahmoud_khalil_al_husary_3.jpg",
-      "description": "Listen to Mahmoud Khalil Al-Hussary reciting in Warsh narration, a clear and educational qira'at stream."
+      "description": "Listen to Mahmoud Khalil Al-Hussary reciting in Warsh narration, a clear and educational qira'at stream.",
+      "frequency": "FM 96.80"
     },
     {
       "id": 81,
@@ -1480,7 +1560,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150272/radio_stations/station_082_mahmoud_ali_al_banna_2.jpg",
-      "description": "Stream classic Egyptian Quran recitation by Mahmoud Ali Al-Banna with elegant melody and clear tajwid."
+      "description": "Stream classic Egyptian Quran recitation by Mahmoud Ali Al-Banna with elegant melody and clear tajwid.",
+      "frequency": "FM 96.81"
     },
     {
       "id": 82,
@@ -1499,7 +1580,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150272/radio_stations/station_082_mahmoud_ali_al_banna_2.jpg",
-      "description": "Listen to Mujawwad Quran recitation by Mahmoud Ali Al-Banna with rich maqamat and a classic Egyptian performance."
+      "description": "Listen to Mujawwad Quran recitation by Mahmoud Ali Al-Banna with rich maqamat and a classic Egyptian performance.",
+      "frequency": "FM 96.82"
     },
     {
       "id": 83,
@@ -1517,7 +1599,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150272/radio_stations/station_083_mishari_al_afasi.jpg",
-      "description": "Stream Quran recitation by Mishary Alafasy with a widely loved, calming voice perfect for daily listening and worship."
+      "description": "Stream Quran recitation by Mishary Alafasy with a widely loved, calming voice perfect for daily listening and worship.",
+      "frequency": "FM 96.83"
     },
     {
       "id": 84,
@@ -1535,7 +1618,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150273/radio_stations/station_084_mustafa_ismail.jpg",
-      "description": "Listen to masterful Egyptian Quran recitation by Mustafa Ismail, known for exceptional maqamat and artistry."
+      "description": "Listen to masterful Egyptian Quran recitation by Mustafa Ismail, known for exceptional maqamat and artistry.",
+      "frequency": "FM 96.84"
     },
     {
       "id": 85,
@@ -1553,7 +1637,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150274/radio_stations/station_085_mustafa_al_lahouni.jpg",
-      "description": "Stream Quran recitation by Mustafa Al-Lahoni with a clear, gentle style suitable for worship and reflection."
+      "description": "Stream Quran recitation by Mustafa Al-Lahoni with a clear, gentle style suitable for worship and reflection.",
+      "frequency": "FM 96.85"
     },
     {
       "id": 86,
@@ -1571,7 +1656,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150275/radio_stations/station_086_mustafa_raad_al_azawi.jpg",
-      "description": "Listen to Quran recitation by Mustafa Raad Al-Azawy with a calm Iraqi style in continuous streaming audio."
+      "description": "Listen to Quran recitation by Mustafa Raad Al-Azawy with a calm Iraqi style in continuous streaming audio.",
+      "frequency": "FM 96.86"
     },
     {
       "id": 87,
@@ -1591,7 +1677,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150284/radio_stations/station_100_muftah_al_sultani_4.jpg",
-      "description": "Stream Muftah Al-Saltany in Ad-Duri ‘an Abi ‘Amr reading, a specialized qira'at station for learners."
+      "description": "Stream Muftah Al-Saltany in Ad-Duri ‘an Abi ‘Amr reading, a specialized qira'at station for learners.",
+      "frequency": "FM 96.87"
     },
     {
       "id": 88,
@@ -1609,7 +1696,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150276/radio_stations/station_088_maher_shakhashero.jpg",
-      "description": "Listen to Quran recitation by Maher Shakhashero with a soft, heartfelt style in smooth online streaming audio."
+      "description": "Listen to Quran recitation by Maher Shakhashero with a soft, heartfelt style in smooth online streaming audio.",
+      "frequency": "FM 96.88"
     },
     {
       "id": 89,
@@ -1627,7 +1715,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150277/radio_stations/station_089_mahmoud_al_sheimi.jpg",
-      "description": "Stream Quran recitation by Mahmoud Al-Sheimy with clear tajwid and a calm tone for daily listening and worship."
+      "description": "Stream Quran recitation by Mahmoud Al-Sheimy with clear tajwid and a calm tone for daily listening and worship.",
+      "frequency": "FM 96.89"
     },
     {
       "id": 90,
@@ -1645,7 +1734,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150277/radio_stations/station_090_khaled_al_muhanna.jpg",
-      "description": "Listen to Quran recitation by Khalid Al-Muhanna with a measured, tranquil delivery in continuous streaming audio."
+      "description": "Listen to Quran recitation by Khalid Al-Muhanna with a measured, tranquil delivery in continuous streaming audio.",
+      "frequency": "FM 96.90"
     },
     {
       "id": 91,
@@ -1663,7 +1753,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150278/radio_stations/station_091_adel_al_kalbani.jpg",
-      "description": "Stream Quran recitation by Adel Al-Kalbani with a strong masjid tone and clear tajwid for daily worship."
+      "description": "Stream Quran recitation by Adel Al-Kalbani with a strong masjid tone and clear tajwid for daily worship.",
+      "frequency": "FM 96.91"
     },
     {
       "id": 92,
@@ -1681,7 +1772,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150279/radio_stations/station_092_musa_bilal.jpg",
-      "description": "Listen to Quran recitation by Mousa Bilal with a warm tone and clear articulation in continuous streaming audio."
+      "description": "Listen to Quran recitation by Mousa Bilal with a warm tone and clear articulation in continuous streaming audio.",
+      "frequency": "FM 96.92"
     },
     {
       "id": 93,
@@ -1699,7 +1791,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150279/radio_stations/station_093_hatem_fareed_al_waer.jpg",
-      "description": "Stream Quran recitation by Hatem Fareed Al-Wa'er in clear audio for daily listening, prayer, and spiritual peace."
+      "description": "Stream Quran recitation by Hatem Fareed Al-Wa'er in clear audio for daily listening, prayer, and spiritual peace.",
+      "frequency": "FM 96.93"
     },
     {
       "id": 94,
@@ -1717,7 +1810,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150280/radio_stations/station_094_mahmoud_al_rifai.jpg",
-      "description": "Listen to Quran recitation by Mahmoud Al-Rifai with a calm voice and clear tajwid in continuous streaming audio."
+      "description": "Listen to Quran recitation by Mahmoud Al-Rifai with a calm voice and clear tajwid in continuous streaming audio.",
+      "frequency": "FM 96.94"
     },
     {
       "id": 95,
@@ -1735,7 +1829,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150281/radio_stations/station_095_ibrahim_al_dosari.jpg",
-      "description": "Stream Quran recitation by Ibrahim Al-Dosari with a steady pace and clear pronunciation for daily worship and calm."
+      "description": "Stream Quran recitation by Ibrahim Al-Dosari with a steady pace and clear pronunciation for daily worship and calm.",
+      "frequency": "FM 96.95"
     },
     {
       "id": 96,
@@ -1755,7 +1850,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150284/radio_stations/station_100_muftah_al_sultani_4.jpg",
-      "description": "Listen to Muftah Al-Saltany in Ad-Duri narration (variant stream) with clear tajwid and stable audio streaming."
+      "description": "Listen to Muftah Al-Saltany in Ad-Duri narration (variant stream) with clear tajwid and stable audio streaming.",
+      "frequency": "FM 96.96"
     },
     {
       "id": 97,
@@ -1773,7 +1869,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150282/radio_stations/station_097_jumaan_al_osaimi.jpg",
-      "description": "Stream Quran recitation by Jamaan Al-Osaimi with a calm delivery and clear pronunciation for daily listening."
+      "description": "Stream Quran recitation by Jamaan Al-Osaimi with a calm delivery and clear pronunciation for daily listening.",
+      "frequency": "FM 96.97"
     },
     {
       "id": 98,
@@ -1792,7 +1889,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150284/radio_stations/station_100_muftah_al_sultani_4.jpg",
-      "description": "Listen to Quran recitation by Muftah Al-Saltany in continuous streaming audio, focused on qira'at and tajwid clarity."
+      "description": "Listen to Quran recitation by Muftah Al-Saltany in continuous streaming audio, focused on qira'at and tajwid clarity.",
+      "frequency": "FM 96.98"
     },
     {
       "id": 99,
@@ -1810,7 +1908,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150284/radio_stations/station_099_yousef_bin_nouh_ahmad.jpg",
-      "description": "Stream Quran recitation by Yousef Bin Noah Ahmad with a smooth tone and clear tajwid for daily worship and calm."
+      "description": "Stream Quran recitation by Yousef Bin Noah Ahmad with a smooth tone and clear tajwid for daily worship and calm.",
+      "frequency": "FM 96.99"
     },
     {
       "id": 100,
@@ -1830,7 +1929,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150284/radio_stations/station_100_muftah_al_sultani_4.jpg",
-      "description": "Listen to Muftah Al-Saltany in Ibn Dhakwan narration, a specialized qira'at stream for advanced listeners."
+      "description": "Listen to Muftah Al-Saltany in Ibn Dhakwan narration, a specialized qira'at stream for advanced listeners.",
+      "frequency": "FM 96.100"
     },
     {
       "id": 101,
@@ -1848,7 +1948,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150285/radio_stations/station_101_muaidh_al_harthy.jpg",
-      "description": "Stream Quran recitation by Moeedh Al-Harthi with a gentle delivery and clear pronunciation for daily listening."
+      "description": "Stream Quran recitation by Moeedh Al-Harthi with a gentle delivery and clear pronunciation for daily listening.",
+      "frequency": "FM 96.101"
     },
     {
       "id": 102,
@@ -1866,7 +1967,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150286/radio_stations/station_102_mohammad_rashad_al_shareef.jpg",
-      "description": "Listen to Quran recitation by Mohammad Rashad Al-Shareef with a calm masjid tone and clean streaming audio."
+      "description": "Listen to Quran recitation by Mohammad Rashad Al-Shareef with a calm masjid tone and clean streaming audio.",
+      "frequency": "FM 96.102"
     },
     {
       "id": 103,
@@ -1884,7 +1986,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150287/radio_stations/station_103_ahmad_khader_al_tarabulsi.jpg",
-      "description": "Stream Quran recitation by Ahmad Khader Al-Trabulsi with clear tajwid and a soothing cadence for daily listening."
+      "description": "Stream Quran recitation by Ahmad Khader Al-Trabulsi with clear tajwid and a soothing cadence for daily listening.",
+      "frequency": "FM 96.103"
     },
     {
       "id": 104,
@@ -1902,7 +2005,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150287/radio_stations/station_104_ahmad_al_tarabulsi.jpg",
-      "description": "Listen to Quran recitation by Ahmed Al-Trabulsi in smooth streaming audio, ideal for worship and reflection."
+      "description": "Listen to Quran recitation by Ahmed Al-Trabulsi in smooth streaming audio, ideal for worship and reflection.",
+      "frequency": "FM 96.104"
     },
     {
       "id": 105,
@@ -1920,7 +2024,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150288/radio_stations/station_105_abdullah_al_kandari.jpg",
-      "description": "Stream Quran recitation by Abdullah Al-Kandari with clear tajwid and a calm pace for daily listening and worship."
+      "description": "Stream Quran recitation by Abdullah Al-Kandari with clear tajwid and a calm pace for daily listening and worship.",
+      "frequency": "FM 96.105"
     },
     {
       "id": 106,
@@ -1938,7 +2043,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150288/radio_stations/station_106_ahmad_amer.jpg",
-      "description": "Listen to Quran recitation by Ahmed Amer with a traditional style and clear tajwid in continuous streaming audio."
+      "description": "Listen to Quran recitation by Ahmed Amer with a traditional style and clear tajwid in continuous streaming audio.",
+      "frequency": "FM 96.106"
     },
     {
       "id": 107,
@@ -1956,7 +2062,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150289/radio_stations/station_107_mohammad_othman_khan.jpg",
-      "description": "Stream Quran recitation by Mohammed Osman Khan with clear articulation and steady pacing for daily listening and devotion."
+      "description": "Stream Quran recitation by Mohammed Osman Khan with clear articulation and steady pacing for daily listening and devotion.",
+      "frequency": "FM 96.107"
     },
     {
       "id": 108,
@@ -1974,7 +2081,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150290/radio_stations/station_108_al_dokali_mohammad_al_alam.jpg",
-      "description": "Listen to Moroccan Quran recitation by Addokali Mohammad Al-Alim with a calm, clear style in streaming audio."
+      "description": "Listen to Moroccan Quran recitation by Addokali Mohammad Al-Alim with a calm, clear style in streaming audio.",
+      "frequency": "FM 96.108"
     },
     {
       "id": 109,
@@ -1992,7 +2100,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150322/radio_stations/station_109_mohammad_abdulkareem_2.jpg",
-      "description": "Stream Quran recitation by Mohammad AbdulKareem (Al-Asbahani) with clear tajwid and steady pacing for daily worship."
+      "description": "Stream Quran recitation by Mohammad AbdulKareem (Al-Asbahani) with clear tajwid and steady pacing for daily worship.",
+      "frequency": "FM 96.109"
     },
     {
       "id": 110,
@@ -2010,7 +2119,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150323/radio_stations/station_110_alfateh_mohammad_al_zubair.jpg",
-      "description": "Listen to Quran recitation by Al-Fateh Al-Zubair with a warm Sudanese tone and clear pronunciation in streaming audio."
+      "description": "Listen to Quran recitation by Al-Fateh Al-Zubair with a warm Sudanese tone and clear pronunciation in streaming audio.",
+      "frequency": "FM 96.110"
     },
     {
       "id": 111,
@@ -2028,7 +2138,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150324/radio_stations/station_111_tareq_abdulghani_daoub.jpg",
-      "description": "Stream Quran recitation by Tareq Abdulghani Daawob with clear tajwid and a calm rhythm for daily remembrance."
+      "description": "Stream Quran recitation by Tareq Abdulghani Daawob with clear tajwid and a calm rhythm for daily remembrance.",
+      "frequency": "FM 96.111"
     },
     {
       "id": 112,
@@ -2047,7 +2158,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150325/radio_stations/station_112_general_radio.jpg",
-      "description": "A mixed Quran radio station featuring multiple reciters—perfect for continuous listening, discovery, and daily worship."
+      "description": "A mixed Quran radio station featuring multiple reciters—perfect for continuous listening, discovery, and daily worship.",
+      "frequency": "FM 96.112"
     },
     {
       "id": 113,
@@ -2066,7 +2178,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150325/radio_stations/station_113_humble_recitations.jpg",
-      "description": "Stream deeply humble, emotional Quran recitations (khushu’) for tranquility, heartfelt reflection, and worship."
+      "description": "Stream deeply humble, emotional Quran recitations (khushu’) for tranquility, heartfelt reflection, and worship.",
+      "frequency": "FM 96.113"
     },
     {
       "id": 114,
@@ -2085,7 +2198,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150326/radio_stations/station_114_eid_takbeerat.jpg",
-      "description": "Listen to Eid Takbeerat streaming audio—uplifting remembrance for Eid days, gatherings, and joyful celebration."
+      "description": "Listen to Eid Takbeerat streaming audio—uplifting remembrance for Eid days, gatherings, and joyful celebration.",
+      "frequency": "FM 96.114"
     },
     {
       "id": 115,
@@ -2103,7 +2217,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150327/radio_stations/station_115_abdulrahman_al_majed.jpg",
-      "description": "Stream Quran recitation by Abdulrahman Al-Majed with a calm, clear masjid tone for daily listening and worship."
+      "description": "Stream Quran recitation by Abdulrahman Al-Majed with a calm, clear masjid tone for daily listening and worship.",
+      "frequency": "FM 96.115"
     },
     {
       "id": 116,
@@ -2121,7 +2236,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150328/radio_stations/station_117_general_fatwas.jpg",
-      "description": "Stream general Islamic fatwas and guidance in audio format—ideal for learning, reminders, and everyday questions."
+      "description": "Stream general Islamic fatwas and guidance in audio format—ideal for learning, reminders, and everyday questions.",
+      "frequency": "FM 96.116"
     },
     {
       "id": 117,
@@ -2140,7 +2256,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150531/radio_stations/station_118_ruqya_sharia.jpg",
-      "description": "Listen to Ruqyah Shar'iyyah audio stream with Quranic recitations and supplications for comfort and spiritual wellbeing."
+      "description": "Listen to Ruqyah Shar'iyyah audio stream with Quranic recitations and supplications for comfort and spiritual wellbeing.",
+      "frequency": "FM 96.117"
     },
     {
       "id": 118,
@@ -2159,7 +2276,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150532/radio_stations/station_119_surah_al_baqarah.jpg",
-      "description": "Stream Surah Al-Baqarah continuously by multiple reciters—ideal for daily listening, ruqyah routines, and reflection."
+      "description": "Stream Surah Al-Baqarah continuously by multiple reciters—ideal for daily listening, ruqyah routines, and reflection.",
+      "frequency": "FM 96.118"
     },
     {
       "id": 119,
@@ -2177,7 +2295,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150533/radio_stations/station_120_tafsir_al_quran.jpg",
-      "description": "Listen to Quran Tafsir audio—clear explanations and lessons to help understand meanings, context, and guidance."
+      "description": "Listen to Quran Tafsir audio—clear explanations and lessons to help understand meanings, context, and guidance.",
+      "frequency": "FM 96.119"
     },
     {
       "id": 120,
@@ -2195,7 +2314,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150534/radio_stations/station_121_khaled_al_jaleel.jpg",
-      "description": "Stream Quran recitation by Khalid Al-Jalil with a deeply emotional tone, perfect for night listening and reflection."
+      "description": "Stream Quran recitation by Khalid Al-Jalil with a deeply emotional tone, perfect for night listening and reflection.",
+      "frequency": "FM 96.120"
     },
     {
       "id": 121,
@@ -2213,7 +2333,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150535/radio_stations/station_122_nasser_al_majed.jpg",
-      "description": "Listen to Quran recitation by Nasser Al-Majed with a calm, clear voice for daily worship and peaceful listening."
+      "description": "Listen to Quran recitation by Nasser Al-Majed with a calm, clear voice for daily worship and peaceful listening.",
+      "frequency": "FM 96.121"
     },
     {
       "id": 122,
@@ -2231,7 +2352,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150537/radio_stations/station_123_haitham_al_jadani.jpg",
-      "description": "Stream Quran recitation by Haitham Al-Jadani with clear tajwid and a steady pace in high-quality audio."
+      "description": "Stream Quran recitation by Haitham Al-Jadani with clear tajwid and a steady pace in high-quality audio.",
+      "frequency": "FM 96.122"
     },
     {
       "id": 123,
@@ -2249,7 +2371,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150537/radio_stations/station_124_ahmad_khalil_shahin.jpg",
-      "description": "Listen to Quran recitation by Ahmad Khalil Shaheen with a traditional style and clear streaming audio for devotion."
+      "description": "Listen to Quran recitation by Ahmad Khalil Shaheen with a traditional style and clear streaming audio for devotion.",
+      "frequency": "FM 96.123"
     },
     {
       "id": 124,
@@ -2267,7 +2390,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150538/radio_stations/station_125_abdullah_al_mousa.jpg",
-      "description": "Stream Quran recitation by Abdullah Al-Mousa with a calm, clear masjid tone ideal for daily worship and reflection."
+      "description": "Stream Quran recitation by Abdullah Al-Mousa with a calm, clear masjid tone ideal for daily worship and reflection.",
+      "frequency": "FM 96.124"
     },
     {
       "id": 125,
@@ -2285,7 +2409,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150539/radio_stations/station_126_abdullah_al_khalaf.jpg",
-      "description": "Listen to Quran recitation by Abdullah Al-Khalaf in continuous streaming audio for calm, worship, and daily remembrance."
+      "description": "Listen to Quran recitation by Abdullah Al-Khalaf in continuous streaming audio for calm, worship, and daily remembrance.",
+      "frequency": "FM 96.125"
     },
     {
       "id": 126,
@@ -2304,7 +2429,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150539/radio_stations/station_127_short_tarateel.jpg",
-      "description": "Stream short, standout Quran recitations—perfect for quick listening, commuting, daily reminders, and reflection."
+      "description": "Stream short, standout Quran recitations—perfect for quick listening, commuting, daily reminders, and reflection.",
+      "frequency": "FM 96.126"
     },
     {
       "id": 127,
@@ -2322,7 +2448,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150540/radio_stations/station_143_majed_al_zamil.jpg",
-      "description": "Listen to Quran recitation by Majed Al-Zamel with a calm style and clear tajwid in continuous streaming audio."
+      "description": "Listen to Quran recitation by Majed Al-Zamel with a calm style and clear tajwid in continuous streaming audio.",
+      "frequency": "FM 96.127"
     },
     {
       "id": 128,
@@ -2340,7 +2467,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150544/radio_stations/station_221_bandar_baleelah.jpg",
-      "description": "Stream Quran recitation by Bandar Balilah with a soft, clear masjid tone ideal for worship, calm, and reflection."
+      "description": "Stream Quran recitation by Bandar Balilah with a soft, clear masjid tone ideal for worship, calm, and reflection.",
+      "frequency": "FM 96.128"
     },
     {
       "id": 129,
@@ -2358,7 +2486,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150545/radio_stations/station_252_nasser_al_asfoor.jpg",
-      "description": "Listen to Quran recitation by Nasser Al-Osfor with a calm, clear style for daily listening and worship."
+      "description": "Listen to Quran recitation by Nasser Al-Osfor with a calm, clear style for daily listening and worship.",
+      "frequency": "FM 96.129"
     },
     {
       "id": 130,
@@ -2377,7 +2506,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150546/radio_stations/station_265_muhammad_ayyub_special.jpg",
-      "description": "Stream a special selection of Muhammad Ayyub’s Quran recitations—clear tajwid, balanced tone, and calm pacing."
+      "description": "Stream a special selection of Muhammad Ayyub’s Quran recitations—clear tajwid, balanced tone, and calm pacing.",
+      "frequency": "FM 96.130"
     },
     {
       "id": 131,
@@ -2395,7 +2525,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150547/radio_stations/station_269_ahmad_deban.jpg",
-      "description": "Listen to Quran recitation by Ahmad Deban with a clear, soothing delivery and stable online streaming audio."
+      "description": "Listen to Quran recitation by Ahmad Deban with a clear, soothing delivery and stable online streaming audio.",
+      "frequency": "FM 96.131"
     },
     {
       "id": 132,
@@ -2413,7 +2544,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150547/radio_stations/station_278_mohammad_abu_snineh.jpg",
-      "description": "Stream Quran recitation by Muhammad Abu Sneineh with a calm, heartfelt style for daily worship and reflection."
+      "description": "Stream Quran recitation by Muhammad Abu Sneineh with a calm, heartfelt style for daily worship and reflection.",
+      "frequency": "FM 96.132"
     },
     {
       "id": 133,
@@ -2431,7 +2563,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150548/radio_stations/station_279_mohammad_al_amine_qaniwa.jpg",
-      "description": "Listen to Quran recitation by Muhammad Al-Amin Qeniwa with a clear tone and steady pacing in streaming audio."
+      "description": "Listen to Quran recitation by Muhammad Al-Amin Qeniwa with a clear tone and steady pacing in streaming audio.",
+      "frequency": "FM 96.133"
     },
     {
       "id": 134,
@@ -2449,7 +2582,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150549/radio_stations/station_291_abdulrahman_al_shehat.jpg",
-      "description": "Stream Quran recitation by Abdulrahman Al-Shahhat with a traditional Egyptian style and clear tajwid in audio."
+      "description": "Stream Quran recitation by Abdulrahman Al-Shahhat with a traditional Egyptian style and clear tajwid in audio.",
+      "frequency": "FM 96.134"
     },
     {
       "id": 135,
@@ -2467,7 +2601,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150550/radio_stations/station_311_abdulaziz_suheim.jpg",
-      "description": "Listen to Quran recitation by Abdulaziz Suheim in continuous streaming audio for calm, worship, and daily remembrance."
+      "description": "Listen to Quran recitation by Abdulaziz Suheim in continuous streaming audio for calm, worship, and daily remembrance.",
+      "frequency": "FM 96.135"
     },
     {
       "id": 136,
@@ -2486,7 +2621,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150312/radio_stations/station_10906_ayat_al_sakeena.jpg",
-      "description": "Stream Ayat Al-Sakeenah—selected Quran verses about tranquility and comfort, ideal for calming the heart and mind."
+      "description": "Stream Ayat Al-Sakeenah—selected Quran verses about tranquility and comfort, ideal for calming the heart and mind.",
+      "frequency": "FM 96.136"
     },
     {
       "id": 137,
@@ -2504,7 +2640,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150317/radio_stations/station_10907_sahaba_stories.jpg",
-      "description": "Listen to inspiring audio stories from the lives of the Sahabah and Tabi'een—faith lessons, character, and history."
+      "description": "Listen to inspiring audio stories from the lives of the Sahabah and Tabi'een—faith lessons, character, and history.",
+      "frequency": "FM 96.137"
     },
     {
       "id": 138,
@@ -2522,7 +2659,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150320/radio_stations/station_10908_mukhtasar_tafsir.jpg",
-      "description": "Stream concise Quran Tafsir (Mukhtasar) audio—clear summaries to understand meanings, lessons, and guidance."
+      "description": "Stream concise Quran Tafsir (Mukhtasar) audio—clear summaries to understand meanings, lessons, and guidance.",
+      "frequency": "FM 96.138"
     },
     {
       "id": 139,
@@ -2541,7 +2679,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150321/radio_stations/station_10910_adhkar_al_sabah.jpg",
-      "description": "Listen to Morning Adhkar (daily remembrances) in audio—perfect for starting the day with dhikr and calm."
+      "description": "Listen to Morning Adhkar (daily remembrances) in audio—perfect for starting the day with dhikr and calm.",
+      "frequency": "FM 96.139"
     },
     {
       "id": 140,
@@ -2560,7 +2699,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150322/radio_stations/station_10911_adhkar_al_masa.jpg",
-      "description": "Stream Evening Adhkar audio—daily remembrances for peace, protection, and reflection at the end of the day."
+      "description": "Stream Evening Adhkar audio—daily remembrances for peace, protection, and reflection at the end of the day.",
+      "frequency": "FM 96.140"
     },
     {
       "id": 141,
@@ -2578,7 +2718,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150541/radio_stations/station_21118_seerah_nabawiyyah.jpg",
-      "description": "Listen to a 400-episode Seerah series covering the life of Prophet Muhammad (peace be upon him) in audio format."
+      "description": "Listen to a 400-episode Seerah series covering the life of Prophet Muhammad (peace be upon him) in audio format.",
+      "frequency": "FM 96.141"
     },
     {
       "id": 142,
@@ -2596,7 +2737,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150542/radio_stations/station_21119_seerah_abridged.jpg",
-      "description": "Stream a concise Seerah audio series—clear, accessible lessons from the life of Prophet Muhammad (peace be upon him)."
+      "description": "Stream a concise Seerah audio series—clear, accessible lessons from the life of Prophet Muhammad (peace be upon him).",
+      "frequency": "FM 96.142"
     },
     {
       "id": 143,
@@ -2614,7 +2756,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150543/radio_stations/station_21120_fiqh_ikhtiyarat.jpg",
-      "description": "Listen to Islamic fiqh lessons from Ibn Baz’s selected jurisprudential choices covering worship and transactions in audio."
+      "description": "Listen to Islamic fiqh lessons from Ibn Baz’s selected jurisprudential choices covering worship and transactions in audio.",
+      "frequency": "FM 96.143"
     },
     {
       "id": 144,
@@ -2632,7 +2775,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150543/radio_stations/station_21121_tafsir_al_tabari.jpg",
-      "description": "Stream an audio summary of Tafsir Al-Tabari—meaning-focused Quran explanation for learning and reflection."
+      "description": "Stream an audio summary of Tafsir Al-Tabari—meaning-focused Quran explanation for learning and reflection.",
+      "frequency": "FM 96.144"
     },
     {
       "id": 145,
@@ -2650,7 +2794,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150290/radio_stations/station_109042_saleh_al_habdan.jpg",
-      "description": "Listen to Quran recitation by Saleh Al-Habdan with clear tajwid and steady pacing in continuous streaming audio."
+      "description": "Listen to Quran recitation by Saleh Al-Habdan with clear tajwid and steady pacing in continuous streaming audio.",
+      "frequency": "FM 96.145"
     },
     {
       "id": 146,
@@ -2669,7 +2814,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150291/radio_stations/station_109043_translation_urdu_abdulbasit.jpg",
-      "description": "Listen to Urdu translation of Quran meanings alongside recitation—an easy audio way to understand the message."
+      "description": "Listen to Urdu translation of Quran meanings alongside recitation—an easy audio way to understand the message.",
+      "frequency": "FM 96.146"
     },
     {
       "id": 147,
@@ -2688,7 +2834,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150292/radio_stations/station_109044_translation_spanish_mishari.jpg",
-      "description": "Stream Spanish translation of Quran meanings in audio—ideal for learners seeking understanding and reflection."
+      "description": "Stream Spanish translation of Quran meanings in audio—ideal for learners seeking understanding and reflection.",
+      "frequency": "FM 96.147"
     },
     {
       "id": 148,
@@ -2707,7 +2854,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150293/radio_stations/station_109045_translation_albanian.jpg",
-      "description": "Listen to Albanian translation of Quran meanings in audio—clear explanations for understanding and daily reflection."
+      "description": "Listen to Albanian translation of Quran meanings in audio—clear explanations for understanding and daily reflection.",
+      "frequency": "FM 96.148"
     },
     {
       "id": 149,
@@ -2726,7 +2874,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150293/radio_stations/station_109046_translation_german.jpg",
-      "description": "Stream German translation of Quran meanings—learn, reflect, and follow along through simple audio listening."
+      "description": "Stream German translation of Quran meanings—learn, reflect, and follow along through simple audio listening.",
+      "frequency": "FM 96.149"
     },
     {
       "id": 150,
@@ -2745,7 +2894,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150294/radio_stations/station_109047_translation_amazigh.jpg",
-      "description": "Listen to Tamazight (Amazigh) translation of Quran meanings in audio for understanding and reflection."
+      "description": "Listen to Tamazight (Amazigh) translation of Quran meanings in audio for understanding and reflection.",
+      "frequency": "FM 96.150"
     },
     {
       "id": 151,
@@ -2764,7 +2914,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150295/radio_stations/station_109048_translation_urdu_saud_sudais.jpg",
-      "description": "Stream Urdu translation of Quran meanings (version stream) for easy listening, understanding, and daily reflection."
+      "description": "Stream Urdu translation of Quran meanings (version stream) for easy listening, understanding, and daily reflection.",
+      "frequency": "FM 96.151"
     },
     {
       "id": 152,
@@ -2783,7 +2934,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150295/radio_stations/station_109049_translation_urdu_menshawi.jpg",
-      "description": "Listen to Urdu translation of Quran meanings (Al-Minshawi stream) in audio for learning and spiritual reflection."
+      "description": "Listen to Urdu translation of Quran meanings (Al-Minshawi stream) in audio for learning and spiritual reflection.",
+      "frequency": "FM 96.152"
     },
     {
       "id": 153,
@@ -2802,7 +2954,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150296/radio_stations/station_109050_translation_english_abdulbasit.jpg",
-      "description": "Stream English translation of Quran meanings alongside recitation—ideal for understanding, study, and daily listening."
+      "description": "Stream English translation of Quran meanings alongside recitation—ideal for understanding, study, and daily listening.",
+      "frequency": "FM 96.153"
     },
     {
       "id": 154,
@@ -2821,7 +2974,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150297/radio_stations/station_109051_translation_english_basfar.jpg",
-      "description": "Listen to English translation of Quran meanings (Basfar stream) in audio—simple, clear understanding for listeners."
+      "description": "Listen to English translation of Quran meanings (Basfar stream) in audio—simple, clear understanding for listeners.",
+      "frequency": "FM 96.154"
     },
     {
       "id": 155,
@@ -2840,7 +2994,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150297/radio_stations/station_109052_translation_english_walk.jpg",
-      "description": "Stream an English walk-through translation of Quran meanings—ideal for guided listening, learning, and reflection."
+      "description": "Stream an English walk-through translation of Quran meanings—ideal for guided listening, learning, and reflection.",
+      "frequency": "FM 96.155"
     },
     {
       "id": 156,
@@ -2859,7 +3014,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150298/radio_stations/station_109053_translation_portuguese.jpg",
-      "description": "Listen to Portuguese translation of Quran meanings in audio—learn the message with easy, continuous streaming."
+      "description": "Listen to Portuguese translation of Quran meanings in audio—learn the message with easy, continuous streaming.",
+      "frequency": "FM 96.156"
     },
     {
       "id": 157,
@@ -2878,7 +3034,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150299/radio_stations/station_109054_translation_bosnian.jpg",
-      "description": "Stream Bosnian translation of Quran meanings—clear audio for understanding, learning, and daily spiritual reflection."
+      "description": "Stream Bosnian translation of Quran meanings—clear audio for understanding, learning, and daily spiritual reflection.",
+      "frequency": "FM 96.157"
     },
     {
       "id": 158,
@@ -2897,7 +3054,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150300/radio_stations/station_109055_translation_turkish.jpg",
-      "description": "Listen to Turkish translation of Quran meanings in audio—ideal for learners who prefer listening and reflection."
+      "description": "Listen to Turkish translation of Quran meanings in audio—ideal for learners who prefer listening and reflection.",
+      "frequency": "FM 96.158"
     },
     {
       "id": 159,
@@ -2916,7 +3074,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150300/radio_stations/station_109056_translation_russian.jpg",
-      "description": "Stream Russian translation of Quran meanings in audio—easy listening for understanding, learning, and daily reminders."
+      "description": "Stream Russian translation of Quran meanings in audio—easy listening for understanding, learning, and daily reminders.",
+      "frequency": "FM 96.159"
     },
     {
       "id": 160,
@@ -2935,7 +3094,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150301/radio_stations/station_109057_translation_chinese.jpg",
-      "description": "Listen to Chinese translation of Quran meanings in audio—simple streaming for learning, understanding, and reflection."
+      "description": "Listen to Chinese translation of Quran meanings in audio—simple streaming for learning, understanding, and reflection.",
+      "frequency": "FM 96.160"
     },
     {
       "id": 161,
@@ -2954,7 +3114,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150302/radio_stations/station_109058_translation_persian.jpg",
-      "description": "Stream Persian (Farsi) translation of Quran meanings in audio—ideal for understanding and daily spiritual listening."
+      "description": "Stream Persian (Farsi) translation of Quran meanings in audio—ideal for understanding and daily spiritual listening.",
+      "frequency": "FM 96.161"
     },
     {
       "id": 162,
@@ -2973,7 +3134,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150311/radio_stations/station_109069_translation_french_2.jpg",
-      "description": "Listen to French translation of Quran meanings in audio—clear, continuous streaming for understanding and reflection."
+      "description": "Listen to French translation of Quran meanings in audio—clear, continuous streaming for understanding and reflection.",
+      "frequency": "FM 96.162"
     },
     {
       "id": 163,
@@ -2992,7 +3154,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150304/radio_stations/station_109060_translation_kurdish.jpg",
-      "description": "Stream Kurdish translation of Quran meanings in audio—ideal for understanding, learning, and daily listening."
+      "description": "Stream Kurdish translation of Quran meanings in audio—ideal for understanding, learning, and daily listening.",
+      "frequency": "FM 96.163"
     },
     {
       "id": 164,
@@ -3011,7 +3174,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150305/radio_stations/station_109061_translation_korean.jpg",
-      "description": "Listen to Korean translation of Quran meanings in audio—easy streaming for learning, understanding, and reflection."
+      "description": "Listen to Korean translation of Quran meanings in audio—easy streaming for learning, understanding, and reflection.",
+      "frequency": "FM 96.164"
     },
     {
       "id": 165,
@@ -3030,7 +3194,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150306/radio_stations/station_109062_translation_hungarian.jpg",
-      "description": "Stream Hungarian translation of Quran meanings in audio—ideal for learners who prefer listening and reflection."
+      "description": "Stream Hungarian translation of Quran meanings in audio—ideal for learners who prefer listening and reflection.",
+      "frequency": "FM 96.165"
     },
     {
       "id": 166,
@@ -3049,7 +3214,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150306/radio_stations/station_109063_translation_greek.jpg",
-      "description": "Listen to Greek translation of Quran meanings in audio—clear streaming for understanding, learning, and reflection."
+      "description": "Listen to Greek translation of Quran meanings in audio—clear streaming for understanding, learning, and reflection.",
+      "frequency": "FM 96.166"
     },
     {
       "id": 167,
@@ -3068,7 +3234,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150307/radio_stations/station_109064_surah_al_mulk.jpg",
-      "description": "Stream Surah Al-Mulk in audio—perfect for nightly listening, reminders, and consistent spiritual practice."
+      "description": "Stream Surah Al-Mulk in audio—perfect for nightly listening, reminders, and consistent spiritual practice.",
+      "frequency": "FM 96.167"
     },
     {
       "id": 168,
@@ -3087,7 +3254,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150308/radio_stations/station_109065_virtue_ramadan.jpg",
-      "description": "Listen to audio about the virtues of Ramadan—lessons, reminders, and inspiration for worship, fasting, and character."
+      "description": "Listen to audio about the virtues of Ramadan—lessons, reminders, and inspiration for worship, fasting, and character.",
+      "frequency": "FM 96.168"
     },
     {
       "id": 169,
@@ -3106,7 +3274,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150308/radio_stations/station_109066_translation_hausa.jpg",
-      "description": "Stream Hausa translation of Quran meanings in audio—ideal for learning, understanding, and daily spiritual listening."
+      "description": "Stream Hausa translation of Quran meanings in audio—ideal for learning, understanding, and daily spiritual listening.",
+      "frequency": "FM 96.169"
     },
     {
       "id": 170,
@@ -3123,7 +3292,8 @@
       "country": "Multiple",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150309/radio_stations/station_109067_translation_persian_ahluquran.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150309/radio_stations/station_109067_translation_persian_ahluquran.jpg",
+      "frequency": "FM 96.170"
     },
     {
       "id": 171,
@@ -3140,7 +3310,8 @@
       "country": "Multiple",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150310/radio_stations/station_109068_tadabbur_persian_ahluquran.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150310/radio_stations/station_109068_tadabbur_persian_ahluquran.jpg",
+      "frequency": "FM 96.171"
     },
     {
       "id": 172,
@@ -3157,7 +3328,8 @@
       "country": "Multiple",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150311/radio_stations/station_109069_translation_french_2.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150311/radio_stations/station_109069_translation_french_2.jpg",
+      "frequency": "FM 96.172"
     },
     {
       "id": 173,
@@ -3175,7 +3347,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150312/radio_stations/station_109070_sahih_muslim.jpg",
-      "description": "Listen to Sahih Muslim in audio—authentic hadith for learning, reminders, and strengthening Islamic knowledge daily."
+      "description": "Listen to Sahih Muslim in audio—authentic hadith for learning, reminders, and strengthening Islamic knowledge daily.",
+      "frequency": "FM 96.173"
     },
     {
       "id": 174,
@@ -3193,7 +3366,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150313/radio_stations/station_109071_sahih_bukhari.jpg",
-      "description": "Stream Sahih Al-Bukhari audio—authentic hadith collection for daily learning, reflection, and Islamic understanding."
+      "description": "Stream Sahih Al-Bukhari audio—authentic hadith collection for daily learning, reflection, and Islamic understanding.",
+      "frequency": "FM 96.174"
     },
     {
       "id": 175,
@@ -3211,7 +3385,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150314/radio_stations/station_109073_stories_prophets.jpg",
-      "description": "Listen to Stories of the Prophets in audio—faith-filled narratives, lessons, and reminders for all ages."
+      "description": "Listen to Stories of the Prophets in audio—faith-filled narratives, lessons, and reminders for all ages.",
+      "frequency": "FM 96.175"
     },
     {
       "id": 176,
@@ -3229,7 +3404,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150315/radio_stations/station_109077_gardens_righteous.jpg",
-      "description": "Stream Riyadh As-Salihin in audio—hadith on manners, worship, and character for daily reminders and growth."
+      "description": "Stream Riyadh As-Salihin in audio—hadith on manners, worship, and character for daily reminders and growth.",
+      "frequency": "FM 96.176"
     },
     {
       "id": 177,
@@ -3247,7 +3423,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150315/radio_stations/station_109078_abdullah_al_baijan.jpg",
-      "description": "Listen to Quran recitation by Abdullah Al-Bu'ayjan with a calm masjid tone and clear tajwid in streaming audio."
+      "description": "Listen to Quran recitation by Abdullah Al-Bu'ayjan with a calm masjid tone and clear tajwid in streaming audio.",
+      "frequency": "FM 96.177"
     },
     {
       "id": 178,
@@ -3265,7 +3442,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150316/radio_stations/station_109079_ahmad_taleb_bin_hamid.jpg",
-      "description": "Stream Quran recitation by Ahmad Talib Bin Humaid with clear tajwid and a steady pace for daily worship and calm."
+      "description": "Stream Quran recitation by Ahmad Talib Bin Humaid with clear tajwid and a steady pace for daily worship and calm.",
+      "frequency": "FM 96.178"
     },
     {
       "id": 179,
@@ -3283,7 +3461,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150317/radio_stations/station_109080_tafsir_ghareeb.jpg",
-      "description": "Listen to explanations of uncommon Quranic words (Ghareeb Al-Quran) in audio—great for deeper understanding."
+      "description": "Listen to explanations of uncommon Quranic words (Ghareeb Al-Quran) in audio—great for deeper understanding.",
+      "frequency": "FM 96.179"
     },
     {
       "id": 180,
@@ -3301,7 +3480,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150318/radio_stations/station_109081_badr_al_turki.jpg",
-      "description": "Stream Quran recitation by Badr Al-Turki with clear tajwid and a calm tone for daily listening and spiritual focus."
+      "description": "Stream Quran recitation by Badr Al-Turki with clear tajwid and a calm tone for daily listening and spiritual focus.",
+      "frequency": "FM 96.180"
     },
     {
       "id": 181,
@@ -3319,7 +3499,8 @@
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150319/radio_stations/station_109082_hazza_al_balushi.jpg",
-      "description": "Listen to Quran recitation by Hazza Al-Balushi with a gentle, emotional style ideal for reflection and calm listening."
+      "description": "Listen to Quran recitation by Hazza Al-Balushi with a gentle, emotional style ideal for reflection and calm listening.",
+      "frequency": "FM 96.181"
     },
     {
       "id": 182,
@@ -3336,7 +3517,8 @@
       "country": "Multiple",
       "status": "active",
       "lastChecked": "2025-12-06T16:15:00Z",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150319/radio_stations/station_109083_translation_english_abridged.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150319/radio_stations/station_109083_translation_english_abridged.jpg",
+      "frequency": "FM 96.182"
     },
     {
       "name": "Quran Radio — Sayed Ramadan",
@@ -3354,7 +3536,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234760/radio_covers/21_sayed_ramadan.jpg",
-      "id": 183
+      "id": 183,
+      "frequency": "FM 96.183"
     },
     {
       "name": "Quran Radio — Sherzad Abdul Rahman Taher",
@@ -3372,7 +3555,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234761/radio_covers/22_sherzad_taher.jpg",
-      "id": 184
+      "id": 184,
+      "frequency": "FM 96.184"
     },
     {
       "name": "Quran Radio — Saber Abdul Hakam",
@@ -3390,7 +3574,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234762/radio_covers/23_saber_abdulhakam.jpg",
-      "id": 185
+      "id": 185,
+      "frequency": "FM 96.185"
     },
     {
       "name": "Quran Radio — Saleh Al-Sahood",
@@ -3408,7 +3593,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234763/radio_covers/24_saleh_alsahood.jpg",
-      "id": 186
+      "id": 186,
+      "frequency": "FM 96.186"
     },
     {
       "name": "Quran Radio — Saleh Al-Habdan",
@@ -3426,7 +3612,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234764/radio_covers/25_saleh_alhabdan.jpg",
-      "id": 187
+      "id": 187,
+      "frequency": "FM 96.187"
     },
     {
       "name": "Quran Radio — Saleh Al-Fawzan",
@@ -3444,7 +3631,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234765/radio_covers/26_saleh_alfawzan.jpg",
-      "id": 188
+      "id": 188,
+      "frequency": "FM 96.188"
     },
     {
       "name": "Quran Radio — Tariq Abdul Ghani Daob",
@@ -3462,7 +3650,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234769/radio_covers/30_tariq_daob.jpg",
-      "id": 189
+      "id": 189,
+      "frequency": "FM 96.189"
     },
     {
       "name": "Quran Radio — Adel Al-Kalbani",
@@ -3480,7 +3669,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234770/radio_covers/31_adel_alkalbani.jpg",
-      "id": 190
+      "id": 190,
+      "frequency": "FM 96.190"
     },
     {
       "name": "Quran Radio — Adel Rayan",
@@ -3498,7 +3688,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234771/radio_covers/32_adel_rayan.jpg",
-      "id": 191
+      "id": 191,
+      "frequency": "FM 96.191"
     },
     {
       "name": "Quran Radio — Abdul Bari Al-Thubaity",
@@ -3516,7 +3707,8 @@
       "status": "active",
       "lastChecked": "2026-03-04T23:13:09Z",
       "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772234772/radio_covers/33_abdulbari_thubaity.jpg",
-      "id": 192
+      "id": 192,
+      "frequency": "FM 96.192"
     }
   ],
   "metadata": {

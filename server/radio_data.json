@@ -12,7 +12,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.1"
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.2"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.3"
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.4"
     },
     {
       "id": 5,
@@ -68,7 +72,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.5"
     },
     {
       "id": 6,
@@ -82,7 +87,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.6"
     },
     {
       "id": 7,
@@ -97,7 +103,8 @@
         "Mujawwad",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.7"
     },
     {
       "id": 8,
@@ -111,7 +118,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.8"
     },
     {
       "id": 9,
@@ -125,7 +133,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.9"
     },
     {
       "id": 10,
@@ -139,7 +148,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.10"
     },
     {
       "id": 11,
@@ -154,7 +164,8 @@
         "Mujawwad",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.11"
     },
     {
       "id": 12,
@@ -169,7 +180,8 @@
         "Mujawwad",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.12"
     },
     {
       "id": 13,
@@ -184,7 +196,8 @@
         "Mujawwad",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.13"
     },
     {
       "id": 14,
@@ -198,7 +211,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.14"
     },
     {
       "id": 15,
@@ -212,7 +226,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.15"
     },
     {
       "id": 16,
@@ -226,7 +241,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.16"
     },
     {
       "id": 17,
@@ -240,7 +256,8 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.17"
     },
     {
       "id": 18,
@@ -254,19 +271,22 @@
         "Quran Recitation",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.18"
     },
     {
       "id": 19,
       "name": "إذاعة القرأن الكريم من القاهرة",
       "url": "https://n0e.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABjW7yROAA0TUU8cXhXIAi6g",
-      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150210/radio_stations/station_001_holy_quran_radio_cairo.jpg"
+      "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150210/radio_stations/station_001_holy_quran_radio_cairo.jpg",
+      "frequency": "FM 96.19"
     },
     {
       "id": 20,
       "name": "إذاعة السنة النبوية",
       "url": "https://n01.radiojar.com/x0vs2vzy6k0uv?rj-ttl=5&rj-tok=AAABjW751GcA4NgCI8-5DCpCHQ",
-      "img": "https://i.pinimg.com/564x/55/16/ab/5516abd3744c3d0b0a7b28bedd5474c0.jpg"
+      "img": "https://i.pinimg.com/564x/55/16/ab/5516abd3744c3d0b0a7b28bedd5474c0.jpg",
+      "frequency": "FM 96.20"
     },
     {
       "id": 21,
@@ -281,7 +301,8 @@
         "Khushoo",
         "Islamic",
         "Spiritual"
-      ]
+      ],
+      "frequency": "FM 96.21"
     },
     {
       "id": 22,
@@ -296,7 +317,8 @@
         "Islamic",
         "Spiritual",
         "Quran"
-      ]
+      ],
+      "frequency": "FM 96.22"
     },
     {
       "id": 23,
@@ -311,7 +333,8 @@
         "Islamic",
         "Spiritual",
         "Eid"
-      ]
+      ],
+      "frequency": "FM 96.23"
     },
     {
       "id": 24,
@@ -325,7 +348,8 @@
         "Tafsir",
         "Islamic Education",
         "Quran"
-      ]
+      ],
+      "frequency": "FM 96.24"
     },
     {
       "name": "إذاعة أحمد العجمي",
@@ -339,7 +363,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 25
+      "id": 25,
+      "frequency": "FM 96.25"
     },
     {
       "name": "إذاعة أحمد الحواشي",
@@ -353,7 +378,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 26
+      "id": 26,
+      "frequency": "FM 96.26"
     },
     {
       "name": "إذاعة أحمد صابر",
@@ -367,7 +393,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 27
+      "id": 27,
+      "frequency": "FM 96.27"
     },
     {
       "name": "إذاعة أحمد نعينع",
@@ -381,7 +408,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 28
+      "id": 28,
+      "frequency": "FM 96.28"
     },
     {
       "name": "إذاعة أكرم العلاقمي",
@@ -395,7 +423,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 29
+      "id": 29,
+      "frequency": "FM 96.29"
     },
     {
       "name": "إذاعة إدريس أبكر",
@@ -409,7 +438,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 30
+      "id": 30,
+      "frequency": "FM 96.30"
     },
     {
       "name": "إذاعة الزين محمد أحمد",
@@ -423,7 +453,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 31
+      "id": 31,
+      "frequency": "FM 96.31"
     },
     {
       "name": "إذاعة القارئ ياسين",
@@ -437,7 +468,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 32
+      "id": 32,
+      "frequency": "FM 96.32"
     },
     {
       "name": "إذاعة العيون الكوشي",
@@ -451,7 +483,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 33
+      "id": 33,
+      "frequency": "FM 96.33"
     },
     {
       "name": "إذاعة توفيق الصايغ",
@@ -465,7 +498,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 34
+      "id": 34,
+      "frequency": "FM 96.34"
     },
     {
       "name": "إذاعة جمال شاكر عبدالله",
@@ -479,7 +513,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 35
+      "id": 35,
+      "frequency": "FM 96.35"
     },
     {
       "name": "إذاعة خالد القحطاني",
@@ -493,7 +528,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 36
+      "id": 36,
+      "frequency": "FM 96.36"
     },
     {
       "name": "إذاعة خالد عبدالكافي",
@@ -507,7 +543,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 37
+      "id": 37,
+      "frequency": "FM 96.37"
     },
     {
       "name": "إذاعة خليفة الطنيجي",
@@ -521,7 +558,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 38
+      "id": 38,
+      "frequency": "FM 96.38"
     },
     {
       "name": "إذاعة سعد الغامدي",
@@ -535,7 +573,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 39
+      "id": 39,
+      "frequency": "FM 96.39"
     },
     {
       "name": "إذاعة سعود الشريم",
@@ -549,7 +588,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 40
+      "id": 40,
+      "frequency": "FM 96.40"
     },
     {
       "name": "إذاعة سهل ياسين",
@@ -563,7 +603,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 41
+      "id": 41,
+      "frequency": "FM 96.41"
     },
     {
       "name": "إذاعة زكي داغستاني",
@@ -577,7 +618,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 42
+      "id": 42,
+      "frequency": "FM 96.42"
     },
     {
       "name": "إذاعة سيد رمضان",
@@ -591,7 +633,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 43
+      "id": 43,
+      "frequency": "FM 96.43"
     },
     {
       "name": "إذاعة شيرزاد عبدالرحمن طاهر",
@@ -605,7 +648,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 44
+      "id": 44,
+      "frequency": "FM 96.44"
     },
     {
       "name": "إذاعة صابر عبدالحكم",
@@ -619,7 +663,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 45
+      "id": 45,
+      "frequency": "FM 96.45"
     },
     {
       "name": "إذاعة صالح الصهود",
@@ -633,7 +678,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 46
+      "id": 46,
+      "frequency": "FM 96.46"
     },
     {
       "name": "إذاعة صالح الهبدان",
@@ -647,7 +693,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 47
+      "id": 47,
+      "frequency": "FM 96.47"
     },
     {
       "name": "إذاعة صالح الفوزان",
@@ -661,7 +708,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 48
+      "id": 48,
+      "frequency": "FM 96.48"
     },
     {
       "name": "إذاعة صلاح البدير",
@@ -675,7 +723,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 49
+      "id": 49,
+      "frequency": "FM 96.49"
     },
     {
       "name": "إذاعة طارق عبدالغني دعوب",
@@ -689,7 +738,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 50
+      "id": 50,
+      "frequency": "FM 96.50"
     },
     {
       "name": "إذاعة عادل الكلباني",
@@ -703,7 +753,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 51
+      "id": 51,
+      "frequency": "FM 96.51"
     },
     {
       "name": "إذاعة عادل ريان",
@@ -717,7 +768,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 52
+      "id": 52,
+      "frequency": "FM 96.52"
     },
     {
       "name": "إذاعة عبدالباري الثبيتي",
@@ -731,7 +783,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 53
+      "id": 53,
+      "frequency": "FM 96.53"
     },
     {
       "name": "إذاعة عبدالعزيز الأحمد",
@@ -745,7 +798,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 54
+      "id": 54,
+      "frequency": "FM 96.54"
     },
     {
       "name": "إذاعة عبدالله المطرود",
@@ -759,7 +813,8 @@
         "Islamic",
         "Spiritual"
       ],
-      "id": 55
+      "id": 55,
+      "frequency": "FM 96.55"
     }
   ]
 }
