@@ -1,0 +1,51 @@
+{
+  "id": 137,
+  "slug": "islamic-stories-radio--lives-of-the-sahabah-&-tabi'een",
+  "name": "Islamic Stories Radio — Lives of the Sahabah & Tabi'een",
+  "nameAr": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
+  "description": "Listen to inspiring audio stories from the lives of the Sahabah and Tabi'een—faith lessons, character, and history.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Islamic Stories",
+    "History",
+    "Islamic Education"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/sahabah"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/sahabah"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/sahabah"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150317/radio_stations/station_10907_sahaba_stories.jpg",
+  "frequency": "FM 96.137"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 98,
+  "slug": "quran-radio-muftah-al-saltany",
+  "name": "Quran Radio — Muftah Al-Saltany",
+  "nameAr": " إذاعة مفتاح السلطني",
+  "description": "Listen to Quran recitation by Muftah Al-Saltany in continuous streaming audio, focused on qira'at and tajwid clarity.",
+  "country": "Libya",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Qira'at",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094286/radio_stations_v2/radio_station_098.jpg",
+  "frequency": "FM 96.98"
+}

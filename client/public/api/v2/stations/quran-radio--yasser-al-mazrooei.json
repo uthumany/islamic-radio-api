@@ -1,0 +1,51 @@
+{
+  "id": 64,
+  "slug": "quran-radio--yasser-al-mazrooei",
+  "name": "Quran Radio — Yasser Al-Mazrooei",
+  "nameAr": " إذاعة ياسر المزروعي ",
+  "description": "Listen to Quran recitation by Yasser Al-Mazrooei with a smooth, gentle pace ideal for calm, worship, and study.",
+  "country": "United Arab Emirates",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094257/radio_stations_v2/radio_station_064.jpg",
+  "frequency": "FM 96.64"
+}

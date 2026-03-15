@@ -1,0 +1,51 @@
+{
+  "id": 116,
+  "slug": "islamic-radio-general-fatwas",
+  "name": "Islamic Radio — General Fatwas",
+  "nameAr": "إذاعة الفتاوى العامة",
+  "description": "Stream general Islamic fatwas and guidance in audio format—ideal for learning, reminders, and everyday questions.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Islamic Talk",
+    "Fatwa",
+    "Islamic Education"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/fatwa"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/fatwa"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/fatwa"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150328/radio_stations/station_117_general_fatwas.jpg",
+  "frequency": "FM 96.116"
+}

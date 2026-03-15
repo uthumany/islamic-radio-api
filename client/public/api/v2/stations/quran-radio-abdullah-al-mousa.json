@@ -1,0 +1,51 @@
+{
+  "id": 124,
+  "slug": "quran-radio-abdullah-al-mousa",
+  "name": "Quran Radio — Abdullah Al-Mousa",
+  "nameAr": "إذاعة عبدالله الموسى",
+  "description": "Stream Quran recitation by Abdullah Al-Mousa with a calm, clear masjid tone ideal for daily worship and reflection.",
+  "country": "Saudi Arabia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150538/radio_stations/station_125_abdullah_al_mousa.jpg",
+  "frequency": "FM 96.124"
+}

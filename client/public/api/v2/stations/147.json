@@ -1,0 +1,52 @@
+{
+  "id": 147,
+  "slug": "quran-translation-spanish",
+  "name": "Quran Translation (Spanish)",
+  "nameAr": "ترجمة معاني القرآن باللغة الأسبانية",
+  "description": "Stream Spanish translation of Quran meanings in audio—ideal for learners seeking understanding and reflection.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Quran Translation",
+    "Spanish",
+    "Islamic Education",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150292/radio_stations/station_109044_translation_spanish_mishari.jpg",
+  "frequency": "FM 96.147"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 119,
+  "slug": "quran-radio-tafsir-quran-explanation",
+  "name": "Quran Radio — Tafsir (Quran Explanation)",
+  "nameAr": "إذاعة --تفسير القران الكريم--",
+  "description": "Listen to Quran Tafsir audio—clear explanations and lessons to help understand meanings, context, and guidance.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Tafsir",
+    "Islamic Education",
+    "Quran"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/tafseer"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/tafseer"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/tafseer"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150533/radio_stations/station_120_tafsir_al_quran.jpg",
+  "frequency": "FM 96.119"
+}

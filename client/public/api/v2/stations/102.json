@@ -1,0 +1,51 @@
+{
+  "id": 102,
+  "slug": "quran-radio-mohammad-rashad-al-shareef",
+  "name": "Quran Radio — Mohammad Rashad Al-Shareef",
+  "nameAr": " إذاعة محمد رشاد الشريف",
+  "description": "Listen to Quran recitation by Mohammad Rashad Al-Shareef with a calm masjid tone and clean streaming audio.",
+  "country": "Saudi Arabia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150286/radio_stations/station_102_mohammad_rashad_al_shareef.jpg",
+  "frequency": "FM 96.102"
+}

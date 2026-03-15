@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "slug": "holy-quran-radio-cairo",
+  "name": "Holy Quran Radio Cairo",
+  "nameAr": "إذاعة القرآن الكريم من القاهرة",
+  "description": "Live Quran recitations from Cairo, Egypt",
+  "country": "Egypt",
+  "language": "Arabic",
+  "genre": [
+    "Quran",
+    "Islamic",
+    "Religious"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv?quality=low"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv?quality=medium"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "https://www.holyquranradio.com",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094204/radio_stations_v2/radio_station_001.jpg",
+  "frequency": "FM 96.1"
+}

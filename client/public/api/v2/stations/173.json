@@ -1,0 +1,51 @@
+{
+  "id": 173,
+  "slug": "hadith-radio-sahih-muslim",
+  "name": "Hadith Radio — Sahih Muslim",
+  "nameAr": "صحيح مسلم",
+  "description": "Listen to Sahih Muslim in audio—authentic hadith for learning, reminders, and strengthening Islamic knowledge daily.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Hadith",
+    "Islamic Education",
+    "Lectures"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/saheh-muslim"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/saheh-muslim"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/saheh-muslim"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150312/radio_stations/station_109070_sahih_muslim.jpg",
+  "frequency": "FM 96.173"
+}

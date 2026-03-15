@@ -1,0 +1,53 @@
+{
+  "id": 43,
+  "slug": "quran-radio--abdulrasheed-soufi-(khalaf)",
+  "name": "Quran Radio — Abdulrasheed Soufi (Khalaf)",
+  "nameAr": "إذاعة عبدالرشيد صوفي",
+  "description": "Stream Quran recitation by Abdulrasheed Soufi in the Khalaf reading, clear and steady for focused listening.",
+  "country": "Somalia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Qira'at",
+    "Khalaf",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094239/radio_stations_v2/radio_station_043.jpg",
+  "frequency": "FM 96.43"
+}

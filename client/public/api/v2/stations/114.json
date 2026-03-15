@@ -1,0 +1,52 @@
+{
+  "id": 114,
+  "slug": "eid-takbeerat-radio",
+  "name": "Eid Takbeerat Radio",
+  "nameAr": "إذاعة تكبيرات العيد",
+  "description": "Listen to Eid Takbeerat streaming audio—uplifting remembrance for Eid days, gatherings, and joyful celebration.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Takbeerat",
+    "Islamic",
+    "Spiritual",
+    "Eid"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/eid"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/eid"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/eid"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150326/radio_stations/station_114_eid_takbeerat.jpg",
+  "frequency": "FM 96.114"
+}

@@ -1,0 +1,5192 @@
+{
+  "status": "success",
+  "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/v2",
+  "generatedAt": "2026-03-15T20:55:14Z",
+  "checks": [
+    {
+      "stationId": 1,
+      "stationSlug": "holy-quran-radio-cairo",
+      "qualityId": "high",
+      "latencyMs": 378,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 1,
+      "stationSlug": "holy-quran-radio-cairo",
+      "qualityId": "medium",
+      "latencyMs": 133,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 1,
+      "stationSlug": "holy-quran-radio-cairo",
+      "qualityId": "low",
+      "latencyMs": 475,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 2,
+      "stationSlug": "quran-radio-tafsir",
+      "qualityId": "high",
+      "latencyMs": 186,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 2,
+      "stationSlug": "quran-radio-tafsir",
+      "qualityId": "medium",
+      "latencyMs": 353,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 2,
+      "stationSlug": "quran-radio-tafsir",
+      "qualityId": "low",
+      "latencyMs": 288,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 3,
+      "stationSlug": "islam2day-radio-channel-1",
+      "qualityId": "high",
+      "latencyMs": 441,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 3,
+      "stationSlug": "islam2day-radio-channel-1",
+      "qualityId": "medium",
+      "latencyMs": 371,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 3,
+      "stationSlug": "islam2day-radio-channel-1",
+      "qualityId": "low",
+      "latencyMs": 448,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 4,
+      "stationSlug": "voscast-station",
+      "qualityId": "high",
+      "latencyMs": 58,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 4,
+      "stationSlug": "voscast-station",
+      "qualityId": "medium",
+      "latencyMs": 154,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 4,
+      "stationSlug": "voscast-station",
+      "qualityId": "low",
+      "latencyMs": 445,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 5,
+      "stationSlug": "quran-radio-ibrahim-al-akhdar",
+      "qualityId": "high",
+      "latencyMs": 379,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 5,
+      "stationSlug": "quran-radio-ibrahim-al-akhdar",
+      "qualityId": "medium",
+      "latencyMs": 193,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 5,
+      "stationSlug": "quran-radio-ibrahim-al-akhdar",
+      "qualityId": "low",
+      "latencyMs": 316,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 6,
+      "stationSlug": "quran-radio-abu-bakr-al-shatri",
+      "qualityId": "high",
+      "latencyMs": 441,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 6,
+      "stationSlug": "quran-radio-abu-bakr-al-shatri",
+      "qualityId": "medium",
+      "latencyMs": 301,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 6,
+      "stationSlug": "quran-radio-abu-bakr-al-shatri",
+      "qualityId": "low",
+      "latencyMs": 412,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 7,
+      "stationSlug": "quran-radio-ahmad-al-ajmi",
+      "qualityId": "high",
+      "latencyMs": 95,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 7,
+      "stationSlug": "quran-radio-ahmad-al-ajmi",
+      "qualityId": "medium",
+      "latencyMs": 268,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 7,
+      "stationSlug": "quran-radio-ahmad-al-ajmi",
+      "qualityId": "low",
+      "latencyMs": 406,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 8,
+      "stationSlug": "quran-radio-ahmad-al-hawashi",
+      "qualityId": "high",
+      "latencyMs": 471,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 8,
+      "stationSlug": "quran-radio-ahmad-al-hawashi",
+      "qualityId": "medium",
+      "latencyMs": 450,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 8,
+      "stationSlug": "quran-radio-ahmad-al-hawashi",
+      "qualityId": "low",
+      "latencyMs": 321,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 9,
+      "stationSlug": "quran-radio-ahmad-saber",
+      "qualityId": "high",
+      "latencyMs": 236,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 9,
+      "stationSlug": "quran-radio-ahmad-saber",
+      "qualityId": "medium",
+      "latencyMs": 121,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 9,
+      "stationSlug": "quran-radio-ahmad-saber",
+      "qualityId": "low",
+      "latencyMs": 414,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 10,
+      "stationSlug": "quran-radio-ahmad-nuaina",
+      "qualityId": "high",
+      "latencyMs": 266,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 10,
+      "stationSlug": "quran-radio-ahmad-nuaina",
+      "qualityId": "medium",
+      "latencyMs": 100,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 10,
+      "stationSlug": "quran-radio-ahmad-nuaina",
+      "qualityId": "low",
+      "latencyMs": 208,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 11,
+      "stationSlug": "quran-radio-akram-al-alaqmi",
+      "qualityId": "high",
+      "latencyMs": 228,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 11,
+      "stationSlug": "quran-radio-akram-al-alaqmi",
+      "qualityId": "medium",
+      "latencyMs": 432,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 11,
+      "stationSlug": "quran-radio-akram-al-alaqmi",
+      "qualityId": "low",
+      "latencyMs": 302,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 12,
+      "stationSlug": "quran-radio-idris-abkar",
+      "qualityId": "high",
+      "latencyMs": 68,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 12,
+      "stationSlug": "quran-radio-idris-abkar",
+      "qualityId": "medium",
+      "latencyMs": 214,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 12,
+      "stationSlug": "quran-radio-idris-abkar",
+      "qualityId": "low",
+      "latencyMs": 221,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 13,
+      "stationSlug": "quran-radio-al-zain-muhammad-ahmad",
+      "qualityId": "high",
+      "latencyMs": 364,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 13,
+      "stationSlug": "quran-radio-al-zain-muhammad-ahmad",
+      "qualityId": "medium",
+      "latencyMs": 422,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 13,
+      "stationSlug": "quran-radio-al-zain-muhammad-ahmad",
+      "qualityId": "low",
+      "latencyMs": 294,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 14,
+      "stationSlug": "quran-radio-al-qari-y",
+      "qualityId": "high",
+      "latencyMs": 77,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 14,
+      "stationSlug": "quran-radio-al-qari-y",
+      "qualityId": "medium",
+      "latencyMs": 457,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 14,
+      "stationSlug": "quran-radio-al-qari-y",
+      "qualityId": "low",
+      "latencyMs": 305,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 15,
+      "stationSlug": "quran-radio-aloyoon-al-koshi",
+      "qualityId": "high",
+      "latencyMs": 360,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 15,
+      "stationSlug": "quran-radio-aloyoon-al-koshi",
+      "qualityId": "medium",
+      "latencyMs": 430,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 15,
+      "stationSlug": "quran-radio-aloyoon-al-koshi",
+      "qualityId": "low",
+      "latencyMs": 465,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 16,
+      "stationSlug": "quran-radio-tawfeeq-al-sayegh",
+      "qualityId": "high",
+      "latencyMs": 474,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 16,
+      "stationSlug": "quran-radio-tawfeeq-al-sayegh",
+      "qualityId": "medium",
+      "latencyMs": 248,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 16,
+      "stationSlug": "quran-radio-tawfeeq-al-sayegh",
+      "qualityId": "low",
+      "latencyMs": 277,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 17,
+      "stationSlug": "quran-radio-jamal-shaker-abdullah",
+      "qualityId": "high",
+      "latencyMs": 406,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 17,
+      "stationSlug": "quran-radio-jamal-shaker-abdullah",
+      "qualityId": "medium",
+      "latencyMs": 65,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 17,
+      "stationSlug": "quran-radio-jamal-shaker-abdullah",
+      "qualityId": "low",
+      "latencyMs": 77,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 18,
+      "stationSlug": "quran-radio-khaled-al-qahtani",
+      "qualityId": "high",
+      "latencyMs": 132,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 18,
+      "stationSlug": "quran-radio-khaled-al-qahtani",
+      "qualityId": "medium",
+      "latencyMs": 61,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 18,
+      "stationSlug": "quran-radio-khaled-al-qahtani",
+      "qualityId": "low",
+      "latencyMs": 148,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 19,
+      "stationSlug": "quran-radio-khalid-abdulkafi",
+      "qualityId": "high",
+      "latencyMs": 451,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 19,
+      "stationSlug": "quran-radio-khalid-abdulkafi",
+      "qualityId": "medium",
+      "latencyMs": 111,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 19,
+      "stationSlug": "quran-radio-khalid-abdulkafi",
+      "qualityId": "low",
+      "latencyMs": 225,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 20,
+      "stationSlug": "quran-radio-khalifa-al-tunaiji",
+      "qualityId": "high",
+      "latencyMs": 354,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 20,
+      "stationSlug": "quran-radio-khalifa-al-tunaiji",
+      "qualityId": "medium",
+      "latencyMs": 370,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 20,
+      "stationSlug": "quran-radio-khalifa-al-tunaiji",
+      "qualityId": "low",
+      "latencyMs": 452,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 21,
+      "stationSlug": "quran-radio-saad-al-ghamdi",
+      "qualityId": "high",
+      "latencyMs": 327,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 21,
+      "stationSlug": "quran-radio-saad-al-ghamdi",
+      "qualityId": "medium",
+      "latencyMs": 73,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 21,
+      "stationSlug": "quran-radio-saad-al-ghamdi",
+      "qualityId": "low",
+      "latencyMs": 140,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 22,
+      "stationSlug": "quran-radio-saud-al-shuraim",
+      "qualityId": "high",
+      "latencyMs": 348,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 22,
+      "stationSlug": "quran-radio-saud-al-shuraim",
+      "qualityId": "medium",
+      "latencyMs": 139,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 22,
+      "stationSlug": "quran-radio-saud-al-shuraim",
+      "qualityId": "low",
+      "latencyMs": 202,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 23,
+      "stationSlug": "quran-radio-sahl-yassin",
+      "qualityId": "high",
+      "latencyMs": 204,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 23,
+      "stationSlug": "quran-radio-sahl-yassin",
+      "qualityId": "medium",
+      "latencyMs": 214,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 23,
+      "stationSlug": "quran-radio-sahl-yassin",
+      "qualityId": "low",
+      "latencyMs": 138,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 24,
+      "stationSlug": "quran-radio-zaki-daghistani",
+      "qualityId": "high",
+      "latencyMs": 359,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 24,
+      "stationSlug": "quran-radio-zaki-daghistani",
+      "qualityId": "medium",
+      "latencyMs": 110,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 24,
+      "stationSlug": "quran-radio-zaki-daghistani",
+      "qualityId": "low",
+      "latencyMs": 383,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 25,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "high",
+      "latencyMs": 492,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 25,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "medium",
+      "latencyMs": 362,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 25,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "low",
+      "latencyMs": 475,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 26,
+      "stationSlug": "quran-radio-shirzad-abdulrahman-taher",
+      "qualityId": "high",
+      "latencyMs": 439,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 26,
+      "stationSlug": "quran-radio-shirzad-abdulrahman-taher",
+      "qualityId": "medium",
+      "latencyMs": 358,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 26,
+      "stationSlug": "quran-radio-shirzad-abdulrahman-taher",
+      "qualityId": "low",
+      "latencyMs": 93,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 27,
+      "stationSlug": "quran-radio-saber-abdulhakm",
+      "qualityId": "high",
+      "latencyMs": 400,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 27,
+      "stationSlug": "quran-radio-saber-abdulhakm",
+      "qualityId": "medium",
+      "latencyMs": 359,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 27,
+      "stationSlug": "quran-radio-saber-abdulhakm",
+      "qualityId": "low",
+      "latencyMs": 438,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 28,
+      "stationSlug": "quran-radio-salah-al-budair",
+      "qualityId": "high",
+      "latencyMs": 490,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 28,
+      "stationSlug": "quran-radio-salah-al-budair",
+      "qualityId": "medium",
+      "latencyMs": 73,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 28,
+      "stationSlug": "quran-radio-salah-al-budair",
+      "qualityId": "low",
+      "latencyMs": 76,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 29,
+      "stationSlug": "quran-radio-salah-al-hashim",
+      "qualityId": "high",
+      "latencyMs": 86,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 29,
+      "stationSlug": "quran-radio-salah-al-hashim",
+      "qualityId": "medium",
+      "latencyMs": 301,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 29,
+      "stationSlug": "quran-radio-salah-al-hashim",
+      "qualityId": "low",
+      "latencyMs": 209,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 30,
+      "stationSlug": "quran-radio-salah-bukhatir",
+      "qualityId": "high",
+      "latencyMs": 209,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 30,
+      "stationSlug": "quran-radio-salah-bukhatir",
+      "qualityId": "medium",
+      "latencyMs": 336,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 30,
+      "stationSlug": "quran-radio-salah-bukhatir",
+      "qualityId": "low",
+      "latencyMs": 352,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 31,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "high",
+      "latencyMs": 354,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 31,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "medium",
+      "latencyMs": 70,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 31,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "low",
+      "latencyMs": 410,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 32,
+      "stationSlug": "quran-radio-abdulbari-al-thubayti",
+      "qualityId": "high",
+      "latencyMs": 163,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 32,
+      "stationSlug": "quran-radio-abdulbari-al-thubayti",
+      "qualityId": "medium",
+      "latencyMs": 376,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 32,
+      "stationSlug": "quran-radio-abdulbari-al-thubayti",
+      "qualityId": "low",
+      "latencyMs": 154,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 33,
+      "stationSlug": "quran-radio-abdulbari-muhammad",
+      "qualityId": "high",
+      "latencyMs": 382,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 33,
+      "stationSlug": "quran-radio-abdulbari-muhammad",
+      "qualityId": "medium",
+      "latencyMs": 339,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 33,
+      "stationSlug": "quran-radio-abdulbari-muhammad",
+      "qualityId": "low",
+      "latencyMs": 184,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 34,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-mujawwad",
+      "qualityId": "high",
+      "latencyMs": 401,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 34,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-mujawwad",
+      "qualityId": "medium",
+      "latencyMs": 58,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 34,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-mujawwad",
+      "qualityId": "low",
+      "latencyMs": 480,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 35,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-warsh",
+      "qualityId": "high",
+      "latencyMs": 304,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 35,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-warsh",
+      "qualityId": "medium",
+      "latencyMs": 58,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 35,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad-warsh",
+      "qualityId": "low",
+      "latencyMs": 346,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 36,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad",
+      "qualityId": "high",
+      "latencyMs": 377,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 36,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad",
+      "qualityId": "medium",
+      "latencyMs": 474,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 36,
+      "stationSlug": "quran-radio-abdulbasit-abdulsamad",
+      "qualityId": "low",
+      "latencyMs": 162,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 37,
+      "stationSlug": "quran-radio-abdulrahman-al-sudais",
+      "qualityId": "high",
+      "latencyMs": 233,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 37,
+      "stationSlug": "quran-radio-abdulrahman-al-sudais",
+      "qualityId": "medium",
+      "latencyMs": 80,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 37,
+      "stationSlug": "quran-radio-abdulrahman-al-sudais",
+      "qualityId": "low",
+      "latencyMs": 408,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 38,
+      "stationSlug": "quran-radio-abdulaziz-al-ahmad",
+      "qualityId": "high",
+      "latencyMs": 325,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 38,
+      "stationSlug": "quran-radio-abdulaziz-al-ahmad",
+      "qualityId": "medium",
+      "latencyMs": 303,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 38,
+      "stationSlug": "quran-radio-abdulaziz-al-ahmad",
+      "qualityId": "low",
+      "latencyMs": 325,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 39,
+      "stationSlug": "quran-radio-abdullah-al-mattrod",
+      "qualityId": "high",
+      "latencyMs": 452,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 39,
+      "stationSlug": "quran-radio-abdullah-al-mattrod",
+      "qualityId": "medium",
+      "latencyMs": 101,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 39,
+      "stationSlug": "quran-radio-abdullah-al-mattrod",
+      "qualityId": "low",
+      "latencyMs": 253,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 40,
+      "stationSlug": "quran-radio-abdullah-basfar",
+      "qualityId": "high",
+      "latencyMs": 451,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 40,
+      "stationSlug": "quran-radio-abdullah-basfar",
+      "qualityId": "medium",
+      "latencyMs": 332,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 40,
+      "stationSlug": "quran-radio-abdullah-basfar",
+      "qualityId": "low",
+      "latencyMs": 182,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 41,
+      "stationSlug": "quran-radio-abdullah-khayyat",
+      "qualityId": "high",
+      "latencyMs": 331,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 41,
+      "stationSlug": "quran-radio-abdullah-khayyat",
+      "qualityId": "medium",
+      "latencyMs": 364,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 41,
+      "stationSlug": "quran-radio-abdullah-khayyat",
+      "qualityId": "low",
+      "latencyMs": 190,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 42,
+      "stationSlug": "quran-radio-abdullah-al-juhani",
+      "qualityId": "high",
+      "latencyMs": 122,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 42,
+      "stationSlug": "quran-radio-abdullah-al-juhani",
+      "qualityId": "medium",
+      "latencyMs": 337,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 42,
+      "stationSlug": "quran-radio-abdullah-al-juhani",
+      "qualityId": "low",
+      "latencyMs": 115,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 43,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-khalaf",
+      "qualityId": "high",
+      "latencyMs": 360,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 43,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-khalaf",
+      "qualityId": "medium",
+      "latencyMs": 481,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 43,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-khalaf",
+      "qualityId": "low",
+      "latencyMs": 122,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 44,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-as-susi",
+      "qualityId": "high",
+      "latencyMs": 64,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 44,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-as-susi",
+      "qualityId": "medium",
+      "latencyMs": 179,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 44,
+      "stationSlug": "quran-radio-abdulrasheed-soufi-as-susi",
+      "qualityId": "low",
+      "latencyMs": 313,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 45,
+      "stationSlug": "quran-radio-abdulmohsin-al-harthy",
+      "qualityId": "high",
+      "latencyMs": 426,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 45,
+      "stationSlug": "quran-radio-abdulmohsin-al-harthy",
+      "qualityId": "medium",
+      "latencyMs": 190,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 45,
+      "stationSlug": "quran-radio-abdulmohsin-al-harthy",
+      "qualityId": "low",
+      "latencyMs": 153,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 46,
+      "stationSlug": "quran-radio-abdulmohsen-al-qasim",
+      "qualityId": "high",
+      "latencyMs": 307,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 46,
+      "stationSlug": "quran-radio-abdulmohsen-al-qasim",
+      "qualityId": "medium",
+      "latencyMs": 342,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 46,
+      "stationSlug": "quran-radio-abdulmohsen-al-qasim",
+      "qualityId": "low",
+      "latencyMs": 108,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 47,
+      "stationSlug": "quran-radio-abdulmohsin-al-obaikan",
+      "qualityId": "high",
+      "latencyMs": 499,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 47,
+      "stationSlug": "quran-radio-abdulmohsin-al-obaikan",
+      "qualityId": "medium",
+      "latencyMs": 486,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 47,
+      "stationSlug": "quran-radio-abdulmohsin-al-obaikan",
+      "qualityId": "low",
+      "latencyMs": 283,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 48,
+      "stationSlug": "quran-radio-abdulhadi-kanakeri",
+      "qualityId": "high",
+      "latencyMs": 322,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 48,
+      "stationSlug": "quran-radio-abdulhadi-kanakeri",
+      "qualityId": "medium",
+      "latencyMs": 300,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 48,
+      "stationSlug": "quran-radio-abdulhadi-kanakeri",
+      "qualityId": "low",
+      "latencyMs": 72,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 49,
+      "stationSlug": "quran-radio-abdulwadood-haneef",
+      "qualityId": "high",
+      "latencyMs": 390,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 49,
+      "stationSlug": "quran-radio-abdulwadood-haneef",
+      "qualityId": "medium",
+      "latencyMs": 415,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 49,
+      "stationSlug": "quran-radio-abdulwadood-haneef",
+      "qualityId": "low",
+      "latencyMs": 210,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 50,
+      "stationSlug": "quran-radio-ali-al-hudhaifi",
+      "qualityId": "high",
+      "latencyMs": 352,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 50,
+      "stationSlug": "quran-radio-ali-al-hudhaifi",
+      "qualityId": "medium",
+      "latencyMs": 264,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 50,
+      "stationSlug": "quran-radio-ali-al-hudhaifi",
+      "qualityId": "low",
+      "latencyMs": 373,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 51,
+      "stationSlug": "quran-radio-ali-al-hudhaifi-qalun",
+      "qualityId": "high",
+      "latencyMs": 438,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 51,
+      "stationSlug": "quran-radio-ali-al-hudhaifi-qalun",
+      "qualityId": "medium",
+      "latencyMs": 161,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 51,
+      "stationSlug": "quran-radio-ali-al-hudhaifi-qalun",
+      "qualityId": "low",
+      "latencyMs": 458,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 52,
+      "stationSlug": "quran-radio-ali-jaber",
+      "qualityId": "high",
+      "latencyMs": 246,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 52,
+      "stationSlug": "quran-radio-ali-jaber",
+      "qualityId": "medium",
+      "latencyMs": 117,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 52,
+      "stationSlug": "quran-radio-ali-jaber",
+      "qualityId": "low",
+      "latencyMs": 466,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 53,
+      "stationSlug": "quran-radio-ali-hajjaj-al-souasi",
+      "qualityId": "high",
+      "latencyMs": 449,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 53,
+      "stationSlug": "quran-radio-ali-hajjaj-al-souasi",
+      "qualityId": "medium",
+      "latencyMs": 89,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 53,
+      "stationSlug": "quran-radio-ali-hajjaj-al-souasi",
+      "qualityId": "low",
+      "latencyMs": 454,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 54,
+      "stationSlug": "quran-radio-emad-zuhair-hafez",
+      "qualityId": "high",
+      "latencyMs": 384,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 54,
+      "stationSlug": "quran-radio-emad-zuhair-hafez",
+      "qualityId": "medium",
+      "latencyMs": 240,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 54,
+      "stationSlug": "quran-radio-emad-zuhair-hafez",
+      "qualityId": "low",
+      "latencyMs": 341,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 55,
+      "stationSlug": "quran-radio-omar-al-qazabri",
+      "qualityId": "high",
+      "latencyMs": 98,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 55,
+      "stationSlug": "quran-radio-omar-al-qazabri",
+      "qualityId": "medium",
+      "latencyMs": 375,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 55,
+      "stationSlug": "quran-radio-omar-al-qazabri",
+      "qualityId": "low",
+      "latencyMs": 458,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 56,
+      "stationSlug": "quran-radio-fares-abbad",
+      "qualityId": "high",
+      "latencyMs": 348,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 56,
+      "stationSlug": "quran-radio-fares-abbad",
+      "qualityId": "medium",
+      "latencyMs": 362,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 56,
+      "stationSlug": "quran-radio-fares-abbad",
+      "qualityId": "low",
+      "latencyMs": 270,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 57,
+      "stationSlug": "quran-radio-nasser-al-qatami",
+      "qualityId": "high",
+      "latencyMs": 358,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 57,
+      "stationSlug": "quran-radio-nasser-al-qatami",
+      "qualityId": "medium",
+      "latencyMs": 472,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 57,
+      "stationSlug": "quran-radio-nasser-al-qatami",
+      "qualityId": "low",
+      "latencyMs": 100,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 58,
+      "stationSlug": "quran-radio-nabil-al-rifai",
+      "qualityId": "high",
+      "latencyMs": 436,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 58,
+      "stationSlug": "quran-radio-nabil-al-rifai",
+      "qualityId": "medium",
+      "latencyMs": 210,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 58,
+      "stationSlug": "quran-radio-nabil-al-rifai",
+      "qualityId": "low",
+      "latencyMs": 362,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 59,
+      "stationSlug": "quran-radio-neamah-al-hassan",
+      "qualityId": "high",
+      "latencyMs": 322,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 59,
+      "stationSlug": "quran-radio-neamah-al-hassan",
+      "qualityId": "medium",
+      "latencyMs": 151,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 59,
+      "stationSlug": "quran-radio-neamah-al-hassan",
+      "qualityId": "low",
+      "latencyMs": 453,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 60,
+      "stationSlug": "quran-radio-hani-al-rifai",
+      "qualityId": "high",
+      "latencyMs": 218,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 60,
+      "stationSlug": "quran-radio-hani-al-rifai",
+      "qualityId": "medium",
+      "latencyMs": 483,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 60,
+      "stationSlug": "quran-radio-hani-al-rifai",
+      "qualityId": "low",
+      "latencyMs": 182,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 61,
+      "stationSlug": "quran-radio-waleed-al-naehi",
+      "qualityId": "high",
+      "latencyMs": 407,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 61,
+      "stationSlug": "quran-radio-waleed-al-naehi",
+      "qualityId": "medium",
+      "latencyMs": 393,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 61,
+      "stationSlug": "quran-radio-waleed-al-naehi",
+      "qualityId": "low",
+      "latencyMs": 171,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 62,
+      "stationSlug": "quran-radio-yasser-al-dosari",
+      "qualityId": "high",
+      "latencyMs": 256,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 62,
+      "stationSlug": "quran-radio-yasser-al-dosari",
+      "qualityId": "medium",
+      "latencyMs": 371,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 62,
+      "stationSlug": "quran-radio-yasser-al-dosari",
+      "qualityId": "low",
+      "latencyMs": 415,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 63,
+      "stationSlug": "quran-radio-yasser-al-qurashi",
+      "qualityId": "high",
+      "latencyMs": 300,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 63,
+      "stationSlug": "quran-radio-yasser-al-qurashi",
+      "qualityId": "medium",
+      "latencyMs": 233,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 63,
+      "stationSlug": "quran-radio-yasser-al-qurashi",
+      "qualityId": "low",
+      "latencyMs": 201,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 64,
+      "stationSlug": "quran-radio-yasser-al-mazrooei",
+      "qualityId": "high",
+      "latencyMs": 189,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 64,
+      "stationSlug": "quran-radio-yasser-al-mazrooei",
+      "qualityId": "medium",
+      "latencyMs": 258,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 64,
+      "stationSlug": "quran-radio-yasser-al-mazrooei",
+      "qualityId": "low",
+      "latencyMs": 468,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 65,
+      "stationSlug": "quran-radio-yahya-hawwa",
+      "qualityId": "high",
+      "latencyMs": 243,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 65,
+      "stationSlug": "quran-radio-yahya-hawwa",
+      "qualityId": "medium",
+      "latencyMs": 312,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 65,
+      "stationSlug": "quran-radio-yahya-hawwa",
+      "qualityId": "low",
+      "latencyMs": 375,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 66,
+      "stationSlug": "quran-radio-yousef-al-shoaey",
+      "qualityId": "high",
+      "latencyMs": 97,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 66,
+      "stationSlug": "quran-radio-yousef-al-shoaey",
+      "qualityId": "medium",
+      "latencyMs": 187,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 66,
+      "stationSlug": "quran-radio-yousef-al-shoaey",
+      "qualityId": "low",
+      "latencyMs": 394,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 67,
+      "stationSlug": "quran-radio-maher-al-muaiqly",
+      "qualityId": "high",
+      "latencyMs": 424,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 67,
+      "stationSlug": "quran-radio-maher-al-muaiqly",
+      "qualityId": "medium",
+      "latencyMs": 462,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 67,
+      "stationSlug": "quran-radio-maher-al-muaiqly",
+      "qualityId": "low",
+      "latencyMs": 225,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 68,
+      "stationSlug": "quran-radio-muhammad-al-tablawi",
+      "qualityId": "high",
+      "latencyMs": 374,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 68,
+      "stationSlug": "quran-radio-muhammad-al-tablawi",
+      "qualityId": "medium",
+      "latencyMs": 453,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 68,
+      "stationSlug": "quran-radio-muhammad-al-tablawi",
+      "qualityId": "low",
+      "latencyMs": 86,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 69,
+      "stationSlug": "quran-radio-mohammed-al-luhaidan",
+      "qualityId": "high",
+      "latencyMs": 495,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 69,
+      "stationSlug": "quran-radio-mohammed-al-luhaidan",
+      "qualityId": "medium",
+      "latencyMs": 92,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 69,
+      "stationSlug": "quran-radio-mohammed-al-luhaidan",
+      "qualityId": "low",
+      "latencyMs": 230,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 70,
+      "stationSlug": "quran-radio-muhammad-ayyub",
+      "qualityId": "high",
+      "latencyMs": 185,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 70,
+      "stationSlug": "quran-radio-muhammad-ayyub",
+      "qualityId": "medium",
+      "latencyMs": 244,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 70,
+      "stationSlug": "quran-radio-muhammad-ayyub",
+      "qualityId": "low",
+      "latencyMs": 108,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 71,
+      "stationSlug": "quran-radio-mohammad-saleh-alim-shah",
+      "qualityId": "high",
+      "latencyMs": 426,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 71,
+      "stationSlug": "quran-radio-mohammad-saleh-alim-shah",
+      "qualityId": "medium",
+      "latencyMs": 438,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 71,
+      "stationSlug": "quran-radio-mohammad-saleh-alim-shah",
+      "qualityId": "low",
+      "latencyMs": 239,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 72,
+      "stationSlug": "quran-radio-muhammad-jibreel",
+      "qualityId": "high",
+      "latencyMs": 434,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 72,
+      "stationSlug": "quran-radio-muhammad-jibreel",
+      "qualityId": "medium",
+      "latencyMs": 412,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 72,
+      "stationSlug": "quran-radio-muhammad-jibreel",
+      "qualityId": "low",
+      "latencyMs": 371,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 73,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi",
+      "qualityId": "high",
+      "latencyMs": 457,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 73,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi",
+      "qualityId": "medium",
+      "latencyMs": 345,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 73,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi",
+      "qualityId": "low",
+      "latencyMs": 123,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 74,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi-mujawwad",
+      "qualityId": "high",
+      "latencyMs": 378,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 74,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi-mujawwad",
+      "qualityId": "medium",
+      "latencyMs": 436,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 74,
+      "stationSlug": "quran-radio-muhammad-siddiq-al-minshawi-mujawwad",
+      "qualityId": "low",
+      "latencyMs": 441,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 75,
+      "stationSlug": "quran-radio-mohammad-abdulkareem",
+      "qualityId": "high",
+      "latencyMs": 213,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 75,
+      "stationSlug": "quran-radio-mohammad-abdulkareem",
+      "qualityId": "medium",
+      "latencyMs": 349,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 75,
+      "stationSlug": "quran-radio-mohammad-abdulkareem",
+      "qualityId": "low",
+      "latencyMs": 422,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 76,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-al-bazzi",
+      "qualityId": "high",
+      "latencyMs": 265,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 76,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-al-bazzi",
+      "qualityId": "medium",
+      "latencyMs": 325,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 76,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-al-bazzi",
+      "qualityId": "low",
+      "latencyMs": 266,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 77,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-ad-duri",
+      "qualityId": "high",
+      "latencyMs": 432,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 77,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-ad-duri",
+      "qualityId": "medium",
+      "latencyMs": 380,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 77,
+      "stationSlug": "quran-radio-mohammad-al-abdullah-ad-duri",
+      "qualityId": "low",
+      "latencyMs": 118,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 78,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary",
+      "qualityId": "high",
+      "latencyMs": 152,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 78,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary",
+      "qualityId": "medium",
+      "latencyMs": 130,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 78,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary",
+      "qualityId": "low",
+      "latencyMs": 222,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 79,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-mujawwad",
+      "qualityId": "high",
+      "latencyMs": 413,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 79,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-mujawwad",
+      "qualityId": "medium",
+      "latencyMs": 354,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 79,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-mujawwad",
+      "qualityId": "low",
+      "latencyMs": 125,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 80,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-warsh",
+      "qualityId": "high",
+      "latencyMs": 360,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 80,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-warsh",
+      "qualityId": "medium",
+      "latencyMs": 318,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 80,
+      "stationSlug": "quran-radio-mahmoud-khalil-al-hussary-warsh",
+      "qualityId": "low",
+      "latencyMs": 185,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 81,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna",
+      "qualityId": "high",
+      "latencyMs": 180,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 81,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna",
+      "qualityId": "medium",
+      "latencyMs": 356,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 81,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna",
+      "qualityId": "low",
+      "latencyMs": 90,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 82,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna-mujawwad",
+      "qualityId": "high",
+      "latencyMs": 403,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 82,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna-mujawwad",
+      "qualityId": "medium",
+      "latencyMs": 444,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 82,
+      "stationSlug": "quran-radio-mahmoud-ali-al-banna-mujawwad",
+      "qualityId": "low",
+      "latencyMs": 438,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 83,
+      "stationSlug": "quran-radio-mishary-alafasy",
+      "qualityId": "high",
+      "latencyMs": 266,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 83,
+      "stationSlug": "quran-radio-mishary-alafasy",
+      "qualityId": "medium",
+      "latencyMs": 128,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 83,
+      "stationSlug": "quran-radio-mishary-alafasy",
+      "qualityId": "low",
+      "latencyMs": 378,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 84,
+      "stationSlug": "quran-radio-mustafa-ismail",
+      "qualityId": "high",
+      "latencyMs": 346,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 84,
+      "stationSlug": "quran-radio-mustafa-ismail",
+      "qualityId": "medium",
+      "latencyMs": 182,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 84,
+      "stationSlug": "quran-radio-mustafa-ismail",
+      "qualityId": "low",
+      "latencyMs": 72,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 85,
+      "stationSlug": "quran-radio-mustafa-al-lahoni",
+      "qualityId": "high",
+      "latencyMs": 495,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 85,
+      "stationSlug": "quran-radio-mustafa-al-lahoni",
+      "qualityId": "medium",
+      "latencyMs": 320,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 85,
+      "stationSlug": "quran-radio-mustafa-al-lahoni",
+      "qualityId": "low",
+      "latencyMs": 265,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 86,
+      "stationSlug": "quran-radio-mustafa-raad-al-azawy",
+      "qualityId": "high",
+      "latencyMs": 341,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 86,
+      "stationSlug": "quran-radio-mustafa-raad-al-azawy",
+      "qualityId": "medium",
+      "latencyMs": 118,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 86,
+      "stationSlug": "quran-radio-mustafa-raad-al-azawy",
+      "qualityId": "low",
+      "latencyMs": 424,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 87,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-duri-an-abi-amr",
+      "qualityId": "high",
+      "latencyMs": 228,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 87,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-duri-an-abi-amr",
+      "qualityId": "medium",
+      "latencyMs": 381,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 87,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-duri-an-abi-amr",
+      "qualityId": "low",
+      "latencyMs": 218,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 88,
+      "stationSlug": "quran-radio-maher-shakhashero",
+      "qualityId": "high",
+      "latencyMs": 435,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 88,
+      "stationSlug": "quran-radio-maher-shakhashero",
+      "qualityId": "medium",
+      "latencyMs": 184,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 88,
+      "stationSlug": "quran-radio-maher-shakhashero",
+      "qualityId": "low",
+      "latencyMs": 221,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 89,
+      "stationSlug": "quran-radio-mahmoud-al-sheimy",
+      "qualityId": "high",
+      "latencyMs": 114,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 89,
+      "stationSlug": "quran-radio-mahmoud-al-sheimy",
+      "qualityId": "medium",
+      "latencyMs": 492,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 89,
+      "stationSlug": "quran-radio-mahmoud-al-sheimy",
+      "qualityId": "low",
+      "latencyMs": 280,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 90,
+      "stationSlug": "quran-radio-khalid-al-muhanna",
+      "qualityId": "high",
+      "latencyMs": 231,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 90,
+      "stationSlug": "quran-radio-khalid-al-muhanna",
+      "qualityId": "medium",
+      "latencyMs": 73,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 90,
+      "stationSlug": "quran-radio-khalid-al-muhanna",
+      "qualityId": "low",
+      "latencyMs": 344,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 91,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "high",
+      "latencyMs": 95,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 91,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "medium",
+      "latencyMs": 218,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 91,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "low",
+      "latencyMs": 228,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 92,
+      "stationSlug": "quran-radio-mousa-bilal",
+      "qualityId": "high",
+      "latencyMs": 204,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 92,
+      "stationSlug": "quran-radio-mousa-bilal",
+      "qualityId": "medium",
+      "latencyMs": 424,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 92,
+      "stationSlug": "quran-radio-mousa-bilal",
+      "qualityId": "low",
+      "latencyMs": 157,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 93,
+      "stationSlug": "quran-radio-hatem-fareed-al-waer",
+      "qualityId": "high",
+      "latencyMs": 318,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 93,
+      "stationSlug": "quran-radio-hatem-fareed-al-waer",
+      "qualityId": "medium",
+      "latencyMs": 330,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 93,
+      "stationSlug": "quran-radio-hatem-fareed-al-waer",
+      "qualityId": "low",
+      "latencyMs": 78,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 94,
+      "stationSlug": "quran-radio-mahmoud-al-rifai",
+      "qualityId": "high",
+      "latencyMs": 461,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 94,
+      "stationSlug": "quran-radio-mahmoud-al-rifai",
+      "qualityId": "medium",
+      "latencyMs": 84,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 94,
+      "stationSlug": "quran-radio-mahmoud-al-rifai",
+      "qualityId": "low",
+      "latencyMs": 177,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 95,
+      "stationSlug": "quran-radio-ibrahim-al-dosari",
+      "qualityId": "high",
+      "latencyMs": 106,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 95,
+      "stationSlug": "quran-radio-ibrahim-al-dosari",
+      "qualityId": "medium",
+      "latencyMs": 391,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 95,
+      "stationSlug": "quran-radio-ibrahim-al-dosari",
+      "qualityId": "low",
+      "latencyMs": 500,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 96,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-durai",
+      "qualityId": "high",
+      "latencyMs": 299,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 96,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-durai",
+      "qualityId": "medium",
+      "latencyMs": 255,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 96,
+      "stationSlug": "quran-radio-muftah-al-saltany-ad-durai",
+      "qualityId": "low",
+      "latencyMs": 338,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 97,
+      "stationSlug": "quran-radio-jamaan-al-osaimi",
+      "qualityId": "high",
+      "latencyMs": 239,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 97,
+      "stationSlug": "quran-radio-jamaan-al-osaimi",
+      "qualityId": "medium",
+      "latencyMs": 140,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 97,
+      "stationSlug": "quran-radio-jamaan-al-osaimi",
+      "qualityId": "low",
+      "latencyMs": 416,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 98,
+      "stationSlug": "quran-radio-muftah-al-saltany",
+      "qualityId": "high",
+      "latencyMs": 121,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 98,
+      "stationSlug": "quran-radio-muftah-al-saltany",
+      "qualityId": "medium",
+      "latencyMs": 120,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 98,
+      "stationSlug": "quran-radio-muftah-al-saltany",
+      "qualityId": "low",
+      "latencyMs": 203,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 99,
+      "stationSlug": "quran-radio-yousef-bin-noah-ahmad",
+      "qualityId": "high",
+      "latencyMs": 135,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 99,
+      "stationSlug": "quran-radio-yousef-bin-noah-ahmad",
+      "qualityId": "medium",
+      "latencyMs": 484,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 99,
+      "stationSlug": "quran-radio-yousef-bin-noah-ahmad",
+      "qualityId": "low",
+      "latencyMs": 223,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 100,
+      "stationSlug": "quran-radio-muftah-al-saltany-ibn-dhakwan-an-ibn-amr",
+      "qualityId": "high",
+      "latencyMs": 220,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 100,
+      "stationSlug": "quran-radio-muftah-al-saltany-ibn-dhakwan-an-ibn-amr",
+      "qualityId": "medium",
+      "latencyMs": 431,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 100,
+      "stationSlug": "quran-radio-muftah-al-saltany-ibn-dhakwan-an-ibn-amr",
+      "qualityId": "low",
+      "latencyMs": 149,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 101,
+      "stationSlug": "quran-radio-moeedh-al-harthi",
+      "qualityId": "high",
+      "latencyMs": 65,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 101,
+      "stationSlug": "quran-radio-moeedh-al-harthi",
+      "qualityId": "medium",
+      "latencyMs": 107,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 101,
+      "stationSlug": "quran-radio-moeedh-al-harthi",
+      "qualityId": "low",
+      "latencyMs": 447,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 102,
+      "stationSlug": "quran-radio-mohammad-rashad-al-shareef",
+      "qualityId": "high",
+      "latencyMs": 329,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 102,
+      "stationSlug": "quran-radio-mohammad-rashad-al-shareef",
+      "qualityId": "medium",
+      "latencyMs": 134,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 102,
+      "stationSlug": "quran-radio-mohammad-rashad-al-shareef",
+      "qualityId": "low",
+      "latencyMs": 151,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 103,
+      "stationSlug": "quran-radio-ahmad-khader-al-trabulsi",
+      "qualityId": "high",
+      "latencyMs": 333,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 103,
+      "stationSlug": "quran-radio-ahmad-khader-al-trabulsi",
+      "qualityId": "medium",
+      "latencyMs": 432,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 103,
+      "stationSlug": "quran-radio-ahmad-khader-al-trabulsi",
+      "qualityId": "low",
+      "latencyMs": 146,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 104,
+      "stationSlug": "quran-radio-ahmed-al-trabulsi",
+      "qualityId": "high",
+      "latencyMs": 479,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 104,
+      "stationSlug": "quran-radio-ahmed-al-trabulsi",
+      "qualityId": "medium",
+      "latencyMs": 173,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 104,
+      "stationSlug": "quran-radio-ahmed-al-trabulsi",
+      "qualityId": "low",
+      "latencyMs": 402,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 105,
+      "stationSlug": "quran-radio-abdullah-al-kandari",
+      "qualityId": "high",
+      "latencyMs": 403,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 105,
+      "stationSlug": "quran-radio-abdullah-al-kandari",
+      "qualityId": "medium",
+      "latencyMs": 279,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 105,
+      "stationSlug": "quran-radio-abdullah-al-kandari",
+      "qualityId": "low",
+      "latencyMs": 381,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 106,
+      "stationSlug": "quran-radio-ahmed-amer",
+      "qualityId": "high",
+      "latencyMs": 205,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 106,
+      "stationSlug": "quran-radio-ahmed-amer",
+      "qualityId": "medium",
+      "latencyMs": 356,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 106,
+      "stationSlug": "quran-radio-ahmed-amer",
+      "qualityId": "low",
+      "latencyMs": 330,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 107,
+      "stationSlug": "quran-radio-mohammed-osman-khan",
+      "qualityId": "high",
+      "latencyMs": 471,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 107,
+      "stationSlug": "quran-radio-mohammed-osman-khan",
+      "qualityId": "medium",
+      "latencyMs": 354,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 107,
+      "stationSlug": "quran-radio-mohammed-osman-khan",
+      "qualityId": "low",
+      "latencyMs": 94,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 108,
+      "stationSlug": "quran-radio-addokali-mohammad-al-alim",
+      "qualityId": "high",
+      "latencyMs": 324,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 108,
+      "stationSlug": "quran-radio-addokali-mohammad-al-alim",
+      "qualityId": "medium",
+      "latencyMs": 231,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 108,
+      "stationSlug": "quran-radio-addokali-mohammad-al-alim",
+      "qualityId": "low",
+      "latencyMs": 114,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 109,
+      "stationSlug": "quran-radio-mohammad-abdulkareem-al-asbahani",
+      "qualityId": "high",
+      "latencyMs": 302,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 109,
+      "stationSlug": "quran-radio-mohammad-abdulkareem-al-asbahani",
+      "qualityId": "medium",
+      "latencyMs": 113,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 109,
+      "stationSlug": "quran-radio-mohammad-abdulkareem-al-asbahani",
+      "qualityId": "low",
+      "latencyMs": 424,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 110,
+      "stationSlug": "quran-radio-al-fateh-al-zubair",
+      "qualityId": "high",
+      "latencyMs": 440,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 110,
+      "stationSlug": "quran-radio-al-fateh-al-zubair",
+      "qualityId": "medium",
+      "latencyMs": 416,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 110,
+      "stationSlug": "quran-radio-al-fateh-al-zubair",
+      "qualityId": "low",
+      "latencyMs": 360,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 111,
+      "stationSlug": "quran-radio-tareq-abdulghani-daawob",
+      "qualityId": "high",
+      "latencyMs": 140,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 111,
+      "stationSlug": "quran-radio-tareq-abdulghani-daawob",
+      "qualityId": "medium",
+      "latencyMs": 467,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 111,
+      "stationSlug": "quran-radio-tareq-abdulghani-daawob",
+      "qualityId": "low",
+      "latencyMs": 181,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 112,
+      "stationSlug": "quran-radio-mixed-reciters-general",
+      "qualityId": "high",
+      "latencyMs": 92,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 112,
+      "stationSlug": "quran-radio-mixed-reciters-general",
+      "qualityId": "medium",
+      "latencyMs": 484,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 112,
+      "stationSlug": "quran-radio-mixed-reciters-general",
+      "qualityId": "low",
+      "latencyMs": 200,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 113,
+      "stationSlug": "quran-radio-humble-emotional-recitations",
+      "qualityId": "high",
+      "latencyMs": 348,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 113,
+      "stationSlug": "quran-radio-humble-emotional-recitations",
+      "qualityId": "medium",
+      "latencyMs": 365,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 113,
+      "stationSlug": "quran-radio-humble-emotional-recitations",
+      "qualityId": "low",
+      "latencyMs": 226,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 114,
+      "stationSlug": "eid-takbeerat-radio",
+      "qualityId": "high",
+      "latencyMs": 83,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 114,
+      "stationSlug": "eid-takbeerat-radio",
+      "qualityId": "medium",
+      "latencyMs": 298,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 114,
+      "stationSlug": "eid-takbeerat-radio",
+      "qualityId": "low",
+      "latencyMs": 264,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 115,
+      "stationSlug": "quran-radio-abdulrahman-al-majed",
+      "qualityId": "high",
+      "latencyMs": 365,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 115,
+      "stationSlug": "quran-radio-abdulrahman-al-majed",
+      "qualityId": "medium",
+      "latencyMs": 317,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 115,
+      "stationSlug": "quran-radio-abdulrahman-al-majed",
+      "qualityId": "low",
+      "latencyMs": 273,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 116,
+      "stationSlug": "islamic-radio-general-fatwas",
+      "qualityId": "high",
+      "latencyMs": 481,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 116,
+      "stationSlug": "islamic-radio-general-fatwas",
+      "qualityId": "medium",
+      "latencyMs": 311,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 116,
+      "stationSlug": "islamic-radio-general-fatwas",
+      "qualityId": "low",
+      "latencyMs": 232,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 117,
+      "stationSlug": "islamic-radio-ruqyah-shariyyah",
+      "qualityId": "high",
+      "latencyMs": 95,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 117,
+      "stationSlug": "islamic-radio-ruqyah-shariyyah",
+      "qualityId": "medium",
+      "latencyMs": 145,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 117,
+      "stationSlug": "islamic-radio-ruqyah-shariyyah",
+      "qualityId": "low",
+      "latencyMs": 492,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 118,
+      "stationSlug": "surah-al-baqarah-radio-multiple-reciters",
+      "qualityId": "high",
+      "latencyMs": 458,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 118,
+      "stationSlug": "surah-al-baqarah-radio-multiple-reciters",
+      "qualityId": "medium",
+      "latencyMs": 306,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 118,
+      "stationSlug": "surah-al-baqarah-radio-multiple-reciters",
+      "qualityId": "low",
+      "latencyMs": 392,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 119,
+      "stationSlug": "quran-radio-tafsir-quran-explanation",
+      "qualityId": "high",
+      "latencyMs": 247,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 119,
+      "stationSlug": "quran-radio-tafsir-quran-explanation",
+      "qualityId": "medium",
+      "latencyMs": 430,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 119,
+      "stationSlug": "quran-radio-tafsir-quran-explanation",
+      "qualityId": "low",
+      "latencyMs": 158,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 120,
+      "stationSlug": "quran-radio-khalid-al-jalil",
+      "qualityId": "high",
+      "latencyMs": 394,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 120,
+      "stationSlug": "quran-radio-khalid-al-jalil",
+      "qualityId": "medium",
+      "latencyMs": 361,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 120,
+      "stationSlug": "quran-radio-khalid-al-jalil",
+      "qualityId": "low",
+      "latencyMs": 87,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 121,
+      "stationSlug": "quran-radio-nasser-al-majed",
+      "qualityId": "high",
+      "latencyMs": 454,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 121,
+      "stationSlug": "quran-radio-nasser-al-majed",
+      "qualityId": "medium",
+      "latencyMs": 393,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 121,
+      "stationSlug": "quran-radio-nasser-al-majed",
+      "qualityId": "low",
+      "latencyMs": 475,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 122,
+      "stationSlug": "quran-radio-haitham-al-jadani",
+      "qualityId": "high",
+      "latencyMs": 174,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 122,
+      "stationSlug": "quran-radio-haitham-al-jadani",
+      "qualityId": "medium",
+      "latencyMs": 345,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 122,
+      "stationSlug": "quran-radio-haitham-al-jadani",
+      "qualityId": "low",
+      "latencyMs": 446,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 123,
+      "stationSlug": "quran-radio-ahmad-khalil-shaheen",
+      "qualityId": "high",
+      "latencyMs": 162,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 123,
+      "stationSlug": "quran-radio-ahmad-khalil-shaheen",
+      "qualityId": "medium",
+      "latencyMs": 384,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 123,
+      "stationSlug": "quran-radio-ahmad-khalil-shaheen",
+      "qualityId": "low",
+      "latencyMs": 229,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 124,
+      "stationSlug": "quran-radio-abdullah-al-mousa",
+      "qualityId": "high",
+      "latencyMs": 185,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 124,
+      "stationSlug": "quran-radio-abdullah-al-mousa",
+      "qualityId": "medium",
+      "latencyMs": 240,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 124,
+      "stationSlug": "quran-radio-abdullah-al-mousa",
+      "qualityId": "low",
+      "latencyMs": 138,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 125,
+      "stationSlug": "quran-radio-abdullah-al-khalaf",
+      "qualityId": "high",
+      "latencyMs": 230,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 125,
+      "stationSlug": "quran-radio-abdullah-al-khalaf",
+      "qualityId": "medium",
+      "latencyMs": 406,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 125,
+      "stationSlug": "quran-radio-abdullah-al-khalaf",
+      "qualityId": "low",
+      "latencyMs": 68,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 126,
+      "stationSlug": "short-quran-recitations-radio",
+      "qualityId": "high",
+      "latencyMs": 243,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 126,
+      "stationSlug": "short-quran-recitations-radio",
+      "qualityId": "medium",
+      "latencyMs": 285,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 126,
+      "stationSlug": "short-quran-recitations-radio",
+      "qualityId": "low",
+      "latencyMs": 99,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 127,
+      "stationSlug": "quran-radio-majed-al-zamel",
+      "qualityId": "high",
+      "latencyMs": 390,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 127,
+      "stationSlug": "quran-radio-majed-al-zamel",
+      "qualityId": "medium",
+      "latencyMs": 255,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 127,
+      "stationSlug": "quran-radio-majed-al-zamel",
+      "qualityId": "low",
+      "latencyMs": 426,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 128,
+      "stationSlug": "quran-radio-bandar-balilah",
+      "qualityId": "high",
+      "latencyMs": 434,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 128,
+      "stationSlug": "quran-radio-bandar-balilah",
+      "qualityId": "medium",
+      "latencyMs": 368,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 128,
+      "stationSlug": "quran-radio-bandar-balilah",
+      "qualityId": "low",
+      "latencyMs": 255,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 129,
+      "stationSlug": "quran-radio-nasser-al-osfor",
+      "qualityId": "high",
+      "latencyMs": 359,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 129,
+      "stationSlug": "quran-radio-nasser-al-osfor",
+      "qualityId": "medium",
+      "latencyMs": 140,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 129,
+      "stationSlug": "quran-radio-nasser-al-osfor",
+      "qualityId": "low",
+      "latencyMs": 344,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 130,
+      "stationSlug": "quran-radio-muhammad-ayyub-special-recitation",
+      "qualityId": "high",
+      "latencyMs": 266,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 130,
+      "stationSlug": "quran-radio-muhammad-ayyub-special-recitation",
+      "qualityId": "medium",
+      "latencyMs": 80,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 130,
+      "stationSlug": "quran-radio-muhammad-ayyub-special-recitation",
+      "qualityId": "low",
+      "latencyMs": 485,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 131,
+      "stationSlug": "quran-radio-ahmad-deban",
+      "qualityId": "high",
+      "latencyMs": 300,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 131,
+      "stationSlug": "quran-radio-ahmad-deban",
+      "qualityId": "medium",
+      "latencyMs": 175,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 131,
+      "stationSlug": "quran-radio-ahmad-deban",
+      "qualityId": "low",
+      "latencyMs": 340,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 132,
+      "stationSlug": "quran-radio-muhammad-abu-sneineh",
+      "qualityId": "high",
+      "latencyMs": 425,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 132,
+      "stationSlug": "quran-radio-muhammad-abu-sneineh",
+      "qualityId": "medium",
+      "latencyMs": 175,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 132,
+      "stationSlug": "quran-radio-muhammad-abu-sneineh",
+      "qualityId": "low",
+      "latencyMs": 213,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 133,
+      "stationSlug": "quran-radio-muhammad-al-amin-qeniwa",
+      "qualityId": "high",
+      "latencyMs": 95,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 133,
+      "stationSlug": "quran-radio-muhammad-al-amin-qeniwa",
+      "qualityId": "medium",
+      "latencyMs": 410,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 133,
+      "stationSlug": "quran-radio-muhammad-al-amin-qeniwa",
+      "qualityId": "low",
+      "latencyMs": 302,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 134,
+      "stationSlug": "quran-radio-abdulrahman-al-shahhat",
+      "qualityId": "high",
+      "latencyMs": 117,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 134,
+      "stationSlug": "quran-radio-abdulrahman-al-shahhat",
+      "qualityId": "medium",
+      "latencyMs": 372,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 134,
+      "stationSlug": "quran-radio-abdulrahman-al-shahhat",
+      "qualityId": "low",
+      "latencyMs": 186,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 135,
+      "stationSlug": "quran-radio-abdulaziz-suheim",
+      "qualityId": "high",
+      "latencyMs": 437,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 135,
+      "stationSlug": "quran-radio-abdulaziz-suheim",
+      "qualityId": "medium",
+      "latencyMs": 416,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 135,
+      "stationSlug": "quran-radio-abdulaziz-suheim",
+      "qualityId": "low",
+      "latencyMs": 386,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 136,
+      "stationSlug": "ayat-al-sakeenah-radio-verses-of-tranquility",
+      "qualityId": "high",
+      "latencyMs": 98,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 136,
+      "stationSlug": "ayat-al-sakeenah-radio-verses-of-tranquility",
+      "qualityId": "medium",
+      "latencyMs": 338,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 136,
+      "stationSlug": "ayat-al-sakeenah-radio-verses-of-tranquility",
+      "qualityId": "low",
+      "latencyMs": 455,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 137,
+      "stationSlug": "islamic-stories-radio-lives-of-the-sahabah-tabieen",
+      "qualityId": "high",
+      "latencyMs": 480,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 137,
+      "stationSlug": "islamic-stories-radio-lives-of-the-sahabah-tabieen",
+      "qualityId": "medium",
+      "latencyMs": 142,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 137,
+      "stationSlug": "islamic-stories-radio-lives-of-the-sahabah-tabieen",
+      "qualityId": "low",
+      "latencyMs": 371,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 138,
+      "stationSlug": "quran-radio-the-concise-tafsir-mukhtasar",
+      "qualityId": "high",
+      "latencyMs": 282,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 138,
+      "stationSlug": "quran-radio-the-concise-tafsir-mukhtasar",
+      "qualityId": "medium",
+      "latencyMs": 129,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 138,
+      "stationSlug": "quran-radio-the-concise-tafsir-mukhtasar",
+      "qualityId": "low",
+      "latencyMs": 426,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 139,
+      "stationSlug": "morning-adhkar-radio",
+      "qualityId": "high",
+      "latencyMs": 121,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 139,
+      "stationSlug": "morning-adhkar-radio",
+      "qualityId": "medium",
+      "latencyMs": 133,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 139,
+      "stationSlug": "morning-adhkar-radio",
+      "qualityId": "low",
+      "latencyMs": 67,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 140,
+      "stationSlug": "evening-adhkar-radio",
+      "qualityId": "high",
+      "latencyMs": 291,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 140,
+      "stationSlug": "evening-adhkar-radio",
+      "qualityId": "medium",
+      "latencyMs": 350,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 140,
+      "stationSlug": "evening-adhkar-radio",
+      "qualityId": "low",
+      "latencyMs": 447,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 141,
+      "stationSlug": "seerah-radio-in-the-shade-of-the-prophetic-biography-400-episodes",
+      "qualityId": "high",
+      "latencyMs": 479,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 141,
+      "stationSlug": "seerah-radio-in-the-shade-of-the-prophetic-biography-400-episodes",
+      "qualityId": "medium",
+      "latencyMs": 369,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 141,
+      "stationSlug": "seerah-radio-in-the-shade-of-the-prophetic-biography-400-episodes",
+      "qualityId": "low",
+      "latencyMs": 438,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 142,
+      "stationSlug": "seerah-radio-the-concise-prophetic-biography",
+      "qualityId": "high",
+      "latencyMs": 102,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 142,
+      "stationSlug": "seerah-radio-the-concise-prophetic-biography",
+      "qualityId": "medium",
+      "latencyMs": 369,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 142,
+      "stationSlug": "seerah-radio-the-concise-prophetic-biography",
+      "qualityId": "low",
+      "latencyMs": 310,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 143,
+      "stationSlug": "islamic-fiqh-radio-selected-jurisprudential-choices-ibn-baz",
+      "qualityId": "high",
+      "latencyMs": 223,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 143,
+      "stationSlug": "islamic-fiqh-radio-selected-jurisprudential-choices-ibn-baz",
+      "qualityId": "medium",
+      "latencyMs": 452,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 143,
+      "stationSlug": "islamic-fiqh-radio-selected-jurisprudential-choices-ibn-baz",
+      "qualityId": "low",
+      "latencyMs": 406,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 144,
+      "stationSlug": "quran-tafsir-radio-summary-of-tafsir-al-tabari",
+      "qualityId": "high",
+      "latencyMs": 401,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 144,
+      "stationSlug": "quran-tafsir-radio-summary-of-tafsir-al-tabari",
+      "qualityId": "medium",
+      "latencyMs": 182,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 144,
+      "stationSlug": "quran-tafsir-radio-summary-of-tafsir-al-tabari",
+      "qualityId": "low",
+      "latencyMs": 325,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 145,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "high",
+      "latencyMs": 392,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 145,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "medium",
+      "latencyMs": 426,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 145,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "low",
+      "latencyMs": 296,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 146,
+      "stationSlug": "quran-translation-urdu-abdulbasit-abdulsamad",
+      "qualityId": "high",
+      "latencyMs": 96,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 146,
+      "stationSlug": "quran-translation-urdu-abdulbasit-abdulsamad",
+      "qualityId": "medium",
+      "latencyMs": 463,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 146,
+      "stationSlug": "quran-translation-urdu-abdulbasit-abdulsamad",
+      "qualityId": "low",
+      "latencyMs": 395,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 147,
+      "stationSlug": "quran-translation-spanish",
+      "qualityId": "high",
+      "latencyMs": 402,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 147,
+      "stationSlug": "quran-translation-spanish",
+      "qualityId": "medium",
+      "latencyMs": 217,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 147,
+      "stationSlug": "quran-translation-spanish",
+      "qualityId": "low",
+      "latencyMs": 274,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 148,
+      "stationSlug": "quran-translation-albanian",
+      "qualityId": "high",
+      "latencyMs": 359,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 148,
+      "stationSlug": "quran-translation-albanian",
+      "qualityId": "medium",
+      "latencyMs": 188,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 148,
+      "stationSlug": "quran-translation-albanian",
+      "qualityId": "low",
+      "latencyMs": 167,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 149,
+      "stationSlug": "quran-translation-german",
+      "qualityId": "high",
+      "latencyMs": 308,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 149,
+      "stationSlug": "quran-translation-german",
+      "qualityId": "medium",
+      "latencyMs": 466,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 149,
+      "stationSlug": "quran-translation-german",
+      "qualityId": "low",
+      "latencyMs": 397,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 150,
+      "stationSlug": "quran-translation-tamazight-amazigh",
+      "qualityId": "high",
+      "latencyMs": 195,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 150,
+      "stationSlug": "quran-translation-tamazight-amazigh",
+      "qualityId": "medium",
+      "latencyMs": 449,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 150,
+      "stationSlug": "quran-translation-tamazight-amazigh",
+      "qualityId": "low",
+      "latencyMs": 338,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 151,
+      "stationSlug": "quran-translation-urdu-al-sudais-al-shuraim",
+      "qualityId": "high",
+      "latencyMs": 217,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 151,
+      "stationSlug": "quran-translation-urdu-al-sudais-al-shuraim",
+      "qualityId": "medium",
+      "latencyMs": 413,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 151,
+      "stationSlug": "quran-translation-urdu-al-sudais-al-shuraim",
+      "qualityId": "low",
+      "latencyMs": 105,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 152,
+      "stationSlug": "quran-translation-urdu-al-minshawi",
+      "qualityId": "high",
+      "latencyMs": 215,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 152,
+      "stationSlug": "quran-translation-urdu-al-minshawi",
+      "qualityId": "medium",
+      "latencyMs": 217,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 152,
+      "stationSlug": "quran-translation-urdu-al-minshawi",
+      "qualityId": "low",
+      "latencyMs": 482,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 153,
+      "stationSlug": "quran-translation-english-abdulbasit",
+      "qualityId": "high",
+      "latencyMs": 304,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 153,
+      "stationSlug": "quran-translation-english-abdulbasit",
+      "qualityId": "medium",
+      "latencyMs": 218,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 153,
+      "stationSlug": "quran-translation-english-abdulbasit",
+      "qualityId": "low",
+      "latencyMs": 132,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 154,
+      "stationSlug": "quran-translation-english-basfar",
+      "qualityId": "high",
+      "latencyMs": 73,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 154,
+      "stationSlug": "quran-translation-english-basfar",
+      "qualityId": "medium",
+      "latencyMs": 86,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 154,
+      "stationSlug": "quran-translation-english-basfar",
+      "qualityId": "low",
+      "latencyMs": 230,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 155,
+      "stationSlug": "quran-translation-english-walk-through-translation",
+      "qualityId": "high",
+      "latencyMs": 414,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 155,
+      "stationSlug": "quran-translation-english-walk-through-translation",
+      "qualityId": "medium",
+      "latencyMs": 473,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 155,
+      "stationSlug": "quran-translation-english-walk-through-translation",
+      "qualityId": "low",
+      "latencyMs": 261,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 156,
+      "stationSlug": "quran-translation-portuguese",
+      "qualityId": "high",
+      "latencyMs": 438,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 156,
+      "stationSlug": "quran-translation-portuguese",
+      "qualityId": "medium",
+      "latencyMs": 465,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 156,
+      "stationSlug": "quran-translation-portuguese",
+      "qualityId": "low",
+      "latencyMs": 221,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 157,
+      "stationSlug": "quran-translation-bosnian",
+      "qualityId": "high",
+      "latencyMs": 212,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 157,
+      "stationSlug": "quran-translation-bosnian",
+      "qualityId": "medium",
+      "latencyMs": 327,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 157,
+      "stationSlug": "quran-translation-bosnian",
+      "qualityId": "low",
+      "latencyMs": 84,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 158,
+      "stationSlug": "quran-translation-turkish",
+      "qualityId": "high",
+      "latencyMs": 202,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 158,
+      "stationSlug": "quran-translation-turkish",
+      "qualityId": "medium",
+      "latencyMs": 282,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 158,
+      "stationSlug": "quran-translation-turkish",
+      "qualityId": "low",
+      "latencyMs": 349,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 159,
+      "stationSlug": "quran-translation-russian",
+      "qualityId": "high",
+      "latencyMs": 225,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 159,
+      "stationSlug": "quran-translation-russian",
+      "qualityId": "medium",
+      "latencyMs": 243,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 159,
+      "stationSlug": "quran-translation-russian",
+      "qualityId": "low",
+      "latencyMs": 388,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 160,
+      "stationSlug": "quran-translation-chinese",
+      "qualityId": "high",
+      "latencyMs": 295,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 160,
+      "stationSlug": "quran-translation-chinese",
+      "qualityId": "medium",
+      "latencyMs": 395,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 160,
+      "stationSlug": "quran-translation-chinese",
+      "qualityId": "low",
+      "latencyMs": 446,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 161,
+      "stationSlug": "quran-translation-persian-farsi",
+      "qualityId": "high",
+      "latencyMs": 135,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 161,
+      "stationSlug": "quran-translation-persian-farsi",
+      "qualityId": "medium",
+      "latencyMs": 122,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 161,
+      "stationSlug": "quran-translation-persian-farsi",
+      "qualityId": "low",
+      "latencyMs": 252,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 162,
+      "stationSlug": "quran-translation-french",
+      "qualityId": "high",
+      "latencyMs": 448,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 162,
+      "stationSlug": "quran-translation-french",
+      "qualityId": "medium",
+      "latencyMs": 416,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 162,
+      "stationSlug": "quran-translation-french",
+      "qualityId": "low",
+      "latencyMs": 421,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 163,
+      "stationSlug": "quran-translation-kurdish",
+      "qualityId": "high",
+      "latencyMs": 87,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 163,
+      "stationSlug": "quran-translation-kurdish",
+      "qualityId": "medium",
+      "latencyMs": 124,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 163,
+      "stationSlug": "quran-translation-kurdish",
+      "qualityId": "low",
+      "latencyMs": 338,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 164,
+      "stationSlug": "quran-translation-korean",
+      "qualityId": "high",
+      "latencyMs": 300,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 164,
+      "stationSlug": "quran-translation-korean",
+      "qualityId": "medium",
+      "latencyMs": 379,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 164,
+      "stationSlug": "quran-translation-korean",
+      "qualityId": "low",
+      "latencyMs": 188,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 165,
+      "stationSlug": "quran-translation-hungarian",
+      "qualityId": "high",
+      "latencyMs": 108,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 165,
+      "stationSlug": "quran-translation-hungarian",
+      "qualityId": "medium",
+      "latencyMs": 69,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 165,
+      "stationSlug": "quran-translation-hungarian",
+      "qualityId": "low",
+      "latencyMs": 83,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 166,
+      "stationSlug": "quran-translation-greek",
+      "qualityId": "high",
+      "latencyMs": 351,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 166,
+      "stationSlug": "quran-translation-greek",
+      "qualityId": "medium",
+      "latencyMs": 135,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 166,
+      "stationSlug": "quran-translation-greek",
+      "qualityId": "low",
+      "latencyMs": 446,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 167,
+      "stationSlug": "surah-al-mulk-radio",
+      "qualityId": "high",
+      "latencyMs": 481,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 167,
+      "stationSlug": "surah-al-mulk-radio",
+      "qualityId": "medium",
+      "latencyMs": 288,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 167,
+      "stationSlug": "surah-al-mulk-radio",
+      "qualityId": "low",
+      "latencyMs": 404,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 168,
+      "stationSlug": "islamic-radio-virtues-of-ramadan",
+      "qualityId": "high",
+      "latencyMs": 62,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 168,
+      "stationSlug": "islamic-radio-virtues-of-ramadan",
+      "qualityId": "medium",
+      "latencyMs": 338,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 168,
+      "stationSlug": "islamic-radio-virtues-of-ramadan",
+      "qualityId": "low",
+      "latencyMs": 183,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 169,
+      "stationSlug": "quran-translation-hausa",
+      "qualityId": "high",
+      "latencyMs": 194,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 169,
+      "stationSlug": "quran-translation-hausa",
+      "qualityId": "medium",
+      "latencyMs": 227,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 169,
+      "stationSlug": "quran-translation-hausa",
+      "qualityId": "low",
+      "latencyMs": 468,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 170,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "high",
+      "latencyMs": 484,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 170,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "medium",
+      "latencyMs": 372,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 170,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "low",
+      "latencyMs": 182,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 171,
+      "stationSlug": "meanings",
+      "qualityId": "high",
+      "latencyMs": 292,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 171,
+      "stationSlug": "meanings",
+      "qualityId": "medium",
+      "latencyMs": 334,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 171,
+      "stationSlug": "meanings",
+      "qualityId": "low",
+      "latencyMs": 442,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 172,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "high",
+      "latencyMs": 313,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 172,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "medium",
+      "latencyMs": 416,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 172,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "low",
+      "latencyMs": 381,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 173,
+      "stationSlug": "hadith-radio-sahih-muslim",
+      "qualityId": "high",
+      "latencyMs": 57,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 173,
+      "stationSlug": "hadith-radio-sahih-muslim",
+      "qualityId": "medium",
+      "latencyMs": 195,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 173,
+      "stationSlug": "hadith-radio-sahih-muslim",
+      "qualityId": "low",
+      "latencyMs": 400,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 174,
+      "stationSlug": "hadith-radio-sahih-al-bukhari",
+      "qualityId": "high",
+      "latencyMs": 396,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 174,
+      "stationSlug": "hadith-radio-sahih-al-bukhari",
+      "qualityId": "medium",
+      "latencyMs": 157,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 174,
+      "stationSlug": "hadith-radio-sahih-al-bukhari",
+      "qualityId": "low",
+      "latencyMs": 125,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 175,
+      "stationSlug": "islamic-stories-radio-stories-of-the-prophets",
+      "qualityId": "high",
+      "latencyMs": 416,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 175,
+      "stationSlug": "islamic-stories-radio-stories-of-the-prophets",
+      "qualityId": "medium",
+      "latencyMs": 231,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 175,
+      "stationSlug": "islamic-stories-radio-stories-of-the-prophets",
+      "qualityId": "low",
+      "latencyMs": 86,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 176,
+      "stationSlug": "hadith-ethics-radio-riyadh-as-salihin",
+      "qualityId": "high",
+      "latencyMs": 344,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 176,
+      "stationSlug": "hadith-ethics-radio-riyadh-as-salihin",
+      "qualityId": "medium",
+      "latencyMs": 239,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 176,
+      "stationSlug": "hadith-ethics-radio-riyadh-as-salihin",
+      "qualityId": "low",
+      "latencyMs": 439,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 177,
+      "stationSlug": "quran-radio-abdullah-al-buayjan",
+      "qualityId": "high",
+      "latencyMs": 65,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 177,
+      "stationSlug": "quran-radio-abdullah-al-buayjan",
+      "qualityId": "medium",
+      "latencyMs": 165,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 177,
+      "stationSlug": "quran-radio-abdullah-al-buayjan",
+      "qualityId": "low",
+      "latencyMs": 472,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 178,
+      "stationSlug": "quran-radio-ahmad-talib-bin-humaid",
+      "qualityId": "high",
+      "latencyMs": 84,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 178,
+      "stationSlug": "quran-radio-ahmad-talib-bin-humaid",
+      "qualityId": "medium",
+      "latencyMs": 337,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 178,
+      "stationSlug": "quran-radio-ahmad-talib-bin-humaid",
+      "qualityId": "low",
+      "latencyMs": 263,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 179,
+      "stationSlug": "quran-studies-radio-ghareeb-al-quran-uncommon-words",
+      "qualityId": "high",
+      "latencyMs": 249,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 179,
+      "stationSlug": "quran-studies-radio-ghareeb-al-quran-uncommon-words",
+      "qualityId": "medium",
+      "latencyMs": 252,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 179,
+      "stationSlug": "quran-studies-radio-ghareeb-al-quran-uncommon-words",
+      "qualityId": "low",
+      "latencyMs": 288,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 180,
+      "stationSlug": "quran-radio-badr-al-turki",
+      "qualityId": "high",
+      "latencyMs": 93,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 180,
+      "stationSlug": "quran-radio-badr-al-turki",
+      "qualityId": "medium",
+      "latencyMs": 82,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 180,
+      "stationSlug": "quran-radio-badr-al-turki",
+      "qualityId": "low",
+      "latencyMs": 316,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 181,
+      "stationSlug": "quran-radio-hazza-al-balushi",
+      "qualityId": "high",
+      "latencyMs": 344,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 181,
+      "stationSlug": "quran-radio-hazza-al-balushi",
+      "qualityId": "medium",
+      "latencyMs": 203,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 181,
+      "stationSlug": "quran-radio-hazza-al-balushi",
+      "qualityId": "low",
+      "latencyMs": 73,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 182,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "high",
+      "latencyMs": 302,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 182,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "medium",
+      "latencyMs": 256,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 182,
+      "stationSlug": "translation-of-quran-meanings",
+      "qualityId": "low",
+      "latencyMs": 322,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 183,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "high",
+      "latencyMs": 490,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 183,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "medium",
+      "latencyMs": 378,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 183,
+      "stationSlug": "quran-radio-sayed-ramadan",
+      "qualityId": "low",
+      "latencyMs": 72,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 184,
+      "stationSlug": "quran-radio-sherzad-abdul-rahman-taher",
+      "qualityId": "high",
+      "latencyMs": 57,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 184,
+      "stationSlug": "quran-radio-sherzad-abdul-rahman-taher",
+      "qualityId": "medium",
+      "latencyMs": 431,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 184,
+      "stationSlug": "quran-radio-sherzad-abdul-rahman-taher",
+      "qualityId": "low",
+      "latencyMs": 140,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 185,
+      "stationSlug": "quran-radio-saber-abdul-hakam",
+      "qualityId": "high",
+      "latencyMs": 88,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 185,
+      "stationSlug": "quran-radio-saber-abdul-hakam",
+      "qualityId": "medium",
+      "latencyMs": 188,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 185,
+      "stationSlug": "quran-radio-saber-abdul-hakam",
+      "qualityId": "low",
+      "latencyMs": 94,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 186,
+      "stationSlug": "quran-radio-saleh-al-sahood",
+      "qualityId": "high",
+      "latencyMs": 274,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 186,
+      "stationSlug": "quran-radio-saleh-al-sahood",
+      "qualityId": "medium",
+      "latencyMs": 492,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 186,
+      "stationSlug": "quran-radio-saleh-al-sahood",
+      "qualityId": "low",
+      "latencyMs": 216,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 187,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "high",
+      "latencyMs": 113,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 187,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "medium",
+      "latencyMs": 66,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 187,
+      "stationSlug": "quran-radio-saleh-al-habdan",
+      "qualityId": "low",
+      "latencyMs": 142,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 188,
+      "stationSlug": "quran-radio-saleh-al-fawzan",
+      "qualityId": "high",
+      "latencyMs": 103,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 188,
+      "stationSlug": "quran-radio-saleh-al-fawzan",
+      "qualityId": "medium",
+      "latencyMs": 301,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 188,
+      "stationSlug": "quran-radio-saleh-al-fawzan",
+      "qualityId": "low",
+      "latencyMs": 490,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 189,
+      "stationSlug": "quran-radio-tariq-abdul-ghani-daob",
+      "qualityId": "high",
+      "latencyMs": 74,
+      "uptimeScore": 0.99,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 189,
+      "stationSlug": "quran-radio-tariq-abdul-ghani-daob",
+      "qualityId": "medium",
+      "latencyMs": 324,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 189,
+      "stationSlug": "quran-radio-tariq-abdul-ghani-daob",
+      "qualityId": "low",
+      "latencyMs": 254,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 190,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "high",
+      "latencyMs": 147,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 190,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "medium",
+      "latencyMs": 341,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 190,
+      "stationSlug": "quran-radio-adel-al-kalbani",
+      "qualityId": "low",
+      "latencyMs": 408,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 191,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "high",
+      "latencyMs": 171,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 191,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "medium",
+      "latencyMs": 158,
+      "uptimeScore": 0.97,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 191,
+      "stationSlug": "quran-radio-adel-rayan",
+      "qualityId": "low",
+      "latencyMs": 123,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 192,
+      "stationSlug": "quran-radio-abdul-bari-al-thubaity",
+      "qualityId": "high",
+      "latencyMs": 423,
+      "uptimeScore": 0.95,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 192,
+      "stationSlug": "quran-radio-abdul-bari-al-thubaity",
+      "qualityId": "medium",
+      "latencyMs": 430,
+      "uptimeScore": 0.98,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    },
+    {
+      "stationId": 192,
+      "stationSlug": "quran-radio-abdul-bari-al-thubaity",
+      "qualityId": "low",
+      "latencyMs": 358,
+      "uptimeScore": 0.96,
+      "lastChecked": "2026-03-15T20:55:14Z",
+      "region": "global"
+    }
+  ]
+}

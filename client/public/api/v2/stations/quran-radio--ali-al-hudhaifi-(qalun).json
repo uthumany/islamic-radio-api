@@ -1,0 +1,53 @@
+{
+  "id": 51,
+  "slug": "quran-radio--ali-al-hudhaifi-(qalun)",
+  "name": "Quran Radio — Ali Al-Hudhaifi (Qalun)",
+  "nameAr": "إذاعة علي الحذيفي",
+  "description": "Stream Ali Al-Hudhaifi reciting in Qalun narration, ideal for learners of qira'at and devoted listeners.",
+  "country": "Saudi Arabia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Qira'at",
+    "Qalun",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094246/radio_stations_v2/radio_station_051.jpg",
+  "frequency": "FM 96.51"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 179,
+  "slug": "quran-studies-radio-ghareeb-al-quran-uncommon-words",
+  "name": "Quran Studies Radio — Ghareeb Al-Quran (Uncommon Words)",
+  "nameAr": "تفسير غريب القرآن",
+  "description": "Listen to explanations of uncommon Quranic words (Ghareeb Al-Quran) in audio—great for deeper understanding.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Quran Studies",
+    "Tafsir",
+    "Islamic Education"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/gareeb-quran"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/gareeb-quran"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/gareeb-quran"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150317/radio_stations/station_109080_tafsir_ghareeb.jpg",
+  "frequency": "FM 96.179"
+}

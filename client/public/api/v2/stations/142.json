@@ -1,0 +1,51 @@
+{
+  "id": 142,
+  "slug": "seerah-radio-the-concise-prophetic-biography",
+  "name": "Seerah Radio — The Concise Prophetic Biography",
+  "nameAr": "المختصر في السيرة النبوية",
+  "description": "Stream a concise Seerah audio series—clear, accessible lessons from the life of Prophet Muhammad (peace be upon him).",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Seerah",
+    "Islamic Education",
+    "Lectures"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150542/radio_stations/station_21119_seerah_abridged.jpg",
+  "frequency": "FM 96.142"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 155,
+  "slug": "quran-translation-english-walk-through-translation",
+  "name": "Quran Translation (English) — Walk-through Translation",
+  "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-",
+  "description": "Stream an English walk-through translation of Quran meanings—ideal for guided listening, learning, and reflection.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Quran Translation",
+    "English",
+    "Islamic Education",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150297/radio_stations/station_109052_translation_english_walk.jpg",
+  "frequency": "FM 96.155"
+}

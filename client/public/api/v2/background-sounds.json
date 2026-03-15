@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/v2",
+  "timestamp": "2026-03-15T20:54:45Z",
+  "sounds": [
+    {
+      "id": "rain",
+      "label": "Rain ambience",
+      "category": "nature",
+      "loopUrl": "https://cdn.noorfm.cloud/bg/rain-loop.mp3",
+      "volume": 0.35
+    },
+    {
+      "id": "night",
+      "label": "Night ambience",
+      "category": "nature",
+      "loopUrl": "https://cdn.noorfm.cloud/bg/night-loop.mp3",
+      "volume": 0.3
+    },
+    {
+      "id": "white-noise",
+      "label": "Soft white noise",
+      "category": "focus",
+      "loopUrl": "https://cdn.noorfm.cloud/bg/white-noise-loop.mp3",
+      "volume": 0.25
+    }
+  ]
+}

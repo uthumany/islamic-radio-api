@@ -1,0 +1,52 @@
+{
+  "id": 160,
+  "slug": "quran-translation-chinese",
+  "name": "Quran Translation (Chinese)",
+  "nameAr": "ترجمة معاني القرآن باللغة الصينية",
+  "description": "Listen to Chinese translation of Quran meanings in audio—simple streaming for learning, understanding, and reflection.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Quran Translation",
+    "Chinese",
+    "Islamic Education",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150301/radio_stations/station_109057_translation_chinese.jpg",
+  "frequency": "FM 96.160"
+}

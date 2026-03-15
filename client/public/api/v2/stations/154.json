@@ -1,0 +1,52 @@
+{
+  "id": 154,
+  "slug": "quran-translation-english-basfar",
+  "name": "Quran Translation (English) — Basfar",
+  "nameAr": "ترجمة معاني القرآن باللغة الإنجليزية",
+  "description": "Listen to English translation of Quran meanings (Basfar stream) in audio—simple, clear understanding for listeners.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Quran Translation",
+    "English",
+    "Islamic Education",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150297/radio_stations/station_109051_translation_english_basfar.jpg",
+  "frequency": "FM 96.154"
+}

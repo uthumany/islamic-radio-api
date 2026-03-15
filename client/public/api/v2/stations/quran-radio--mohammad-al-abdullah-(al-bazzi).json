@@ -1,0 +1,53 @@
+{
+  "id": 76,
+  "slug": "quran-radio--mohammad-al-abdullah-(al-bazzi)",
+  "name": "Quran Radio — Mohammad Al-Abdullah (Al-Bazzi)",
+  "nameAr": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+  "description": "Listen to Mohammad Al-Abdullah reciting with Al-Bazzi narration, a beautiful qira'at stream for learners and listeners.",
+  "country": "Kuwait",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Qira'at",
+    "Al-Bazzi",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094266/radio_stations_v2/radio_station_076.jpg",
+  "frequency": "FM 96.76"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "version": "1.0.0",
+  "timestamp": "2026-03-15T20:54:45Z",
+  "stationBackgrounds": [
+    {
+      "stationId": 1,
+      "slug": "holy-quran-radio-cairo",
+      "supportedSounds": [
+        "rain",
+        "night",
+        "white-noise"
+      ],
+      "recommendedDefaultSound": null
+    }
+  ]
+}

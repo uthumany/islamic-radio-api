@@ -1,0 +1,51 @@
+{
+  "id": 49,
+  "slug": "quran-radio-abdulwadood-haneef",
+  "name": "Quran Radio — Abdulwadood Haneef",
+  "nameAr": "إذاعة عبدالودود حنيف",
+  "description": "Stream Quran recitation by Abdulwadood Haneef with a calm tone and clear articulation for daily listening.",
+  "country": "Saudi Arabia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094244/radio_stations_v2/radio_station_049.jpg",
+  "frequency": "FM 96.49"
+}

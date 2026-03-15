@@ -1,0 +1,51 @@
+{
+  "id": 5,
+  "slug": "quran-radio--ibrahim-al-akhdar",
+  "name": "Quran Radio — Ibrahim Al-Akhdar",
+  "nameAr": "إذاعة إبراهيم الأخضر",
+  "description": "Listen to serene Quran recitation by Ibrahim Al-Akhdar in high-quality streaming audio for daily reflection and worship.",
+  "country": "Saudi Arabia",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094208/radio_stations_v2/radio_station_005.jpg",
+  "frequency": "FM 96.5"
+}

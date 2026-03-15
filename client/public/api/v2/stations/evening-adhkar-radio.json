@@ -1,0 +1,52 @@
+{
+  "id": 140,
+  "slug": "evening-adhkar-radio",
+  "name": "Evening Adhkar Radio",
+  "nameAr": "أذكار المساء",
+  "description": "Stream Evening Adhkar audio—daily remembrances for peace, protection, and reflection at the end of the day.",
+  "country": "International",
+  "language": "Arabic",
+  "genre": [
+    "Adhkar",
+    "Dua",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/athkar_masa"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/athkar_masa"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/athkar_masa"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1772150322/radio_stations/station_10911_adhkar_al_masa.jpg",
+  "frequency": "FM 96.140"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 20,
+  "slug": "quran-radio-khalifa-al-tunaiji",
+  "name": "Quran Radio — Khalifa Al-Tunaiji",
+  "nameAr": "إذاعة خليفة الطنيجي",
+  "description": "Listen to Quran recitation by Khalifa Al-Tunaiji with a soft, measured tone suitable for daily worship and calm.",
+  "country": "United Arab Emirates",
+  "language": "Arabic",
+  "genre": [
+    "Quran Recitation",
+    "Islamic",
+    "Spiritual"
+  ],
+  "qualities": [
+    {
+      "id": "low",
+      "label": "Low (32 kbps)",
+      "bitrate": 32,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji"
+    },
+    {
+      "id": "medium",
+      "label": "Medium (64 kbps)",
+      "bitrate": 64,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji"
+    },
+    {
+      "id": "high",
+      "label": "High (128 kbps)",
+      "bitrate": 128,
+      "codec": "mp3",
+      "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji"
+    }
+  ],
+  "recommendedDefaultQuality": "high",
+  "website": "",
+  "status": "active",
+  "lastChecked": "2025-12-06T16:15:00Z",
+  "tags": [
+    "quran-only",
+    "24-7"
+  ],
+  "mood": [
+    "focus",
+    "relax"
+  ],
+  "img": "https://res.cloudinary.com/dpuforqi8/image/upload/v1773094221/radio_stations_v2/radio_station_020.jpg",
+  "frequency": "FM 96.20"
+}
