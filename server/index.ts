@@ -8,6 +8,7 @@ import stationRouter from "./routes/stations.js";
 import playlistRouter from "./routes/playlists.js";
 import submissionRouter from "./routes/submissions.js";
 import widgetRouter from "./routes/widgets.js";
+import { setupTranscriptionWebSocket } from "./routes/transcribe.ws.js";
 import { i18nMiddleware } from "./middleware/i18n.js";
 import { startMonitor } from "./services/healthMonitor.js";
 
@@ -106,6 +107,8 @@ async function startServer() {
   });
 
   const port = process.env.PORT || 3000;
+  setupTranscriptionWebSocket(server);
+
   server.listen(port, () => {
     console.log(`Server running on http://localhost:${port}/`);
     startMonitor().catch(console.error);
