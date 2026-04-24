@@ -3,6 +3,13 @@ import { createServer } from "http";
 import path from "path";
 import { fileURLToPath } from "url";
 import https from "https";
+import healthRouter from "./routes/health.js";
+import stationRouter from "./routes/stations.js";
+import playlistRouter from "./routes/playlists.js";
+import submissionRouter from "./routes/submissions.js";
+import widgetRouter from "./routes/widgets.js";
+import { i18nMiddleware } from "./middleware/i18n.js";
+import { startMonitor } from "./services/healthMonitor.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -53,8 +60,15 @@ async function startServer() {
       : path.resolve(__dirname, "..", "dist", "public");
 
   app.use(express.static(staticPath));
+  app.use(express.json());
+  app.use(i18nMiddleware);
 
   // Primary API endpoint for radio stations
+  app.use("/api/v2/stations", stationRouter);
+  app.use("/api/v2/playlists", playlistRouter);
+  app.use("/api/v2/submissions", submissionRouter);
+  app.use("/widget", widgetRouter);
+
   app.get("/api/stations", async (_req, res) => {
     try {
       const data = await fetchStationsData();
@@ -80,7 +94,8 @@ async function startServer() {
     }
   });
 
-  // Health check endpoint
+  // Health check endpoints
+  app.use("/api/v2/health", healthRouter);
   app.get("/api/health", (_req, res) => {
     res.status(200).json({ status: "ok", timestamp: new Date().toISOString() });
   });
@@ -93,6 +108,7 @@ async function startServer() {
   const port = process.env.PORT || 3000;
   server.listen(port, () => {
     console.log(`Server running on http://localhost:${port}/`);
+    startMonitor().catch(console.error);
   });
 }
 
