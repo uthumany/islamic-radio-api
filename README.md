@@ -1,23 +1,59 @@
-# Radio Stations JSON API
+# 🎙️ Islamic Radio API — Real-Time Arabic Audio-to-Text
 
-A free, open-source JSON API providing direct access to Islamic radio station streaming URLs and comprehensive metadata. Perfect for integrating live radio streams into web applications, mobile apps, and custom streaming clients.
+A real-time Arabic audio transcription and subtitle system integrated directly into the Islamic Radio API client. As live radio audio streams play, spoken Arabic audio is captured, transcribed in real-time, and displayed as animated, synchronized subtitles with word-by-word highlighting.
+
+---
+
+## 🚀 Live Transcription Endpoint
+
+**Unified Real-Time Transcription Endpoint:**
+```
+ws://islamic-radio-api.uthumany.com/ws/transcribe
+```
+> This single URL handles the WebSocket connection for raw PCM audio streaming and returns word-timestamped Arabic transcription in real-time.
+
+---
+
+## 🛠️ Technical Details: Web Audio API Integration
+
+The system leverages the **Web Audio API** to provide a high-performance pipeline for capturing live radio streams and preparing them for real-time transcription.
+
+### 1. Audio Graph Architecture
+The system utilizes a non-blocking audio graph that taps into the existing `<audio>` element without interfering with the user's listening experience.
+
+| Component | Role |
+| :--- | :--- |
+| **MediaElementAudioSourceNode** | Captures the raw audio output from the HTML5 audio element. |
+| **AudioWorkletNode** | Executes a custom `AudioProcessor` in a separate background thread (audio render thread) to prevent UI lag. |
+| **AudioContext** | Orchestrates the graph and enforces a strict **16kHz sample rate**, optimal for the OpenAI Whisper model. |
+
+### 2. Real-Time PCM Processing
+To ensure compatibility with the ASR (Automatic Speech Recognition) backend, the raw audio is processed through several stages:
+
+*   **Thread Isolation**: Unlike the deprecated `ScriptProcessorNode`, the `AudioWorklet` runs outside the main JavaScript thread, ensuring glitch-free audio capture even during heavy UI rendering.
+*   **Format Conversion**: Browser-native `Float32Array` samples are converted into **16-bit Signed Integer PCM** (`Int16Array`) to reduce bandwidth and match the backend's expected format.
+*   **Zero-Copy Transfer**: Audio chunks are sent from the worklet to the main thread using `postMessage` with **Transferable Objects**, minimizing CPU overhead by transferring memory ownership rather than cloning data.
+
+### 3. Synchronization and Buffering
+The integration manages the balance between live streaming and transcription latency:
+
+*   **Delay Compensation**: A manual offset (in milliseconds) is integrated into the client-side state, allowing users to perfectly sync highlights if the stream buffer lags.
+*   **Dual-Buffering Strategy**: Small 250ms chunks are captured by the worklet for steady streaming, while the server-side relay aggregates these into larger windows for the Whisper model to maintain context and accuracy.
+*   **Time-Update Loop**: The system listens to the `timeupdate` event of the audio element to drive the highlight engine, calculating `active`, `spoken`, or `pending` states for every word.
+
+---
 
 ## 📱 API Endpoints
 
 ### Primary JSON API Endpoint
-
 **Get All Radio Stations:**
 ```
 https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/stations.json
 ```
 
-This endpoint returns a complete JSON array of all available radio stations with their streaming URLs and metadata.
-
 ---
 
 ## 📋 Available Radio Stations
-
-The API provides access to the following four Islamic radio stations:
 
 | # | Station Name | Country | Stream Format | Genre |
 |---|---|---|---|---|
@@ -28,225 +64,10 @@ The API provides access to the following four Islamic radio stations:
 
 ---
 
-## 🔗 Direct Stream URLs
-
-You can use these URLs directly in any audio player or streaming application:
-
-1. **Holy Quran Radio Cairo**: `https://stream.radiojar.com/8s5u5tpdtwzuv`
-2. **Quran Radio Tafsir**: `http://66.45.232.131:9992/`
-3. **Islam2Day Radio Channel 1**: `http://islam2day.tv:3000/`
-4. **VosCast Station**: `http://station.voscast.com/5a1b3c82d8b3f/`
-
----
-
 ## 📚 Documentation
-
-**Full API Documentation:**
-```
-https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/README.md
-```
-
-This includes:
-- Complete field descriptions
-- Response format specifications
-- Usage examples in JavaScript, Python, and cURL
-- Integration patterns for React, Vue.js, and other frameworks
-- Error handling guidelines
+Full API documentation including field descriptions, response formats, and integration examples is available at `/api/README.md`.
 
 ---
 
-## 💻 Quick Integration Examples
-
-### JavaScript/Fetch
-
-```javascript
-fetch('https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/stations.json')
-  .then(response => response.json())
-  .then(data => {
-    console.log(`Found ${data.total} stations`);
-    data.stations.forEach(station => {
-      console.log(`${station.name}: ${station.streamUrl}`);
-    });
-  })
-  .catch(error => console.error('Error:', error));
-```
-
-### HTML5 Audio Player
-
-```html
-<audio controls>
-  <source src="https://stream.radiojar.com/8s5u5tpdtwzuv" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-```
-
-### Python
-
-```python
-import requests
-
-response = requests.get('https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/stations.json')
-data = response.json()
-
-for station in data['stations']:
-    print(f"{station['name']}: {station['streamUrl']}")
-```
-
-### cURL
-
-```bash
-curl https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/stations.json | jq '.stations[] | {name, streamUrl}'
-```
-
----
-
-## 🌐 GitHub Repository
-
-**Repository URL:**
-```
-https://github.com/uthumany/radio-api
-```
-
-**Repository Features:**
-- Public repository with full source code
-- Comprehensive README with examples
-- MIT-compatible project structure
-- Ready for contributions and forks
-- All files tracked in Git with commit history
-
----
-
-## 📋 JSON Response Structure
-
-The API returns data in the following format:
-
-```json
-{
-  "status": "success",
-  "version": "1.0.0",
-  "timestamp": "2025-12-06T16:15:00Z",
-  "total": 4,
-  "stations": [
-    {
-      "id": 1,
-      "name": "Holy Quran Radio Cairo",
-      "nameAr": "إذاعة القرآن الكريم من القاهرة",
-      "description": "Live Quran recitations from Cairo, Egypt",
-      "country": "Egypt",
-      "language": "Arabic",
-      "genre": ["Quran", "Islamic", "Religious"],
-      "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-      "streamFormat": "mp3",
-      "bitrate": "128",
-      "website": "https://www.holyquranradio.com/",
-      "status": "active",
-      "lastChecked": "2025-12-06T16:15:00Z"
-    }
-  ],
-  "metadata": {
-    "apiVersion": "1.0.0",
-    "updateFrequency": "weekly",
-    "license": "CC0-1.0"
-  }
-}
-```
-
----
-
-## 🚀 Deployment & Hosting
-
-The API is currently hosted on **GitHub's raw content delivery network**, which provides:
-
-- ✅ **Free hosting** - No cost, no limits
-- ✅ **High availability** - Global CDN distribution
-- ✅ **CORS enabled** - Works from any web domain
-- ✅ **Fast delivery** - Cached globally for performance
-- ✅ **No authentication** - Direct access to JSON data
-- ✅ **Version control** - Full Git history and rollback capability
-
-### Alternative Hosting Options
-
-If you want to set up GitHub Pages or other hosting platforms, you can:
-
-1. **GitHub Pages** - Enable in repository settings (Settings → Pages → Source: main branch)
-2. **Netlify** - Connect repository for automatic deployments
-3. **Vercel** - Deploy with zero configuration
-4. **Cloudflare Pages** - Global CDN with automatic deployments
-5. **Firebase Hosting** - Google's static hosting service
-
----
-
-## 🔄 How to Update the API
-
-To add new radio stations or update existing ones:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/uthumany/radio-api.git
-   cd radio-api
-   ```
-
-2. Edit the stations file:
-   ```bash
-   nano client/public/api/stations.json
-   ```
-
-3. Add or modify station entries following the existing format
-
-4. Commit and push changes:
-   ```bash
-   git add client/public/api/stations.json
-   git commit -m "Add new radio station: [Station Name]"
-   git push origin main
-   ```
-
-5. Changes will be live within seconds
-
----
-
-## ⚠️ License & Usage Rights
-
-This API is provided under the **Creative Commons Zero (CC0-1.0)** license, which means:
-
-- ✅ Free to use for any purpose (commercial or personal)
-- ✅ No attribution required
-- ✅ Can be modified and redistributed
-- ✅ No warranty or liability
-
----
-
-## 📞 Support & Contributions
-
-- **GitHub Issues**: Report bugs or request features at https://github.com/uthumany/radio-api/issues
-- **Contributions**: Pull requests are welcome! Please verify streams work before submitting
-- **Documentation**: Check `/api/README.md` for detailed API documentation
-
----
-
-## 🎯 Next Steps
-
-1. **Test the API** - Use the endpoints above to fetch and play radio streams
-2. **Integrate into your app** - Use the code examples provided
-3. **Share with others** - Fork the repository and contribute new stations
-4. **Monitor availability** - Keep an eye on stream URLs and report dead links
-
----
-
-## 📋 API Statistics
-
-- **Total Stations**: 4
-- **API Version**: 1.0.0
-- **Last Updated**: 2025-12-06
-- **Response Format**: JSON
-- **CORS Support**: Yes
-- **Rate Limiting**: None
-- **Authentication**: Not required
-
----
-
-## 🔐 Important Notes
-
-- This API provides links to third-party streaming services
-- Stream availability depends on the external providers
-- Users are responsible for ensuring compliance with applicable laws and terms of service
-- The maintainers are not responsible for stream uptime or content
+## ⚠️ License
+This API is provided under the **Creative Commons Zero (CC0-1.0)** license. Free to use for any purpose, no attribution required.
