@@ -2,6 +2,7 @@ export interface WordToken {
   word: string;
   start: number;
   end: number;
+  active?: boolean; // Added for highlighting
 }
 
 export interface SentenceBlock {
@@ -17,4 +18,5 @@ export interface TranscriptionState {
   isTranscribing: boolean;
   fontSize: "small" | "medium" | "large";
   showSubtitles: boolean;
+  delayCompensation: number; // in milliseconds
 }

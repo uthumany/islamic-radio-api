@@ -26,7 +26,8 @@ export function setupTranscriptionWebSocket(server: Server) {
 
       // If we have enough audio (e.g., 5 seconds at 16kHz mono 16-bit = 160,000 bytes)
       // For this implementation, we'll assume the client sends chunks and we transcribe every ~3 seconds
-      if (audioBuffer.length >= 96000) {
+            // 5 seconds of 16kHz mono 16-bit PCM is 160000 bytes
+      if (audioBuffer.length >= 160000) {
         const currentBuffer = audioBuffer;
         audioBuffer = Buffer.alloc(0); // Reset buffer
 

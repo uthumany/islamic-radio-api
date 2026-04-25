@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { useAudioTranscription } from "../hooks/useAudioTranscription";
+import { WordToken, SentenceBlock } from "../types/transcription";
 import { SubtitleBar } from "../components/SubtitleBar";
 import { TranscriptLog } from "../components/TranscriptLog";
 import { SubtitleControls } from "../components/SubtitleControls";
@@ -20,11 +21,14 @@ export default function Home() {
   const [currentStation, setCurrentStation] = useState<Station | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
-  const [showSubtitles, setShowSubtitles] = useState(true);
-  const [fontSize, setFontSize] = useState<"small" | "medium" | "large">("medium");
-  
   const audioRef = useRef<HTMLAudioElement | null>(null);
-  const { words, transcriptLog } = useAudioTranscription(audioRef.current);
+  const { transcriptionState, updateTranscriptionState } = useAudioTranscription(audioRef.current);
+
+  const { currentSentence, transcriptLog, showSubtitles, fontSize, delayCompensation } = transcriptionState;
+
+  const setShowSubtitles = (value: boolean) => updateTranscriptionState({ showSubtitles: value });
+  const setFontSize = (value: "small" | "medium" | "large") => updateTranscriptionState({ fontSize: value });
+  const setDelayCompensation = (value: number) => updateTranscriptionState({ delayCompensation: value });
 
   useEffect(() => {
     fetch("/api/v2/stations")
@@ -124,16 +128,22 @@ export default function Home() {
               setShowSubtitles={setShowSubtitles}
               fontSize={fontSize}
               setFontSize={setFontSize}
+              delayCompensation={delayCompensation}
+              setDelayCompensation={setDelayCompensation}
             />
 
-            <TranscriptLog log={transcriptLog} />
+            <TranscriptLog log={transcriptLog} onSentenceClick={(timestamp) => {
+              if (audioRef.current) {
+                audioRef.current.currentTime = timestamp;
+              }
+            }} />
           </div>
         </div>
       </div>
 
       <SubtitleBar
-        words={words}
-        currentTime={currentTime}
+        currentSentence={currentSentence}
+        currentTime={currentTime + delayCompensation / 1000}
         visible={showSubtitles && isPlaying}
         fontSize={fontSize}
       />

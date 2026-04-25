@@ -23,12 +23,15 @@ export async function transcribeAudio(audioBuffer: Buffer): Promise<WhisperRespo
     const response = await axios.post(WHISPER_API_URL, audioBuffer, {
       headers: {
         Authorization: `Bearer ${HF_TOKEN}`,
-        "Content-Type": "audio/wav",
+        "Content-Type": "application/octet-stream", // Raw PCM bytes
+
       },
       params: {
         task: "transcribe",
         language: "ar",
         word_timestamps: true,
+        // Other parameters as suggested in the prompt
+        beam_size: 5,
       }
     });
 

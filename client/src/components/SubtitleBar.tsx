@@ -1,15 +1,18 @@
 import React from 'react';
-import { WordToken } from '../types/transcription';
+import { useWordHighlight } from '../hooks/useWordHighlight';
+import { SentenceBlock, WordToken } from '../types/transcription';
 
 interface SubtitleBarProps {
-  words: WordToken[];
+  currentSentence: SentenceBlock | null;
   currentTime: number;
   visible: boolean;
   fontSize: "small" | "medium" | "large";
 }
 
-export const SubtitleBar: React.FC<SubtitleBarProps> = ({ words, currentTime, visible, fontSize }) => {
-  if (!visible) return null;
+export const SubtitleBar: React.FC<SubtitleBarProps> = ({ currentSentence, currentTime, visible, fontSize }) => {
+  const highlightedWords = useWordHighlight(currentSentence, currentTime);
+  
+  if (!visible || !highlightedWords) return null;
 
   const sizeClasses = {
     small: "text-lg",
@@ -17,8 +20,7 @@ export const SubtitleBar: React.FC<SubtitleBarProps> = ({ words, currentTime, vi
     large: "text-4xl"
   };
 
-  // Only show words near current time
-  const visibleWords = words.filter(w => Math.abs(currentTime - w.start) < 5);
+  const wordsToDisplay = highlightedWords;
 
   return (
     <div className="fixed bottom-24 left-0 right-0 flex justify-center p-4 pointer-events-none">
@@ -28,18 +30,15 @@ export const SubtitleBar: React.FC<SubtitleBarProps> = ({ words, currentTime, vi
           dir="rtl"
           style={{ fontFamily: "'Amiri', serif" }}
         >
-          {visibleWords.map((w, i) => {
-            const isActive = currentTime >= w.start && currentTime <= w.end;
-            const isSpoken = currentTime > w.end;
-
+          {wordsToDisplay.map((w, i) => {
             return (
               <span 
                 key={i}
-                className={`transition-all duration-200 px-1 rounded ${
-                  isActive 
-                    ? "text-yellow-400 scale-110 bg-yellow-400/10 font-bold" 
-                    : isSpoken 
-                      ? "text-white/40" 
+                className={`transition-all duration-200 px-2 py-1 rounded ${
+                  w.active 
+                    ? "text-yellow-300 scale-110 bg-yellow-400/20 font-bold shadow-lg" 
+                    : w.spoken 
+                      ? "text-white/50" 
                       : "text-white"
                 }`}
               >

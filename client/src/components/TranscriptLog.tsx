@@ -1,14 +1,24 @@
-import React from 'react';
+import React, { useRef, useEffect } from 'react';
 import { SentenceBlock } from '../types/transcription';
 import { ScrollArea } from './ui/scroll-area';
 import { Button } from './ui/button';
-import { Copy, Download } from 'lucide-react';
+import { Copy, Download, ChevronDown } from 'lucide-react';
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './ui/collapsible';
 
 interface TranscriptLogProps {
   log: SentenceBlock[];
+  onSentenceClick: (timestamp: number) => void;
 }
 
-export const TranscriptLog: React.FC<TranscriptLogProps> = ({ log }) => {
+export const TranscriptLog: React.FC<TranscriptLogProps> = ({ log, onSentenceClick }) => {
+  const scrollAreaRef = useRef<HTMLDivElement>(null);
+  const [isOpen, setIsOpen] = React.useState(true);
+
+  useEffect(() => {
+    if (scrollAreaRef.current && isOpen) {
+      scrollAreaRef.current.scrollTop = scrollAreaRef.current.scrollHeight;
+    }
+  }, [log, isOpen]);
   const copyTranscript = () => {
     const text = log.map(s => s.text).join('\n');
     navigator.clipboard.writeText(text);
@@ -25,9 +35,15 @@ export const TranscriptLog: React.FC<TranscriptLogProps> = ({ log }) => {
   };
 
   return (
-    <div className="mt-8 bg-card rounded-xl border p-4 shadow-sm">
+    <Collapsible open={isOpen} onOpenChange={setIsOpen} className="mt-8 bg-card rounded-xl border p-4 shadow-sm">
       <div className="flex justify-between items-center mb-4">
         <h3 className="font-bold text-lg">Live Transcript</h3>
+        <CollapsibleTrigger asChild>
+          <Button variant="ghost" size="sm" className="w-9 p-0">
+            <ChevronDown className={`h-4 w-4 transition-transform ${isOpen ? "rotate-180" : "rotate-0"}`} />
+            <span className="sr-only">Toggle</span>
+          </Button>
+        </CollapsibleTrigger>
         <div className="flex gap-2">
           <Button variant="outline" size="sm" onClick={copyTranscript}>
             <Copy className="w-4 h-4 mr-2" /> Copy
@@ -37,20 +53,23 @@ export const TranscriptLog: React.FC<TranscriptLogProps> = ({ log }) => {
           </Button>
         </div>
       </div>
-      <ScrollArea className="h-64 rounded-md border p-4 bg-muted/50">
-        <div className="space-y-4" dir="rtl">
-          {log.map((s, i) => (
-            <div key={i} className="flex gap-4 items-start">
-              <span className="text-xs font-mono text-muted-foreground whitespace-nowrap mt-1">
-                [{new Date(s.start * 1000).toISOString().substr(11, 8)}]
-              </span>
-              <p className="text-lg font-arabic leading-relaxed" style={{ fontFamily: "'Amiri', serif" }}>
-                {s.text}
-              </p>
-            </div>
-          ))}
-        </div>
-      </ScrollArea>
-    </div>
+      <CollapsibleContent>
+        <ScrollArea className="h-64 rounded-md border p-4 bg-muted/50" viewportRef={scrollAreaRef}>
+          <div className="space-y-4" dir="rtl">
+            {log.map((s, i) => (
+              <div key={i} className="flex gap-4 items-start cursor-pointer hover:bg-muted/70 p-2 rounded-md"
+                   onClick={() => onSentenceClick(s.start)}>
+                <span className="text-xs font-mono text-muted-foreground whitespace-nowrap mt-1">
+                  [{new Date(s.start * 1000).toISOString().substr(11, 8)}]
+                </span>
+                <p className="text-lg font-arabic leading-relaxed" style={{ fontFamily: "'Amiri', serif" }}>
+                  {s.text}
+                </p>
+              </div>
+            ))}
+          </div>
+        </ScrollArea>
+      </CollapsibleContent>
+    </Collapsible>
   );
 };

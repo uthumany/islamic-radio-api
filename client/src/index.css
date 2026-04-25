@@ -175,3 +175,147 @@
     }
   }
 }
+
+/* Arabic Subtitle Styling */
+@layer components {
+  /* RTL and Arabic text support */
+  [dir="rtl"] {
+    @apply unicode-bidi-embed;
+  }
+
+  .font-arabic {
+    @apply font-serif;
+    font-family: 'Amiri', 'Noto Naskh Arabic', serif;
+  }
+
+  /* Subtitle bar animations */
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideDown {
+    from {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out;
+  }
+
+  .animate-slide-down {
+    animation: slideDown 0.3s ease-out;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  .animate-fade-out {
+    animation: fadeOut 0.3s ease-out;
+  }
+
+  /* Word highlight states */
+  .word {
+    @apply transition-all duration-200;
+  }
+
+  .word--active {
+    @apply text-yellow-300 scale-110 bg-yellow-400/20 font-bold shadow-lg rounded px-2 py-1;
+  }
+
+  .word--spoken {
+    @apply text-white/50;
+  }
+
+  .word--pending {
+    @apply text-white;
+  }
+
+  /* Subtitle container */
+  .subtitle-container {
+    @apply fixed bottom-24 left-0 right-0 flex justify-center p-4 pointer-events-none z-50;
+  }
+
+  .subtitle-bar {
+    @apply bg-black/70 backdrop-blur-md rounded-2xl p-6 max-w-4xl w-full text-center shadow-2xl border border-white/10;
+  }
+
+  .subtitle-text {
+    @apply flex flex-wrap justify-center gap-3 direction-rtl leading-relaxed;
+  }
+
+  /* Transcript log styling */
+  .transcript-entry {
+    @apply flex gap-4 items-start cursor-pointer hover:bg-muted/70 p-2 rounded-md transition-colors;
+  }
+
+  .transcript-timestamp {
+    @apply text-xs font-mono text-muted-foreground whitespace-nowrap mt-1;
+  }
+
+  .transcript-text {
+    @apply text-lg font-arabic leading-relaxed;
+  }
+
+  /* Responsive font sizing for subtitles */
+  @media (max-width: 640px) {
+    .subtitle-bar {
+      @apply p-4 rounded-xl;
+    }
+
+    .subtitle-text {
+      @apply gap-2 text-base;
+    }
+  }
+
+  @media (min-width: 641px) and (max-width: 1024px) {
+    .subtitle-bar {
+      @apply p-5;
+    }
+
+    .subtitle-text {
+      @apply gap-2.5 text-lg;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .subtitle-bar {
+      @apply p-6;
+    }
+
+    .subtitle-text {
+      @apply gap-3 text-2xl;
+    }
+  }
+}

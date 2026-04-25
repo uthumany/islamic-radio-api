@@ -3,6 +3,7 @@ import { Button } from './ui/button';
 import { Switch } from './ui/switch';
 import { Label } from './ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from './ui/select';
+import { Input } from './ui/input';
 import { ClosedCaption } from 'lucide-react';
 
 interface SubtitleControlsProps {
@@ -10,6 +11,8 @@ interface SubtitleControlsProps {
   setShowSubtitles: (show: boolean) => void;
   fontSize: "small" | "medium" | "large";
   setFontSize: (size: "small" | "medium" | "large") => void;
+  delayCompensation: number;
+  setDelayCompensation: (delay: number) => void;
 }
 
 export const SubtitleControls: React.FC<SubtitleControlsProps> = ({
@@ -42,6 +45,17 @@ export const SubtitleControls: React.FC<SubtitleControlsProps> = ({
             <SelectItem value="large">Large</SelectItem>
           </SelectContent>
         </Select>
+      </div>
+
+      <div className="flex items-center space-x-2">
+        <Label htmlFor="delay-compensation">Delay (ms)</Label>
+        <Input
+          id="delay-compensation"
+          type="number"
+          value={delayCompensation}
+          onChange={(e) => setDelayCompensation(parseFloat(e.target.value))}
+          className="w-24"
+        />
       </div>
     </div>
   );
