@@ -2,6 +2,55 @@
 
 A real-time Arabic audio transcription and subtitle system integrated directly into the Islamic Radio API client. As live radio audio streams play, spoken Arabic audio is captured, transcribed in real-time, and displayed as animated, synchronized subtitles with word-by-word highlighting.
 
+## 🎯 Live Demo Application
+
+**[🔗 View the Real-Time Arabic Transcription Demo](https://github.com/uthumany/arabic-transcription-demo)**
+
+A fully-featured React application showcasing the Islamic Radio API with real-time transcription capabilities:
+
+### Demo Features:
+- ✅ Real-time Arabic speech-to-text using OpenAI Whisper
+- ✅ Word-by-word synchronization with audio playback  
+- ✅ Full RTL typography support with Quranic diacritics
+- ✅ Live subtitle display with customizable font sizes
+- ✅ Station health monitoring with latency indicators
+- ✅ Multi-language interface (English, Arabic, French, Urdu, Malay)
+- ✅ Transcript export (copy/download)
+- ✅ Fallback demo mode when API unavailable
+
+### Quick Demo Setup:
+
+```bash
+# Clone the demo repository
+git clone https://github.com/uthumany/arabic-transcription-demo.git
+cd arabic-transcription-demo
+
+# Install dependencies
+pnpm install
+
+# Start development server
+pnpm run dev
+```
+
+Visit `http://localhost:3000` to see the demo in action.
+
+### Integrate with API Server:
+
+1. Start the Islamic Radio API:
+   ```bash
+   npm run dev  # Runs on http://localhost:3001
+   ```
+
+2. Configure the demo app (`.env.local`):
+   ```env
+   VITE_API_URL=http://localhost:3001/api/v2
+   VITE_WS_URL=ws://localhost:3001
+   ```
+
+3. The demo will display live stations and real-time transcription
+
+See the [Demo README](https://github.com/uthumany/arabic-transcription-demo/blob/main/README.md) for complete setup instructions.
+
 ---
 
 ## 🚀 Live Transcription Endpoint
@@ -65,7 +114,15 @@ https://raw.githubusercontent.com/uthumany/radio-api/main/client/public/api/stat
 ---
 
 ## 📚 Documentation
+
+### API Documentation
 Full API documentation including field descriptions, response formats, and integration examples is available at `/api/README.md`.
+
+### Demo Application Documentation
+Comprehensive setup and integration guide: [Demo README](https://github.com/uthumany/arabic-transcription-demo/blob/main/README.md)
+
+### API Integration Guide
+Detailed technical documentation for connecting to the transcription API: [API_INTEGRATION.md](https://github.com/uthumany/arabic-transcription-demo/blob/main/API_INTEGRATION.md)
 
 ---
 
