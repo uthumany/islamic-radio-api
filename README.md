@@ -2,9 +2,13 @@
 
 A real-time Arabic audio transcription and subtitle system integrated directly into the Islamic Radio API client. As live radio audio streams play, spoken Arabic audio is captured, transcribed in real-time, and displayed as animated, synchronized subtitles with word-by-word highlighting.
 
-## 🎯 Live Demo Application
+## 🌟 Live Demo Application
 
-**[🔗 View the Real-Time Arabic Transcription Demo](https://github.com/uthumany/arabic-transcription-demo)**
+### 🚀 Try It Live
+**[🔗 Visit the Live Demo](https://arabic-transcription.netlify.app/)** - No setup required! Access the application instantly from your browser.
+
+### 💻 View Source Code
+**[GitHub Repository](https://github.com/uthumany/arabic-transcription-demo)** - Full source code and documentation available on GitHub.
 
 A fully-featured React application showcasing the Islamic Radio API with real-time transcription capabilities:
 
@@ -18,7 +22,7 @@ A fully-featured React application showcasing the Islamic Radio API with real-ti
 - ✅ Transcript export (copy/download)
 - ✅ Fallback demo mode when API unavailable
 
-### Quick Demo Setup:
+### Local Development Setup:
 
 ```bash
 # Clone the demo repository
@@ -34,7 +38,7 @@ pnpm run dev
 
 Visit `http://localhost:3000` to see the demo in action.
 
-### Integrate with API Server:
+### Connect to Your API Server:
 
 1. Start the Islamic Radio API:
    ```bash
@@ -47,9 +51,9 @@ Visit `http://localhost:3000` to see the demo in action.
    VITE_WS_URL=ws://localhost:3001
    ```
 
-3. The demo will display live stations and real-time transcription
+3. The demo will automatically connect and display live stations with real-time transcription
 
-See the [Demo README](https://github.com/uthumany/arabic-transcription-demo/blob/main/README.md) for complete setup instructions.
+**Full Documentation**: See the [Demo README](https://github.com/uthumany/arabic-transcription-demo/blob/main/README.md) for complete setup and integration instructions.
 
 ---
 
